@@ -32,7 +32,7 @@
 
 
 
-  <title>Global Tiger Solutions</title>
+  <title>Global Tiger Solutions | Contact Us</title>
 
 
 
