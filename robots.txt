@@ -1,0 +1,5 @@
+# Allow all user agents to access the entire site
+User-agent: *
+Allow: /
+
+Sitemap: http://www.tigerconsulting.net/sitemap.xml

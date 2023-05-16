@@ -1,0 +1,27 @@
+[14-Dec-2021 01:43:16 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/cisco.php on line 178
+[14-Dec-2021 01:43:16 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/cisco.php on line 178
+[14-Dec-2021 01:43:16 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/globalti/public_html/partners/networking/cisco.php on line 178
+[14-Dec-2021 05:02:55 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/cisco.php on line 178
+[14-Dec-2021 05:02:55 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/cisco.php on line 178
+[14-Dec-2021 05:02:55 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/globalti/public_html/partners/networking/cisco.php on line 178
+[14-Dec-2021 05:02:56 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/aruba.php on line 178
+[14-Dec-2021 05:02:56 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/aruba.php on line 178
+[14-Dec-2021 05:02:56 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/globalti/public_html/partners/networking/aruba.php on line 178
+[14-Dec-2021 05:02:57 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/hpe.php on line 214
+[14-Dec-2021 05:02:57 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/hpe.php on line 214
+[14-Dec-2021 05:02:57 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/globalti/public_html/partners/networking/hpe.php on line 214
+[14-Dec-2021 05:02:59 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/3m.php on line 216
+[14-Dec-2021 05:02:59 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/3m.php on line 216
+[14-Dec-2021 05:02:59 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/globalti/public_html/partners/networking/3m.php on line 216
+[27-Dec-2021 08:45:26 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/3m.php on line 216
+[27-Dec-2021 08:45:26 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/3m.php on line 216
+[27-Dec-2021 08:45:26 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/globalti/public_html/partners/networking/3m.php on line 216
+[27-Dec-2021 08:45:28 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/hpe.php on line 214
+[27-Dec-2021 08:45:28 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/hpe.php on line 214
+[27-Dec-2021 08:45:28 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/globalti/public_html/partners/networking/hpe.php on line 214
+[27-Dec-2021 08:45:31 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/aruba.php on line 178
+[27-Dec-2021 08:45:31 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/aruba.php on line 178
+[27-Dec-2021 08:45:31 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/globalti/public_html/partners/networking/aruba.php on line 178
+[27-Dec-2021 08:45:35 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/cisco.php on line 178
+[27-Dec-2021 08:45:35 UTC] PHP Warning:  include(../../footer.php): failed to open stream: No such file or directory in /home2/globalti/public_html/partners/networking/cisco.php on line 178
+[27-Dec-2021 08:45:35 UTC] PHP Warning:  include(): Failed opening '../../footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/globalti/public_html/partners/networking/cisco.php on line 178
