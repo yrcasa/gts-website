@@ -488,7 +488,7 @@
 
 
 
-              Bullguard Premium Protection
+              Bullguard is now part of Norton
 
 
 

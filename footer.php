@@ -14,7 +14,6 @@
             <ul class="nav-flex-column list-unstyled r">
                 <li class="nav-item mb-0">Agisoft</li>
                 <li class="nav-item mb-0">Anydesk</li>
-                <li class="nav-item mb-0">Bullguard</li>
                 <li class="nav-item mb-0">Foxit</li>
                 <li class="nav-item mb-0">Heimdal Security</li>
                 <li class="nav-item mb-0">Navicat</li>
