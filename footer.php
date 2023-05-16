@@ -1,5 +1,5 @@
 <footer id="footer">
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 py-1 my-2">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-1 my-2">
         <div class="">
             <h3 class="col mb-3">About Us</h3>
             <ul class="nav-flex-column list-unstyled">
@@ -20,6 +20,12 @@
                 <li class="nav-item mb-2 col-sm-5">Navicat</li>
                 <li class="nav-item mb-2 col-sm-5">Netgate</li>
                 <li class="nav-item mb-2 col-sm-5">Watchguard Security</li>
+            </ul>
+        </div>
+        <div class="">
+            <h3>Our Office</h3>
+            <ul class="nav-flex-column list-unstyled">
+                <li class="list-item mb-2 mx-5">Unit 3A Pet Plans Tower, 444 EDSA Guadaupe Viejo, Makati City</li>
             </ul>
         </div>
         <div class="">
