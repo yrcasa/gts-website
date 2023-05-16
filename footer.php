@@ -12,7 +12,7 @@
         <div class="">
             <h3>Our Products</h3>
             <ul class="nav-flex-column list-unstyled r">
-                <li class="nav-item mb-0">Agisoft</li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
                 <li class="nav-item mb-0">Anydesk</li>
                 <li class="nav-item mb-0">Foxit</li>
                 <li class="nav-item mb-0">Heimdal Security</li>
@@ -51,6 +51,6 @@
 
 
 
-    <div class="copyright">&copy;2023 Global Tiger Solutions, All rights reserved.</div>
+    <div class="copyright">Copyright &copy;2023 Global Tiger Solutions, All rights reserved.</div>
 
 </footer>
