@@ -5,7 +5,7 @@
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="about.php" class="text-decoration-none">Our Story</a></li>
                 <li class="nav-item mb-0"><a href="http://globaltigersolutions.com/careers.php">Careers</a></li>
-                <li class="nav-item mb-0"><a href="http://">Resources</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/products/downloads/">Resources</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Partners</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/tcsdi_products.php">Products</a></li>
             </ul>
@@ -15,12 +15,12 @@
             <h3>Our Products</h3>
             <ul class="nav-flex-column list-unstyled r">
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
-                <li class="nav-item mb-0"><a href="http://">Anydesk</a></li>
-                <li class="nav-item mb-0"><a href="http://">Foxit</a></li>
-                <li class="nav-item mb-0"><a href="http://">Heimdal Security</a></li>
-                <li class="nav-item mb-0"><a href="http://">Navicat</a></li>
-                <li class="nav-item mb-0"><a href="http://">Netgate</a></li>
-                <li class="nav-item mb-0"><a href="http://">Watchguard</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/foxit.php">Foxit</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php">Heimdal Security</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/firewall/netgate.php">Netgate</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Watchguard</a></li>
             </ul>
         </div>
 
