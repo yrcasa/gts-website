@@ -5,7 +5,9 @@
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="about.php" class="text-decoration-none">Our Story</a></li>
                 <li class="nav-item mb-0"><a href="http://globaltigersolutions.com/careers.php">Careers</a></li>
-                <li class="nav-item mb-0">Resources</li>
+                <li class="nav-item mb-0"><a href="http://">Resources</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Partners</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/tcsdi_products.php">Products</a></li>
             </ul>
         </div>
 
@@ -13,12 +15,12 @@
             <h3>Our Products</h3>
             <ul class="nav-flex-column list-unstyled r">
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
-                <li class="nav-item mb-0">Anydesk</li>
-                <li class="nav-item mb-0">Foxit</li>
-                <li class="nav-item mb-0">Heimdal Security</li>
-                <li class="nav-item mb-0">Navicat</li>
-                <li class="nav-item mb-0">Netgate</li>
-                <li class="nav-item mb-0">Watchguard</li>
+                <li class="nav-item mb-0"><a href="http://">Anydesk</a></li>
+                <li class="nav-item mb-0"><a href="http://">Foxit</a></li>
+                <li class="nav-item mb-0"><a href="http://">Heimdal Security</a></li>
+                <li class="nav-item mb-0"><a href="http://">Navicat</a></li>
+                <li class="nav-item mb-0"><a href="http://">Netgate</a></li>
+                <li class="nav-item mb-0"><a href="http://">Watchguard</a></li>
             </ul>
         </div>
 
@@ -26,11 +28,11 @@
             <h3>Our Solutions</h3>
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Endpoint Protection and CyberSecurity</a> </li>
-                <li class="nav-item mb-0">Network Security and Firewall</li>
-                <li class="nav-item mb-0">Privileged Access Management</li>
-                <li class="nav-item mb-0">Remote Access and Monitoring</li>
-                <li class="nav-item mb-0">Flight Information Display System</li>
-                <li class="nav-item mb-0">PDF Editor Software & PDF Solutions</li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php#firewall">Network Security and Firewall</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php">Privileged Access Management</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Remote Access and Monitoring</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/products/enterprise/zeus.php">Flight Information Display System</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/foxit.php">PDF Editor Software & PDF Solutions</a></li>
             </ul>
         </div>
 
