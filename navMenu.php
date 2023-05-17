@@ -57,7 +57,9 @@
 
               <li><a href="https://globaltigersolutions.com/partners/software/foxit.php">Foxit</a></li>
 
-              <li><a href="#!">Heimdal Security</a></li>			  			  			  <li><a href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a></li>
+              <li><a href="#!">Heimdal Security</a></li>			  			  			  
+              
+              <li><a href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a></li>
 
               <li><a href="https://globaltigersolutions.com/partners/firewall/netgate.php">Netgate</a></li>
 
