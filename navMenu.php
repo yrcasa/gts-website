@@ -3,7 +3,7 @@
 
         <ul>
 
-          <li class="drop-down"><a href="https://globaltigersolutions.com/index.php">Home</a></li>
+          <li class=""><a href="https://globaltigersolutions.com/index.php">Home</a></li>
 
           <li class="drop-down"><a href="https://globaltigersolutions.com/about.php">About Us</a>
 
