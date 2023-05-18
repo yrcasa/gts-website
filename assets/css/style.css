@@ -4274,11 +4274,7 @@ section {
 
 
 
-  background: linear-gradient(rgba(30, 28, 24, 0.8), rgba(30, 28, 24, 0.8)),
-
-
-
-    rgba(30, 28, 24, 0.8) url(../img/cyber-security-g45feabd30_1920.jpg) no-repeat center;
+  background: #444444;
 
 
 
@@ -4310,11 +4306,33 @@ section {
 
 
 
-  font-size: 28px;
+  font-size: 21px;
 
 
 
   font-weight: 700;
+
+
+
+  margin: 0 0 20px 0;
+
+
+
+}
+
+.cta h4 {
+
+
+
+  color: #fff;
+
+
+
+  font-size: 21px;
+
+
+
+  font-weight: 800;
 
 
 
