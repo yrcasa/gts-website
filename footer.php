@@ -13,7 +13,7 @@
 
         <div class="">
             <h3>Our Products</h3>
-            <ul class="nav-flex-column list-unstyled r">
+            <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/foxit.php">Foxit</a></li>
