@@ -622,7 +622,7 @@
 
                   <a href="partners/pcserver/lenovo.php">
 
-                    <img src="assets/img/solutions/lenovo.png" alt="lenovo">
+                    <img src="assets/img/solutions/lenovo-logo-1-1.png" alt="lenovo" width="180px" height="60px">
 
                   </a>
 
@@ -1020,7 +1020,7 @@
 
                     <a href="partners/software/phprunner.php">
 
-                      <img src="assets/img/solutions/xlinesoft.png" alt="php runner" width="160px" height="70px">
+                      <img src="assets/img/solutions/xlinesoft1.png" alt="php runner" width="160px" height="50px">
 
                     </a>
 
