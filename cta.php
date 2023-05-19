@@ -21,7 +21,7 @@
             <div class="card" style="width: 350px;">
               <img src="assets/img/higher_062519_security.png.jpg" class="card-img-top" style="height: 200px;" alt="...">
               <div class="card-body">
-                <h4 class="card-title text-muted">Endpoint Protection and Security</h4>
+                <a href="https://globaltigersolutions.com/partner.php"><h4 class="card-title text-muted">Endpoint Protection and Security</h4></a>
               </div>
             </div>
           </div>

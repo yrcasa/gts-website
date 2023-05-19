@@ -1,3 +1,4 @@
+<?php include('loader.php'); ?>
 <!DOCTYPE html>
 
 
@@ -63,7 +64,6 @@
 
 
   <title>Global Tiger Solutions | Cybersecurity and IT Distributor</title>
-
 
 
   <!-- Favicons -->

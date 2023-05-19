@@ -1,3 +1,4 @@
+<?php include('loader.php'); ?>
 <?php include "contactDetails.php"; ?>
 
 <!DOCTYPE html>
