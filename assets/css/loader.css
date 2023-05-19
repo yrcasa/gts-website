@@ -1,0 +1,59 @@
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+}
+
+.loader img {
+    width: 60px;
+    /* Adjust the size of the logo as needed */
+    height: 60px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.loader:before {
+    content: "";
+    position: absolute;
+    top: calc(50% - 40px);
+    left: calc(50% - 40px);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 8px solid #666;
+    border-color: #666 #666 #666 transparent;
+    animation: loaderAnimation 1.2s linear infinite;
+}
+
+.loader:after {
+    content: "";
+    position: absolute;
+    top: calc(50% - 40px);
+    left: calc(50% - 40px);
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 8px solid #666;
+    border-color: orange orange orange transparent;
+    animation: loaderAnimation 0.6s linear infinite;
+}
+
+@keyframes loaderAnimation {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
