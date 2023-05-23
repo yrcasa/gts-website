@@ -8,9 +8,6 @@
 
 
 
-
-
-
 <head>
 
 
@@ -23,7 +20,7 @@
 
 
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
 
@@ -438,7 +435,7 @@
 
 
 
-            <h3 class="animated fadeInDown">Panda Security Becomes WatchGuard Endpoint Security</h3>
+            <h3 class="animated fadeInDown text-center">Panda Security Becomes WatchGuard Endpoint Security</h3>
 
 
 
@@ -484,7 +481,7 @@
 
 
 
-            <h2 class="animated fadeInDown">
+            <h2 class="animated fadeInDown text-center">
 
 
 
@@ -536,7 +533,7 @@
 
 
 
-          <div class="carousel-container">
+          <div class="carousel-container text-center">
 
 
 
@@ -592,7 +589,7 @@
 
 
 
-            <h2 class="animated fadeInDown">
+            <h2 class="animated fadeInDown text-center">
 
 
 
@@ -644,7 +641,7 @@
 
 
 
-            <h2 class="animated fadeInDown">
+            <h2 class="animated fadeInDown text-center">
 
 
 
@@ -696,7 +693,7 @@
 
 
 
-            <h2 class="animated fadeInDown">
+            <h2 class="animated fadeInDown text-center">
 
 
 
@@ -752,7 +749,7 @@
 
 
 
-            <h2 class="animated fadeInDown">
+            <h2 class="animated fadeInDown text-center">
 
 
 
