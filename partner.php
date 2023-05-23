@@ -711,7 +711,7 @@
 
 
 
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+                <div class="col-lg-3 col-md-6 mt-4 mt-lg-4">
 
                   <div class="member" data-aos="fade-up" data-aos-delay="200">
 
@@ -719,7 +719,7 @@
 
                     <a href="partners/software/autodesk.php">
 
-                      <img src="assets/img/solutions/autodesk.png" alt="autodesk">
+                      <img src="assets/img/solutions/Autodesk_Logo_2021.svg.png" alt="autodesk" height="20" width="150">
 
                     </a>
 
@@ -731,13 +731,13 @@
 
 
 
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+                <div class="col-lg-3 col-md-6 mt-4 mt-lg-3">
 
                   <div class="member" data-aos="fade-up" data-aos-delay="300">
 
                     <a href="partners/software/axure.php">
 
-                      <img src="assets/img/solutions/axure.png" alt="axure">
+                      <img src="assets/img/solutions/axure1.png" alt="axure" height="40" width="140">
 
                     </a>
 
@@ -973,7 +973,7 @@
 
                     <a href="partners/software/testrail.php">
 
-                      <img src="assets/img/solutions/testrail.png" alt="testrail">
+                      <img src="assets/img/solutions/TestRail_Logo_Main_02_2x.png" alt="testrail" height="40" width="150">
 
                     </a>
 
