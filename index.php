@@ -1,4 +1,4 @@
-<?php include('loader.php'); ?>
+<?php include('loader.php') ?>
 <!DOCTYPE html>
 
 
@@ -185,7 +185,7 @@
 
 
 
-  <script>
+  <script async>
 
 
 
