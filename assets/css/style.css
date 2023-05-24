@@ -4277,7 +4277,11 @@ section {
 
 
 
-  background: #444444;
+  background: linear-gradient(rgba(30, 28, 24, 0.8), rgba(30, 28, 24, 0.8)),
+
+
+
+  rgba(30, 28, 24, 0.8) url(../assets/img/cybersecurity.jpg) no-repeat center;
 
 
 
