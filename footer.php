@@ -1,6 +1,7 @@
 <footer id="footer">
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-1 my-2 mx-5 px-5">
-        <div class="">
+    <div class="row copyright justify-content-center py-2"><img src="assets/img/tcsdi_icon.ico" alt="" srcset="" width="35px"><p class="ml-2 h4 font-weight-bold">Global Tiger Solutions</p></div>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-2 my-2 mx-5 px-5">
+        <div class="border-right">
             <h3 class="col mb-3">About Us</h3>
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="about.php" class="text-decoration-none">Our Story</a></li>
@@ -11,7 +12,7 @@
             </ul>
         </div>
 
-        <div class="">
+        <div class="border-right">
             <h3>Our Products</h3>
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
@@ -24,7 +25,7 @@
             </ul>
         </div>
 
-        <div class="">
+        <div class="border-right">
             <h3>Our Solutions</h3>
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Endpoint Protection and CyberSecurity</a> </li>
