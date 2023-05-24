@@ -11,19 +11,11 @@
 
 
 
-  
-
-
-
-    <meta charset="utf-8">
 
 
 
 
-
-
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
 
 
 
@@ -31,7 +23,7 @@
 
 
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 
 
@@ -39,7 +31,7 @@
 
 
 
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 
@@ -47,7 +39,7 @@
 
 
 
-    <meta name="Author" content="Tiger Consulting and Software Devt Inc.">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
 
 
@@ -55,7 +47,7 @@
 
 
 
-    <meta name="Description" content="Tiger Consulting values collective effort in order to achieve success.">
+  <meta name="Author" content="Tiger Consulting and Software Devt Inc.">
 
 
 
@@ -63,7 +55,7 @@
 
 
 
-    <title>About Us | Global Tiger Solutions</title>
+  <meta name="Description" content="Tiger Consulting values collective effort in order to achieve success.">
 
 
 
@@ -71,11 +63,19 @@
 
 
 
-      <!-- Favicons -->
+  <title>About Us | Global Tiger Solutions</title>
 
 
 
- 
+
+
+
+
+  <!-- Favicons -->
+
+
+
+
 
 
 
@@ -95,7 +95,7 @@
 
 
 
- <!-- Google Fonts -->
+  <!-- Google Fonts -->
 
 
 
@@ -163,7 +163,7 @@
 
 
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
 
 
 
@@ -176,13 +176,6 @@
 
 
   <script>
-
-
-
-
-
-
-
     window.dataLayer = window.dataLayer || [];
 
 
@@ -191,7 +184,9 @@
 
 
 
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() {
+      dataLayer.push(arguments);
+    }
 
 
 
@@ -207,7 +202,7 @@
 
 
 
-  
+
 
 
 
@@ -223,7 +218,6 @@
 
 
 
-        
 
 
 
@@ -231,86 +225,80 @@
 
 
 
-/* Custom Search Element API */
 
+    /* Custom Search Element API */
 
 
 
 
 
 
-  (function() {
 
+    (function() {
 
 
 
 
 
 
-    var cx = '004381368140357569196:v38j-dz2r1k';
 
+      var cx = '004381368140357569196:v38j-dz2r1k';
 
 
 
 
 
 
-    var gcse = document.createElement('script');
 
+      var gcse = document.createElement('script');
 
 
 
 
 
 
-    gcse.type = 'text/javascript';
 
+      gcse.type = 'text/javascript';
 
 
 
 
 
 
-    gcse.async = true;
 
+      gcse.async = true;
 
 
 
 
 
 
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
 
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
 
 
 
 
 
 
-    var s = document.getElementsByTagName('script')[0];
 
+      var s = document.getElementsByTagName('script')[0];
 
 
 
 
 
 
-    s.parentNode.insertBefore(gcse, s);
 
+      s.parentNode.insertBefore(gcse, s);
 
 
 
 
 
 
-  })();
 
-
-
-
-
-
-
+    })();
   </script>
 
 
@@ -359,11 +347,11 @@
 
 
 
-        <!-- <a href="index.html">GTS</a> -->
+          <!-- <a href="index.html">GTS</a> -->
 
 
 
-        <a href="index.php"><img src="assets/img/gtslogo.png" alt="" class="img-fluid"></a>
+          <a href="index.php"><img src="assets/img/gtslogo.png" alt="" class="img-fluid"></a>
 
 
 
@@ -385,7 +373,7 @@
 
       <!-- ======= Nav Menu Section ======= -->
 
-    <?php include "navMenu.php"; ?>
+      <?php include "navMenu.php"; ?>
 
 
 
@@ -423,43 +411,39 @@
 
 
 
-        <!-- Slide 1 -->
+      <!-- Slide 1 -->
 
 
 
-        <div class="carousel-item active">
+      <div class="carousel-item active">
 
 
 
-          <div class="carousel-container">
+        <div class="carousel-container">
 
 
 
-            <h2 class="animated fadeInDown">ABOUT <span>US</span></h2>
+          <h2 class="animated fadeInDown">ABOUT <span>US</span></h2>
 
 
 
-            <p class="animated fadeInUp">
+          <p class="animated fadeInUp">
 
 
 
-              <!-- Details Here  -->
+            <!-- Details Here  -->
 
 
 
-             KNOW US MORE THROUGH HERE
+            KNOW US MORE THROUGH HERE
 
 
 
-            </p>
+          </p>
 
 
 
-            <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
-
-
-
-          </div>
+          <a href="#about" class="btn-get-started animated fadeInUp scrollto">Read More</a>
 
 
 
@@ -467,83 +451,87 @@
 
 
 
-  
-
-
-
-    
-
-
-
-  
-
-
-
       </div>
 
 
 
-  <!-- Wave Effect -->
 
 
 
-      <svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
 
 
 
-        <defs>
 
 
 
-          <path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z">
 
 
 
-        </defs>
+    </div>
 
 
 
-        <g class="wave1">
+    <!-- Wave Effect -->
 
 
 
-          <use xlink:href="#wave-path" x="50" y="3" fill="rgba(255,255,255, .1)">
+    <svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
 
 
 
-        </g>
+      <defs>
 
 
 
-        <g class="wave2">
+        <path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z">
 
 
 
-          <use xlink:href="#wave-path" x="50" y="0" fill="rgba(255,255,255, .2)">
+      </defs>
 
 
 
-        </g>
+      <g class="wave1">
 
 
 
-        <g class="wave3">
+        <use xlink:href="#wave-path" x="50" y="3" fill="rgba(255,255,255, .1)">
 
 
 
-          <use xlink:href="#wave-path" x="50" y="9" fill="#fff">
+      </g>
 
 
 
-        </g>
+      <g class="wave2">
 
 
 
-      </svg> 
+        <use xlink:href="#wave-path" x="50" y="0" fill="rgba(255,255,255, .2)">
 
 
 
-  
+      </g>
+
+
+
+      <g class="wave3">
+
+
+
+        <use xlink:href="#wave-path" x="50" y="9" fill="#fff">
+
+
+
+      </g>
+
+
+
+    </svg>
+
+
+
+
 
 
 
@@ -567,23 +555,11 @@
 
 
 
-      <!-- Vision Mision Section  -->
+    <!-- Vision Mision Section  -->
 
 
 
-      <?php include "visionmission.php"?>
-
-
-
-
-
-
-
-      <!-- Core Values Section  -->
-
-
-
-      <?php include "corevalues.php"?>
+    <?php include "visionmission.php" ?>
 
 
 
@@ -591,15 +567,27 @@
 
 
 
-      <!-- About Global Tiger Section  -->
+    <!-- Core Values Section  -->
 
 
 
-      <section id="about" class="about">
+    <?php include "corevalues.php" ?>
 
 
 
-        <div class="container">
+
+
+
+
+    <!-- About Global Tiger Section  -->
+
+
+
+    <section id="about" class="about">
+
+
+
+      <div class="container">
 
 
 
@@ -631,47 +619,39 @@
 
 
 
-            <div class="col-lg-6">
+          <div class="col-lg-6">
 
 
 
-                <img src="assets/img/gtslogo.png" alt="Global Tiger Solutions">
+            <img src="assets/img/gtslogo.png" alt="Global Tiger Solutions">
 
 
 
-            </div>
-
-
-
-
-
-
-
-            <div class="col-lg-6 pt-4 pt-lg-0">
-
-
-
-                  <p><strong>Global Tiger Solutions</strong> is a 100% Filipino-owned information technology consulting, systems integration, outsourcing, and solutions provider headquartered in Makati City, Philippines</p>
-
-
-
-                  <p>Founded in 2008 as an IT consulting firm, the company soon began branching into new markets. Services provided by TCSDI as of 2017 include application services, business consulting, business process services, IT infrastructure services, IT outsourcing services, and systems integration services, among others.</p>
-
-
-
-                  <p>We use innovative engagement models, balancing a sophisticated understanding of business with a close attention to detail, to custom-design our services and meet our client's offshore development needs.</p>
-
-
-
-            </div>
-
-
-
-        </div>
+          </div>
 
 
 
 
+
+
+
+          <div class="col-lg-6 pt-4 pt-lg-0">
+
+
+
+            <p><strong>Global Tiger Solutions</strong> is a 100% Filipino-owned information technology consulting, systems integration, outsourcing, and solutions provider headquartered in Makati City, Philippines</p>
+
+
+
+            <p>Founded in 2008 as an IT consulting firm, the company soon began branching into new markets. Services provided by TCSDI as of 2017 include application services, business consulting, business process services, IT infrastructure services, IT outsourcing services, and systems integration services, among others.</p>
+
+
+
+            <p>We use innovative engagement models, balancing a sophisticated understanding of business with a close attention to detail, to custom-design our services and meet our client's offshore development needs.</p>
+
+
+
+          </div>
 
 
 
@@ -679,7 +659,15 @@
 
 
 
-      </section>
+
+
+
+
+      </div>
+
+
+
+    </section>
 
 
 
@@ -691,7 +679,7 @@
 
 
 
-        <?php include('cta.php'); ?>
+    <?php include('cta.php'); ?>
 
 
 
@@ -707,31 +695,11 @@
 
 
 
-          <section id="newsroom" class="newsroom">
+    <section id="newsroom" class="newsroom">
 
 
 
-          <div class="container">
-
-
-
-
-
-
-
-            <div class="section-title" data-aos="zoom-out">
-
-
-
-              <h2>Newsroom</h2>
-
-
-
-              <p>Catch-up for latest news</p>
-
-
-
-            </div>
+      <div class="container">
 
 
 
@@ -739,7 +707,27 @@
 
 
 
-              <!-- Row for the two cards for product highlights  -->
+        <div class="section-title" data-aos="zoom-out">
+
+
+
+          <h2>Newsroom</h2>
+
+
+
+          <p>Catch-up for latest news</p>
+
+
+
+        </div>
+
+
+
+
+
+
+
+        <!-- Row for the two cards for product highlights  -->
 
 
 
@@ -747,7 +735,7 @@
 
 
 
-          
+
 
 
 
@@ -755,27 +743,11 @@
 
 
 
-                <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
+          <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
 
 
 
-                  <div class="row no-gutters">
-
-
-
-
-
-
-
-                    <div class="col-md-4">
-
-
-
-                      <img src="assets/img/about-banner.jpg" height="300" class="card-img" alt="Zeus™">
-
-
-
-                    </div>
+            <div class="row no-gutters">
 
 
 
@@ -783,15 +755,31 @@
 
 
 
-                    <div class="col-md-8">
+              <div class="col-md-4">
 
 
 
-                      <div class="card-body">
+                <img src="assets/img/about-banner.jpg" height="300" class="card-img" alt="Zeus™">
 
 
 
-                        <h3 class="card-title" style="
+              </div>
+
+
+
+
+
+
+
+              <div class="col-md-8">
+
+
+
+                <div class="card-body">
+
+
+
+                  <h3 class="card-title" style="
 
 
 
@@ -807,15 +795,15 @@
 
 
 
-                        <p class="card-text"><small class="text-muted"> By TCSDI</small></p>
+                  <p class="card-text"><small class="text-muted"> By TCSDI</small></p>
 
 
 
-  
 
 
 
-                         <!-- <p class="card-text">
+
+                  <!-- <p class="card-text">
 
 
 
@@ -831,23 +819,11 @@
 
 
 
-  
 
 
 
-                        <p class="card-text"><a href="newsroom/index.php" class="btn-learn-more">See more in the newsroom</a></p>
 
-
-
-                      </div>
-
-
-
-                    </div>
-
-
-
-                  </div>
+                  <p class="card-text"><a href="newsroom/index.php" class="btn-learn-more">See more in the newsroom</a></p>
 
 
 
@@ -855,15 +831,7 @@
 
 
 
-  
-
-
-
-             </div>
-
-
-
-
+              </div>
 
 
 
@@ -871,7 +839,27 @@
 
 
 
-          </section>
+          </div>
+
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+
+      </div>
+
+
+
+    </section>
 
 
 
@@ -883,11 +871,11 @@
 
 
 
-     <!-- ======= Partner  Section ======= -->
+    <!-- ======= Partner  Section ======= -->
 
 
 
-        <?php include "partnersSlider.php";?>
+    <?php include "partnersSlider.php"; ?>
 
 
 
@@ -907,15 +895,15 @@
 
 
 
-   <!-- ======= Footer ======= -->
+  <!-- ======= Footer ======= -->
 
 
 
-     <?php include "footer.php"?>
+  <?php include "footer.php" ?>
 
 
 
-    <!-- End Footer -->
+  <!-- End Footer -->
 
 
 
@@ -931,7 +919,7 @@
 
 
 
-     <!-- Vendor JS Files -->
+  <!-- Vendor JS Files -->
 
 
 
