@@ -11,7 +11,7 @@
   <meta name="Author" content="Tiger Consulting and Software Devt Inc.">
   <!--<meta name="robots" content="index,follow">-->
   <meta name="Description" content="Tiger Consulting is a CERTIFIED partner and distributor of Heimdal Security.">
-  <meta name="keywords" content="Heimdal Security, Heimdal Security software, tcsdi Heimdal Security software, tiger Heimdal Security software, tiger consulting Heimdal Security software, Heimdal Security certified partner, certified partner Heimdal Security, certified partner of Heimdal Security, authorized distributor Heimdal Security, authorized distributor of Heimdal Security, authorized distributor Heimdal Security, authorized distributor of Heimdal Security, adobe authorized distributor, Heimdal Security authorized distributor">
+  <meta name="keywords" content="Heimdal Security, Heimdal Security software, tcsdi Heimdal Security software, tiger Heimdal Security software, tiger consulting Heimdal Security software, Heimdal Security certified partner, certified partner Heimdal Security, certified partner of Heimdal Security, authorized distributor Heimdal Security, authorized distributor of Heimdal Security, authorized distributor Heimdal Security, authorized distributor of Heimdal Security, adobe authorized distributor, Heimdal Security authorized distributor, global tiger solutions heimdal, global tiger heimdal">
   <title>Products - Heimdal Security | Global Tiger Solutions</title>
 
   <!-- Favicons -->

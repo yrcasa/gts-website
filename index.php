@@ -697,7 +697,7 @@
 
 
 
-              Netgate - Secure networking solutions, umatched value.
+              Netgate - Secure networking solutions, unmatched value.
 
 
 
