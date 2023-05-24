@@ -98,7 +98,6 @@
 <![endif]-->
 
   <script>
-
     (function(i, s, o, g, r, a, m) {
 
       i['GoogleAnalyticsObject'] = r;
@@ -124,7 +123,6 @@
     ga('create', 'UA-64201982-1', 'auto');
 
     ga('send', 'pageview');
-
   </script>
 
 </head>
@@ -159,9 +157,9 @@
 
 
 
-            <!-- ======= Nav Menu Section ======= -->
+      <!-- ======= Nav Menu Section ======= -->
 
-    <?php include "navMenu.php"; ?>
+      <?php include "navMenu.php"; ?>
 
 
 
@@ -181,7 +179,7 @@
 
       <div class="container">
 
-        
+
 
         <div class="section-sub-title text-center" data-aos="zoom-out">
 
@@ -191,99 +189,99 @@
 
 
 
-          <div class="container">
+        <div class="container">
 
 
 
-            <div class="row mt-5">
+          <div class="row mt-5">
 
 
 
-              <div class="col-lg-3 col-md-6">
+            <div class="col-lg-3 col-md-6">
 
-                <div class="member" data-aos="fade-up">
+              <div class="member" data-aos="fade-up">
 
-                  <a href="partners/endpoint/bullguard.php">
+                <a href="partners/endpoint/bullguard.php">
 
-                    <img src="assets/img/solutions/bullguard.png" alt="Bullguard">
+                  <img src="assets/img/solutions/bullguard.png" alt="Bullguard">
 
-                  </a>
-
-                </div>
+                </a>
 
               </div>
-
-
-
-              <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
-
-                <div class="member" data-aos="fade-up" data-aos-delay="100">
-
-                  <a href="partners/networking/aruba.php">
-
-                    <img src="assets/img/solutions/heimdal.png" alt="heimdal">
-
-                  </a>
-
-                </div>
-
-              </div>
-
-
-
-              <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-
-                <div class="member" data-aos="fade-up" data-aos-delay="200">
-
-                  <a href="partners/endpoint/pandasecurity.php">
-
-                    <img src="assets/img/solutions/panda.png" alt="panda">
-
-                  </a>
-
-                </div>
-
-              </div>
-
-
-
-              <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-
-                <div class="member" data-aos="fade-up" data-aos-delay="300">
-
-                  <a href="partners/networking/hpe.php">
-
-                    <img src="assets/img/solutions/watchguard.png" alt="watchguard">
-
-                  </a>
-
-                </div>
-
-              </div>
-
-
 
             </div>
 
 
 
-            <div class="w3-container" data-aos="fade-up" data-aos-delay="400"> 
+            <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
 
-              <br><br>
+              <div class="member" data-aos="fade-up" data-aos-delay="100">
 
-              <p>Our security solutions deliver the technologies required to stop advanced cyber attacks. These include Threat Prevention, Priviledged Access Management, Endpoint Detection and Response (EDR), Application Control, Vulnerability Patch Management and Ransomware Encryption Protection</p>
+                <a href="partners/networking/aruba.php">
 
-              <p> Our exclusive Zero-Trust Application Service enables continuous endpoint monitoring, detection and classification of all activity to reveal and block anomalous behaviors of users, machines and processes. While our Threat Hunting Service proactively discovers new hacking and evasion techniques and tactics. The two features-as-a-service included in our advanced endpoint security solutions to detect and classify 100% of processes running on all your endpoints.</p>
+                  <img src="assets/img/solutions/heimdal.png" alt="heimdal">
 
-              <p>Guarantee the safety and security of your home and business. Our next-gen modular PAM software also helps your organization achieve not just better cybersecurity, but also full compliance and higher productivity with the world’s leading names in cybersecurity</p>
+                </a>
+
+              </div>
 
             </div>
 
-          
+
+
+            <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+
+              <div class="member" data-aos="fade-up" data-aos-delay="200">
+
+                <a href="partners/endpoint/pandasecurity.php">
+
+                  <img src="assets/img/solutions/panda.png" alt="panda">
+
+                </a>
+
+              </div>
+
+            </div>
+
+
+
+            <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+
+              <div class="member" data-aos="fade-up" data-aos-delay="300">
+
+                <a href="partners/networking/hpe.php">
+
+                  <img src="assets/img/solutions/watchguard.png" alt="watchguard">
+
+                </a>
+
+              </div>
+
+            </div>
 
 
 
           </div>
+
+
+
+          <div class="w3-container" data-aos="fade-up" data-aos-delay="400">
+
+            <br><br>
+
+            <p>Our security solutions deliver the technologies required to stop advanced cyber attacks. These include Threat Prevention, Priviledged Access Management, Endpoint Detection and Response (EDR), Application Control, Vulnerability Patch Management and Ransomware Encryption Protection</p>
+
+            <p> Our exclusive Zero-Trust Application Service enables continuous endpoint monitoring, detection and classification of all activity to reveal and block anomalous behaviors of users, machines and processes. While our Threat Hunting Service proactively discovers new hacking and evasion techniques and tactics. The two features-as-a-service included in our advanced endpoint security solutions to detect and classify 100% of processes running on all your endpoints.</p>
+
+            <p>Guarantee the safety and security of your home and business. Our next-gen modular PAM software also helps your organization achieve not just better cybersecurity, but also full compliance and higher productivity with the world’s leading names in cybersecurity</p>
+
+          </div>
+
+
+
+
+
+        </div>
 
 
 
@@ -331,11 +329,11 @@
 
               <div class="col-lg-3 col-md-4">
 
-                
+
 
               </div>
 
-              
+
 
               <div class="col-lg-3 col-md-4">
 
@@ -363,7 +361,7 @@
 
 
 
-          
+
 
         </section><!-- End Pricing Section -->
 

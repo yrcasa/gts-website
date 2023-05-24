@@ -5,17 +5,17 @@
 
 <head>
 
-    <meta charset="utf-8">
+  <meta charset="utf-8">
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <meta name="Author" content="Tiger Consulting and Software Devt Inc.">
+  <meta name="Author" content="Tiger Consulting and Software Devt Inc.">
 
-    <meta name="Description" content="At Tiger Consulting, we provide opportunities for growth, learning and travel. Come for the job, stay for the challenge. Even the rookies get to start on our team."><!-- A brief description of the page.-->
+  <meta name="Description" content="At Tiger Consulting, we provide opportunities for growth, learning and travel. Come for the job, stay for the challenge. Even the rookies get to start on our team."><!-- A brief description of the page.-->
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-  
+
 
   <!-- Google Fonts -->
 
@@ -56,7 +56,7 @@
   <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
 
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  
+
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 
 
@@ -67,7 +67,7 @@
 
 
 
-<!-- =======================================================
+  <!-- =======================================================
 
   * Template Name: Selecao - v2.1.0
 
@@ -81,45 +81,45 @@
 
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-9144299-1"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9144299-1"></script>
 
-<script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-  window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
 
-  function gtag(){dataLayer.push(arguments);}
-
-  gtag('js', new Date());
+    gtag('js', new Date());
 
 
 
-  gtag('config', 'UA-9144299-1');
+    gtag('config', 'UA-9144299-1');
 
-        
 
-/* Custom Search Element API */
 
-  (function() {
+    /* Custom Search Element API */
 
-    var cx = '004381368140357569196:v38j-dz2r1k';
+    (function() {
 
-    var gcse = document.createElement('script');
+      var cx = '004381368140357569196:v38j-dz2r1k';
 
-    gcse.type = 'text/javascript';
+      var gcse = document.createElement('script');
 
-    gcse.async = true;
+      gcse.type = 'text/javascript';
 
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+      gcse.async = true;
 
-    var s = document.getElementsByTagName('script')[0];
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
 
-    s.parentNode.insertBefore(gcse, s);
+      var s = document.getElementsByTagName('script')[0];
 
-  })();
+      s.parentNode.insertBefore(gcse, s);
 
-</script>
+    })();
+  </script>
 
 
 
@@ -129,9 +129,9 @@
 
 
 
-<!-- ======= Header ======= -->
+  <!-- ======= Header ======= -->
 
-<header id="header" class="fixed-top d-flex align-items-center  header-transparent">
+  <header id="header" class="fixed-top d-flex align-items-center  header-transparent">
 
     <div class="container d-flex align-items-center">
 
@@ -141,9 +141,9 @@
 
         <h1 class="text-light">
 
-        <!-- <a href="index.html">GTS</a> -->
+          <!-- <a href="index.html">GTS</a> -->
 
-        <a href="index.php"><img src="assets/img/gtslogo.png" alt="" class="img-fluid"></a>
+          <a href="index.php"><img src="assets/img/gtslogo.png" alt="" class="img-fluid"></a>
 
         </h1>
 
@@ -155,9 +155,9 @@
 
 
 
-    <!-- ======= Nav Menu Section ======= -->
+      <!-- ======= Nav Menu Section ======= -->
 
-    <?php include "navMenu.php"; ?>
+      <?php include "navMenu.php"; ?>
 
 
 
@@ -177,63 +177,63 @@
 
 
 
-        <!-- Slide 1 -->
+      <!-- Slide 1 -->
 
-        <div class="carousel-item active">
+      <div class="carousel-item active">
 
-          <div class="carousel-container">
+        <div class="carousel-container">
 
-            <h2 class="animated fadeInDown">JUMPSTART YOUR CAREER WITH US!</span></h2>
+          <h2 class="animated fadeInDown">JUMPSTART YOUR CAREER WITH US!</span></h2>
 
-            <p class="animated fadeInUp">
+          <p class="animated fadeInUp">
 
-              <!-- Details Here  -->
+            <!-- Details Here  -->
 
-              Come For The Job… Stay For The Challenge... Even The Rookies Get To Start On Our Team!
+            Come For The Job… Stay For The Challenge... Even The Rookies Get To Start On Our Team!
 
-            </p>
+          </p>
 
-            <a href="#careers" class="btn-get-started animated fadeInUp scrollto">Read More</a>
-
-          </div>
+          <a href="#careers" class="btn-get-started animated fadeInUp scrollto">Read More</a>
 
         </div>
 
-  
+      </div>
+
+
 
     </div>
 
-  <!-- Wave Effect -->
+    <!-- Wave Effect -->
 
-      <svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+    <svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
 
-        <defs>
+      <defs>
 
-          <path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z">
+        <path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z">
 
-        </defs>
+      </defs>
 
-        <g class="wave1">
+      <g class="wave1">
 
-          <use xlink:href="#wave-path" x="50" y="3" fill="rgba(255,255,255, .1)">
+        <use xlink:href="#wave-path" x="50" y="3" fill="rgba(255,255,255, .1)">
 
-        </g>
+      </g>
 
-        <g class="wave2">
+      <g class="wave2">
 
-          <use xlink:href="#wave-path" x="50" y="0" fill="rgba(255,255,255, .2)">
+        <use xlink:href="#wave-path" x="50" y="0" fill="rgba(255,255,255, .2)">
 
-        </g>
+      </g>
 
-        <g class="wave3">
+      <g class="wave3">
 
-          <use xlink:href="#wave-path" x="50" y="9" fill="#fff">
+        <use xlink:href="#wave-path" x="50" y="9" fill="#fff">
 
-        </g>
+      </g>
 
-      </svg> 
+    </svg>
 
-  
+
 
   </section>
 
@@ -249,7 +249,7 @@
 
     <section id="careers" class="careers">
 
-        <div class="container">
+      <div class="container">
 
 
 
@@ -257,25 +257,25 @@
 
         <div class="row content" data-aos="fade-up">
 
-          
 
-        <!-- For Panda  -->
 
-              <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
+          <!-- For Panda  -->
 
-                <div class="row no-gutters">
+          <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
 
-                  <div class="col-md-4">
+            <div class="row no-gutters">
 
-                    <img src="assets/img/salesassociate.jpg" height="300" class="card-img" alt="Zeus™">
+              <div class="col-md-4">
 
-                  </div>
+                <img src="assets/img/salesassociate.jpg" height="300" class="card-img" alt="Zeus™">
 
-                  <div class="col-md-8">
+              </div>
 
-                    <div class="card-body">
+              <div class="col-md-8">
 
-                      <h3 class="card-title" style="
+                <div class="card-body">
+
+                  <h3 class="card-title" style="
 
                       font-weight: bold;
 
@@ -283,71 +283,71 @@
 
                       color: #111;">JUNIOR SALES ASSOCIATE</h3>
 
-                      <!-- <h4 class="card-text"> By TCSDi</h4> -->
+                  <!-- <h4 class="card-text"> By TCSDi</h4> -->
 
-                      <p class="card-text">
+                  <p class="card-text">
 
-                        <!-- Brief Description  -->
+                    <!-- Brief Description  -->
 
-                        <p>
+                  <p>
 
-                          <strong>
+                    <strong>
 
-                          Tiger Consulting is currently seeking talented Junior Sales Associates who will act in a traditional Lead Generation role to help grow the business. This is an entry level role but a high-profile position for an assertive self-directed individual seeking to fast track their sales career.
+                      Tiger Consulting is currently seeking talented Junior Sales Associates who will act in a traditional Lead Generation role to help grow the business. This is an entry level role but a high-profile position for an assertive self-directed individual seeking to fast track their sales career.
 
-                          </strong>
+                    </strong>
 
-                        </p>
+                  </p>
 
-                        <p>
+                  <p>
 
-                          If you think that you are the one we're looking for, send us your resume with picture and transcript of records at careers@tigerconsulting.net .Kindly indicate (your name - position you are applying for) as your subject.
+                    If you think that you are the one we're looking for, send us your resume with picture and transcript of records at careers@tigerconsulting.net .Kindly indicate (your name - position you are applying for) as your subject.
 
-                        </p>
+                  </p>
 
-                      </p>  
+                  </p>
 
 
-
-                    </div>
-
-                  </div>
 
                 </div>
 
               </div>
 
+            </div>
 
-
-           </div>
-
-
+          </div>
 
 
 
-           <!-- Row for the two cards for product highlights  -->
+        </div>
+
+
+
+
+
+        <!-- Row for the two cards for product highlights  -->
 
         <div class="row content" data-aos="fade-up">
 
-          
+
 
           <!-- For Panda  -->
 
-                <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
+          <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
 
-                  <div class="row no-gutters">
+            <div class="row no-gutters">
 
-                    <div class="col-md-4">
+              <div class="col-md-4">
 
-                      <img src="assets/img/ojtadminassistant.jpg" height="300" class="card-img" alt="Zeus™">
+                <img src="assets/img/ojtadminassistant.jpg" height="300" class="card-img" alt="Zeus™">
 
-                    </div>
+              </div>
 
-                    <div class="col-md-8">
+              <div class="col-md-8">
 
-                      <div class="card-body">
+                <div class="card-body">
 
-                        <h3 class="card-title" style="
+                  <h3 class="card-title" style="
 
                         font-weight: bold;
 
@@ -355,123 +355,123 @@
 
                         color: #111;">MARKET RESEARCHER (OJT)</h3>
 
-                        <!-- <h4 class="card-text"> By TCSDi</h4> -->
+                  <!-- <h4 class="card-text"> By TCSDi</h4> -->
 
-                        <p class="card-text">
+                  <p class="card-text">
 
-                          <!-- Brief Description  -->
+                    <!-- Brief Description  -->
 
-                          <p>
+                  <p>
 
-                            <strong>
+                    <strong>
 
-                             Duties and Responsibilities
+                      Duties and Responsibilities
 
-                            </strong>
+                    </strong>
 
-                          </p>
+                  </p>
 
-                            <ul>
+                  <ul>
 
-                              <li><i class="ri-check-double-line"></i>
+                    <li><i class="ri-check-double-line"></i>
 
-                              Online research and data classification
+                      Online research and data classification
 
-                              </li>
+                    </li>
 
-                              <li><i class="ri-check-double-line"></i>
+                    <li><i class="ri-check-double-line"></i>
 
-                              Organization of leads database
+                      Organization of leads database
 
-                             </li>
+                    </li>
 
-                              <li><i class="ri-check-double-line"></i>
+                    <li><i class="ri-check-double-line"></i>
 
-                              Analytical support for industry research
+                      Analytical support for industry research
 
-                             </li>
-
-                             
-
-                            </ul>
+                    </li>
 
 
 
-                          <p>
+                  </ul>
 
-                            <strong>Qualifications</strong>
 
-                            </p>
 
-                            <ul>
+                  <p>
 
-                            <li><i class="ri-check-double-line"></i>
+                    <strong>Qualifications</strong>
 
-                              Current enrollment in undergraduate course for Marketing, Communications, Business Administration or similar field
+                  </p>
 
-                              </li>
+                  <ul>
 
-                              <li><i class="ri-check-double-line"></i>
+                    <li><i class="ri-check-double-line"></i>
 
-                              Familiarity with sales, marketing and social media platforms
+                      Current enrollment in undergraduate course for Marketing, Communications, Business Administration or similar field
 
-                             </li>
+                    </li>
 
-                              <li><i class="ri-check-double-line"></i>
+                    <li><i class="ri-check-double-line"></i>
 
-                              Good understanding of the latest marketing trends and techniques
+                      Familiarity with sales, marketing and social media platforms
 
-                             </li>
+                    </li>
 
-                              <li><i class="ri-check-double-line"></i>
+                    <li><i class="ri-check-double-line"></i>
 
-                              Knows how to get around the World Wide Web
+                      Good understanding of the latest marketing trends and techniques
 
-                             </li>
+                    </li>
 
-                            </ul>
+                    <li><i class="ri-check-double-line"></i>
 
-                        </p>  
+                      Knows how to get around the World Wide Web
 
-  
+                    </li>
 
-                      </div>
+                  </ul>
 
-                    </div>
+                  </p>
 
-                  </div>
+
 
                 </div>
 
-  
+              </div>
 
-             </div>
+            </div>
+
+          </div>
 
 
 
-                 <!-- Row for the two cards for product highlights  -->
+        </div>
+
+
+
+        <!-- Row for the two cards for product highlights  -->
 
         <div class="row content" data-aos="fade-up">
 
-          
+
 
           <!-- For Panda  -->
 
-                <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
+          <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
 
-                  <div class="row no-gutters">
+            <div class="row no-gutters">
 
-                    <div class="col-md-4">
+              <div class="col-md-4">
 
-                      <img src="assets/img/itassistant.jpg" height="300" class="card-img" alt="Zeus™">
+                <img src="assets/img/itassistant.jpg" height="300" class="card-img" alt="Zeus™">
 
-                    </div>
+              </div>
 
-                    <div class="col-md-8">
+              <div class="col-md-8">
 
-                      <div class="card-body">
+                <div class="card-body">
 
-                        <h3 class="card-title" style="
+                  <h3 class="card-title" style="
 
                         font-weight: bold;
 
@@ -479,173 +479,173 @@
 
                         color: #111;">DIGITAL MARKETER (OJT)</h3>
 
-                        
 
-                        <!-- <h4 class="card-text"> By TCSDi</h4> -->
 
-                        <p class="card-text">
+                  <!-- <h4 class="card-text"> By TCSDi</h4> -->
 
-                          <!-- Brief Description  -->
+                  <p class="card-text">
 
-                          <p>
+                    <!-- Brief Description  -->
 
-                            <strong>
+                  <p>
 
-                             Duties and Responsibilities
+                    <strong>
 
-                            </strong>
+                      Duties and Responsibilities
 
-                          </p>
+                    </strong>
 
-                            <ul>
+                  </p>
 
-                            <li><i class="ri-check-double-line"></i>
+                  <ul>
 
-                              Perform market analysis and research on the latest trends
+                    <li><i class="ri-check-double-line"></i>
 
-                              </li>
+                      Perform market analysis and research on the latest trends
 
-                              <li><i class="ri-check-double-line"></i>
+                    </li>
 
-                              Passionate about technology and innovation
+                    <li><i class="ri-check-double-line"></i>
 
-                             </li>
+                      Passionate about technology and innovation
 
-                              <li><i class="ri-check-double-line"></i>
+                    </li>
 
-                              Design and present new social media campaign ideas
+                    <li><i class="ri-check-double-line"></i>
 
-                             </li>
+                      Design and present new social media campaign ideas
 
-                              <li><i class="ri-check-double-line"></i>
+                    </li>
 
-                              Monitor all social media platforms for trending news, ideas and feedback
+                    <li><i class="ri-check-double-line"></i>
 
-                             </li>
+                      Monitor all social media platforms for trending news, ideas and feedback
 
-                              <li><i class="ri-check-double-line"></i>
+                    </li>
 
-                              Prepare detailed promotional presentations
+                    <li><i class="ri-check-double-line"></i>
 
-                             </li>
+                      Prepare detailed promotional presentations
 
-                              <li><i class="ri-check-double-line"></i>
+                    </li>
 
-                              Help with planning and hosting of marketing events
+                    <li><i class="ri-check-double-line"></i>
 
-                             </li>
+                      Help with planning and hosting of marketing events
 
-                              <li><i class="ri-check-double-line"></i>
+                    </li>
 
-                              Pleasant telephone manner and interpersonal skills
+                    <li><i class="ri-check-double-line"></i>
 
-                             </li>
+                      Pleasant telephone manner and interpersonal skills
 
-                              <li><i class="ri-check-double-line"></i>
+                    </li>
 
-                              Research and evaluate competitor marketing and digital content
+                    <li><i class="ri-check-double-line"></i>
 
-                             </li>
+                      Research and evaluate competitor marketing and digital content
 
-                             
+                    </li>
 
-                            </ul>
 
 
+                  </ul>
 
-                          <p>
 
-                            <strong>Qualifications</strong>
 
-                            </p>
+                  <p>
 
-                            <ul>
+                    <strong>Qualifications</strong>
 
-                              <li><i class="ri-check-double-line"></i>
+                  </p>
 
-                              Current enrollment in undergraduate course for Marketing, Communications, Business Administration or similar field
+                  <ul>
 
-                              </li>
+                    <li><i class="ri-check-double-line"></i>
 
+                      Current enrollment in undergraduate course for Marketing, Communications, Business Administration or similar field
 
+                    </li>
 
-                              <li><i class="ri-check-double-line"></i>
 
-                              Familiarity with sales, marketing and social media platforms
 
-                              </li>
+                    <li><i class="ri-check-double-line"></i>
 
+                      Familiarity with sales, marketing and social media platforms
 
+                    </li>
 
-                              <li><i class="ri-check-double-line"></i>
 
-                              Good understanding of the latest marketing trends and techniques
 
-                              </li>
+                    <li><i class="ri-check-double-line"></i>
 
+                      Good understanding of the latest marketing trends and techniques
 
+                    </li>
 
-                              <li><i class="ri-check-double-line"></i>
 
-                              Must have a passion for sales and marketing
 
-                              </li>
+                    <li><i class="ri-check-double-line"></i>
 
+                      Must have a passion for sales and marketing
 
+                    </li>
 
-                              <li><i class="ri-check-double-line"></i>
 
-                              Graphic designing skills is a Plus!
 
-                              </li>
+                    <li><i class="ri-check-double-line"></i>
 
+                      Graphic designing skills is a Plus!
 
+                    </li>
 
-                            </ul>
 
-                        
 
-                        </p>  
+                  </ul>
 
-  
 
-                      </div>
 
-                    </div>
+                  </p>
 
-                  </div>
+
 
                 </div>
 
-  
+              </div>
 
-             </div>
+            </div>
+
+          </div>
 
 
 
-                    <!-- Row for the two cards for product highlights  -->
+        </div>
+
+
+
+        <!-- Row for the two cards for product highlights  -->
 
         <div class="row content" data-aos="fade-up">
 
-          
+
 
           <!-- For Panda  -->
 
-                <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
+          <div class="card mb-3 shadow p-3 bg-white rounded mx-auto">
 
-                  <div class="row no-gutters">
+            <div class="row no-gutters">
 
-                    <div class="col-md-4">
+              <div class="col-md-4">
 
-                      <img src="assets/img/accountingojt.jpg" height="300" class="card-img" alt="Zeus™">
+                <img src="assets/img/accountingojt.jpg" height="300" class="card-img" alt="Zeus™">
 
-                    </div>
+              </div>
 
-                    <div class="col-md-8">
+              <div class="col-md-8">
 
-                      <div class="card-body">
+                <div class="card-body">
 
-                        <h3 class="card-title" style="
+                  <h3 class="card-title" style="
 
                         font-weight: bold;
 
@@ -653,75 +653,75 @@
 
                         color: #111;">ACCOUNTING ASSISTANT (OJT)</h3>
 
-                        
-
-                        <!-- <h4 class="card-text"> By TCSDi</h4> -->
-
-                        <p class="card-text">
-
-                          <!-- Brief Description  -->
-
-                            <ul>
-
-                            <li><i class="ri-check-double-line"></i>
-
-                            Candidate must be currently pursuing a Bachelor's/College Degree in: Finance/Accountancy/Banking or equivalent
-
-                              </li>
-
-                              <li><i class="ri-check-double-line"></i>
-
-                              Applicants must be willing to work in Makati City
-
-                             </li>
-
-                              <lI><i class="ri-check-double-line"></i>
-
-                              Assist with filing, recording and maintaining accurate and complete accounting documents.
-
-                            </lI>   
-
-                              <lI><i class="ri-check-double-line"></i>
-
-                              Work as part of the Accounting team to compile and analyze data, track information and support the company.
-
-                            </lI>   
-
-                            </ul>
 
 
+                  <!-- <h4 class="card-text"> By TCSDi</h4> -->
 
-                            <P>
+                  <p class="card-text">
 
-                            If you think that you are the one we're looking for, send us your resume with picture and transcript of records at careers@tigerconsulting.net .Kindly indicate (your name - position you are applying for) as your subject.
+                    <!-- Brief Description  -->
 
-                            </P>
+                  <ul>
+
+                    <li><i class="ri-check-double-line"></i>
+
+                      Candidate must be currently pursuing a Bachelor's/College Degree in: Finance/Accountancy/Banking or equivalent
+
+                    </li>
+
+                    <li><i class="ri-check-double-line"></i>
+
+                      Applicants must be willing to work in Makati City
+
+                    </li>
+
+                    <lI><i class="ri-check-double-line"></i>
+
+                      Assist with filing, recording and maintaining accurate and complete accounting documents.
+
+                    </lI>
+
+                    <lI><i class="ri-check-double-line"></i>
+
+                      Work as part of the Accounting team to compile and analyze data, track information and support the company.
+
+                    </lI>
+
+                  </ul>
 
 
 
-                        
+                  <P>
 
-                        </p>  
+                    If you think that you are the one we're looking for, send us your resume with picture and transcript of records at careers@tigerconsulting.net .Kindly indicate (your name - position you are applying for) as your subject.
 
-  
+                  </P>
 
-                      </div>
 
-                    </div>
 
-                  </div>
+
+
+                  </p>
+
+
 
                 </div>
 
-  
+              </div>
 
-             </div>
+            </div>
+
+          </div>
 
 
 
         </div>
 
-      </section>
+
+
+      </div>
+
+    </section>
 
 
 
@@ -737,15 +737,15 @@
 
 
 
-<!-- ======= Footer ======= -->
+  <!-- ======= Footer ======= -->
 
-    <?php include "footer.php"?>
+  <?php include "footer.php" ?>
 
-<!-- End Footer -->
+  <!-- End Footer -->
 
 
 
-<!-- Vendor JS Files -->
+  <!-- Vendor JS Files -->
 
   <script src="assets/vendor/jquery/jquery.min.js"></script>
 
@@ -772,9 +772,6 @@
 
 
   <script type="text/javascript">
-
-
-
     $('.carousel').carousel({
 
       interval: 6000,
@@ -782,12 +779,9 @@
       pause: "false"
 
     });
-
-                 
-
   </script>
 
-     
+
 
 </body>
 
