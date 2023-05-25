@@ -3,7 +3,7 @@
     <div class="row row-cols-1" data-aos="zoom-out">
       <div class="text-center text-lg-center flex">
         <h3>OUR SOLUTIONS</h3>
-        <div id="carouselExample" class="carousel slide" data-bs-ride="carousel" data-interval="100">
+        <div id="carouselExample" class="carousel slide" data-bs-ride="carousel" data-interval="10">
           <div class="carousel-inner">
             <div class="carousel-item active">
               <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 py-2 my-2 mx-3">

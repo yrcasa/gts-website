@@ -1,5 +1,5 @@
 <footer id="footer">
-    <div class="row copyright justify-content-center py-2"><img src="assets/img/tcsdi_icon.ico" alt="" srcset="" width="35px"><p class="ml-2 h4 font-weight-bold">Global Tiger Solutions</p></div>
+    <div class="row copyright justify-content-center py-2"><img src="assets/img/tcsdi_icon.ico" alt="" srcset="" width="40px"><p class="ml-2 h4 font-weight-bold">Global Tiger Solutions</p></div>
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-2 my-2 mx-5 px-5">
         <div class="border-right">
             <h3 class="col mb-3">About Us</h3>
