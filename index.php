@@ -189,90 +189,22 @@
 
 
   <section id="about" class="about">
-
-
-
-    <div class="container">
-
-
-
-
-
-
-
-      <div class="section-title" data-aos="zoom-out">
-
-
-
-        <h2>About Us</h2>
-
-
-
-        <p>Who we are</p>
-
-
-
-      </div>
-
-
-
-
-
-
-
-      <div class="row content" data-aos="fade-up">
-
-
-
-        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 text-center">
-
-
-
-          <img src="assets/img/gtslogo.png" alt="Global Tiger Solutions" id="img-logo" class="img-responsive">
-
-
-
-        </div>
-
-
-
-        <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 pt-4 pt-lg-0">
-
-
-
-          <p>
-
-
-
-            Established in 2008, Global Tiger Solutions mission is to be the hub of innovation and ingenuity that produces solutions to help our customers keep up with the fast-paced environment of technology, while challenging employees to make a difference and building a thriving worldwide enterprise.
-
-
-
-          </p>
-
-
-
-          <a href="about.php" class="btn-learn-more">Learn More</a>
-
-
-
-        </div>
-
-
-
-      </div>
-
-
-
-
-
-
-
-    </div>
-
-
-
-  </section>
+	<div class="container">
+		<div class="section-title" data-aos="zoom-out">
+			<h2>About Us</h2>
+			<p>Who we are</p>
+		</div>
+		<div class="row content" data-aos="fade-up">
+			<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 text-center">
+				<img src="assets/img/gtslogo.png" alt="Global Tiger Solutions" id="img-logo" class="img-responsive">
+			</div>
+			<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 pt-4 pt-lg-0">
+				<p> Established in 2008, Global Tiger Solutions mission is to be the hub of innovation and ingenuity that produces solutions to help our customers keep up with the fast-paced environment of technology, while challenging employees to make a difference and building a thriving worldwide enterprise. </p>
+				<a href="about.php" class="btn-learn-more">Learn More</a>
+			</div>
+		</div>
+	</div>
+</section>
 
 
 
@@ -282,250 +214,65 @@
   <!-- ======= Project Section ======= --> <?php include "productHighlights.php" ?> <!-- End Project Section  -->
   <!-- ======= Contact  Section ======= -->
   <!-- <section id="contact" class="contact">
-
-
-
-      <div class="container">
-
-
-
-
-
-
-
-        <div class="section-title" data-aos="zoom-out">
-
-
-
-          <h2>Contact</h2>
-
-
-
-          <p>Contact Us</p>
-
-
-
-        </div>
-
-
-
-
-
-
-
-        <div class="row mt-5">
-
-
-
-
-
-
-
-          <div class="col-lg-4" data-aos="fade-right">
-
-
-
-            <div class="info">
-
-
-
-
-
-
-
-              <div class="address">
-
-
-
-                <i class="icofont-google-map"></i>
-
-
-
-                <h4>Location:</h4>
-
-
-
-                <p>Unit 3A PET Plans Tower, 444 EDSA, Guadalupe Viejo, Makati City, Philippines 1211</p>
-
-
-
-              </div>
-
-
-
-
-
-
-
-              <div class="email">
-
-
-
-                <i class="icofont-envelope"></i>
-
-
-
-                <h4>Email:</h4>
-
-
-
-                <p>support@tigerconsulting.net or sales@tigerconsulting.net</p>
-
-
-
-              </div>
-
-
-
-
-
-
-
-              <div class="phone">
-
-
-
-                <i class="icofont-phone"></i>
-
-
-
-                <h4>Call:</h4>
-
-
-
-                <p>+63 (2) 8352-8250</p>
-
-
-
-              </div>
-
-
-
-
-
-
-
-              <a href="contact.html" class="btn-contact animated fadeUp mt-5">Learn More</a>
-
-
-
-
-
-
-
-            </div>
-
-
-
-
-
-
-
-          </div>
-
-
-
-
-
-
-
-          <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
-
-
-
-
-
-
-
-            <div class="mapouter">
-
-
-
-              <div class="gmap_canvas">
-
-
-
-                <iframe width="800" height="600" id="gmap_canvas" src="https://maps.google.com/maps?q=Unit%203A%2C%20Pet%20Plans%20Tower%2C%20444%20Epifanio%20de%20los%20Santos%20Ave%2C%20Makati%2C%201211%20Metro%20Manila&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
-
-
-
-                </iframe>
-
-
-
-                <a href="https://www.whatismyip-address.com">whatismyip-address.com</a></div>
-
-
-
-                <style>
-
-
-
-                .mapouter{position:relative;text-align:left;height:500px;width:800px;}
-
-
-
-                .gmap_canvas {overflow:hidden;background:none!important;height:500px;width:800px;}
-
-
-
-                  
-
-
-
-                 @media only screen and (max-width: 450px) {
-
-
-
-                  iframe{
-
-
-
-                    width: 350px;
-
-
-
-                  }
-
-
-
-                 } 
-
-
-
-                </style>
-
-
-
-              </div>
-
-
-
-
-
-
-
-          </div>
-
-
-
-
-
-
-
-        </div>
-
-
-
-
-
-
-
-      </div>
-
-
-
-    </section> -->
+	<div class="container">
+		<div class="section-title" data-aos="zoom-out">
+			<h2>Contact</h2>
+			<p>Contact Us</p>
+		</div>
+		<div class="row mt-5">
+			<div class="col-lg-4" data-aos="fade-right">
+				<div class="info">
+					<div class="address">
+						<i class="icofont-google-map"></i>
+						<h4>Location:</h4>
+						<p>Unit 3A PET Plans Tower, 444 EDSA, Guadalupe Viejo, Makati City, Philippines 1211</p>
+					</div>
+					<div class="email">
+						<i class="icofont-envelope"></i>
+						<h4>Email:</h4>
+						<p>support@tigerconsulting.net or sales@tigerconsulting.net</p>
+					</div>
+					<div class="phone">
+						<i class="icofont-phone"></i>
+						<h4>Call:</h4>
+						<p>+63 (2) 8352-8250</p>
+					</div>
+					<a href="contact.html" class="btn-contact animated fadeUp mt-5">Learn More</a>
+				</div>
+			</div>
+			<div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
+				<div class="mapouter">
+					<div class="gmap_canvas">
+						<iframe width="800" height="600" id="gmap_canvas" src="https://maps.google.com/maps?q=Unit%203A%2C%20Pet%20Plans%20Tower%2C%20444%20Epifanio%20de%20los%20Santos%20Ave%2C%20Makati%2C%201211%20Metro%20Manila&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+						</iframe>
+						<a href="https://www.whatismyip-address.com">whatismyip-address.com</a>
+					</div>
+					<style>
+					.mapouter {
+						position: relative;
+						text-align: left;
+						height: 500px;
+						width: 800px;
+					}
+
+					.gmap_canvas {
+						overflow: hidden;
+						background: none !important;
+						height: 500px;
+						width: 800px;
+					}
+
+					@media only screen and (max-width: 450px) {
+						iframe {
+							width: 350px;
+						}
+					}
+					</style>
+				</div>
+			</div>
+		</div>
+	</div>
+</section> -->
   <!-- End Contact Section  -->
   <!-- ======= Partner  Section ======= -->
   <!--- include "partnersSlider.php"      WHEN REANABLING, MUST USE PHP INCLUDE SYNTAX-->
@@ -535,32 +282,17 @@
 
 
   <form action="action_page.php">
-
-    <div class="container">
-
-      <h2>Subscribe to our Newsletter</h2>
-
-    </div>
-
-
-
-    <div class="container" style="background-color:white">
-
-      <input type="text" placeholder="Name" name="name" required>
-
-      <input type="text" placeholder="Email address" name="mail" required>
-
-    </div>
-
-
-
-    <div class="container">
-
-      <input type="submit" value="Subscribe">
-
-    </div>
-
-  </form>
+	<div class="container">
+		<h2>Subscribe to our Newsletter</h2>
+	</div>
+	<div class="container" style="background-color:white">
+		<input type="text" placeholder="Name" name="name" required>
+		<input type="text" placeholder="Email address" name="mail" required>
+	</div>
+	<div class="container">
+		<input type="submit" value="Subscribe">
+	</div>
+</form>
 
 
 
