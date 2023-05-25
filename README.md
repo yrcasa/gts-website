@@ -5,5 +5,5 @@
 - [ ] Update the website
 - [ ] Remove outdated content
 - [ ] Remodeling the footer part
-- [ ] Update the copyright year
+- [x] Update the copyright year
 - [ ] Revise words
