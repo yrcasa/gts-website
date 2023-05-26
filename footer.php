@@ -1,7 +1,7 @@
 <footer id="footer">
     <div class="row copyright justify-content-center py-2"><img src="assets/img/tcsdi_icon.ico" alt="" srcset="" width="40px"><p class="ml-2 h4 font-weight-bold">Global Tiger Solutions</p></div>
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 py-2 my-2 mx-5 px-5">
-        <div class="border-right">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 row-cols-lg-8 py-2 my-2 mx-5 px-5">
+        <div id="fourth">
             <h3 class="col mb-3">About Us</h3>
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="about.php" class="text-decoration-none">Our Story</a></li>
@@ -12,7 +12,7 @@
             </ul>
         </div>
 
-        <div class="border-right">
+        <div class="" id="first">
             <h3>Our Products</h3>
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
@@ -25,7 +25,7 @@
             </ul>
         </div>
 
-        <div class="border-right">
+        <div class="" id="second">
             <h3>Our Solutions</h3>
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Endpoint Protection and CyberSecurity</a> </li>
@@ -37,7 +37,7 @@
             </ul>
         </div>
 
-        <div class="">
+        <div class="" id="third">
             <h3>Contact Us</h3>
             <ul class="nav-flex-column list-unstyled">
                 <li class="list-item mb-0"><i class="bi bi-geo-alt" style="font-size: 10px;"></i><a href="https://www.google.com/maps/place/Global+Tiger+Solutions/@14.562128,121.0405898,17z/data=!3m1!4b1!4m6!3m5!1s0x3397c91b100c8323:0xf9f0f08bfc5634bf!8m2!3d14.562128!4d121.0427785!16s%2Fg%2F11qpx18n2l"> 3rd Floor Pet Plans Tower, 444 EDSA Guadaupe Viejo, Makati City, Philippines 1211</a></li>
