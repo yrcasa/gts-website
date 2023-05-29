@@ -400,7 +400,8 @@ h6 {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding-top: 20vh;
+    /* padding-top: 20vh; */
+    margin: 0 auto;
 }
 
 #hero h2,
