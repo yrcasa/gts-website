@@ -1,10 +1,10 @@
 <section class="cta wrapper" id="cta">
   <div class="container">
-    <div class="row row-cols-1" data-aos=zoom-out>
+    <div class="row row-cols-1"">
       <div class="text-center flex text-lg-center">
-        <h3>OUR SOLUTIONS</h3>
+        <h3 data-aos="zoom-out">OUR SOLUTIONS</h3>
         <div class="carousel slide" data-bs-ride="carousel" data-interval="10" id="carouselExample">
-          <div class="carousel-inner">
+          <div class="carousel-inner" data-aos="fade-up">
             <div class="carousel-item active">
               <div class="row row-cols-1 mx-3 row-cols-md-3 my-2 py-2 row-cols-sm-1">
                 <div class="col d-flex justify-content-center mb-3">
