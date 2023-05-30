@@ -7,6 +7,21 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:title" content="Global Tiger Solutions">
+  <!-- open Graph for Sharing Posts through Social Media -->
+  <meta property="og:site_name" content="Global Tiger Solutions | Cybersecurity and IT Distributor">
+  <meta property="og:url" content="https://globaltigersolutions.com/">
+  <meta property="og:description" content="Founded in 2008, Global Tiger Solutions distributes sustainable systems, solutions, and services for a fast-paced community, emphasizing innovation, integration, and a future-present approach.">
+  <meta property="og:type" content="business.business">
+  <meta property="og:image" content="https://globaltigersolutions.com/assets/img/gtslogo.png">
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="globaltigersolutions.com">
+  <meta property="twitter:url" content="https://globaltigersolutions.com">
+  <meta name="twitter:title" content="Global Tiger Solutions | Cybersecurity and IT Distributor">
+  <meta name="twitter:description" content="Founded in 2008, Global Tiger Solutions distributes sustainable systems, solutions, and services for a fast-paced community, emphasizing innovation, integration, and a future-present approach.">
+  <meta name="twitter:image" content="https://globaltigersolutions.com/assets/img/gtslogo.png">
+
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="Author" content="Global Tiger Solutions">
   <meta name="Description" content="Global Tiger Solutions provides companies with cost-effective enterprise business solutions.">
