@@ -82,11 +82,16 @@ h1.heading {
     margin-top: 0px;
     font-weight: 700;
     font-size: 1.65em;
+    color: #333;
 }
 
 .card-title a {
     color: #000;
     text-decoration: none !important;
+}
+
+.card-title a:hover {
+    color: #ef6603;
 }
 
 .card-read-more {

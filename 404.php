@@ -11,7 +11,7 @@ http_response_code(404);
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 Not Found | Global Tiger Solutions</title>
-    <link rel="stylesheet" href="assets/css/products-style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <?php include "links.php" ?>
     <style>
         .logo-container {
@@ -48,7 +48,7 @@ http_response_code(404);
 </head>
 
 <body>
-    <header id="header" class="fixed-top d-flex align-items-center header-transparent ">
+    <header id="header" class="fixed-top d-flex align-items-center">
         <div class="container d-flex align-items-center">
             <div class="logo mr-auto">
                 <h1 class="text-light">
