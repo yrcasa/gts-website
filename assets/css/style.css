@@ -65,6 +65,7 @@ body {
 
 a {
     color: #fff;
+    text-decoration: none;
 }
 
 a:hover {
@@ -400,8 +401,8 @@ h6 {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    /* padding-top: 20vh; */
-    margin: 0 auto;
+    padding-top: 20vh;
+    /* margin: 0 auto; */
 }
 
 #hero h2,
@@ -465,7 +466,7 @@ h6 {
 #hero .carousel-item:nth-child(1),
 #hero .carousel-item:nth-child(2) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/carousel/wg-endpoint.jpg);
+        url(../img/norton.avif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -473,14 +474,14 @@ h6 {
 
 #hero .carousel-item:nth-child(2) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/carousel/bpp-bg-min.jpg);
+        url(../img/carousel/wg-endpoint.jpg);
 }
 
 #hero .carousel-item:nth-child(3),
 #hero .carousel-item:nth-child(4),
 #hero .carousel-item:nth-child(5) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/carousel/fids-new-banner.png);
+        url(../img/carousel/bpp-bg-min.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -489,19 +490,19 @@ h6 {
 #hero .carousel-item:nth-child(4),
 #hero .carousel-item:nth-child(5) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/carousel/Heimdal-Prevention.png);
+        url(../img/carousel/fids-new-banner.png);
 }
 
 #hero .carousel-item:nth-child(5) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/carousel/anydesk.jpg);
+        url(../img/carousel/Heimdal-Prevention.png);
 }
 
 #hero .carousel-item:nth-child(6),
 #hero .carousel-item:nth-child(7),
 #hero .carousel-item:nth-child(8) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/carousel/netgate-new-banner.png);
+        url(../img/carousel/anydesk.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -510,12 +511,12 @@ h6 {
 #hero .carousel-item:nth-child(7),
 #hero .carousel-item:nth-child(8) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/carousel/foxit-banner.jpg);
+        url(../img/carousel/netgate-new-banner.png);
 }
 
 #hero .carousel-item:nth-child(8) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/ojtadminassistant.jpg);
+        url(../img/carousel/foxit-banner.jpg);
 }
 
 #hero .container-fluid {
