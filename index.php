@@ -119,16 +119,26 @@
         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
       </ol>
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
         <div class="carousel-item active">
           <div class="carousel-container">
-            <h3 class="animated fadeInDown text-center">Panda Security Becomes WatchGuard Endpoint Security</h3>
+            <h3 class="animated fadeInDown text-center"> Norton Antivirus Plus and 360 Products </h3>
             <p class="animated fadeInUp">
-              <!-- Details Here --> WatchGuard Endpoint Security features the Panda Security technology you know and love, including a full stack of integrated product options with encryption, patching, remote monitoring and management, and more.
+              <!-- Details Here --> Norton: Your ultimate cybersecurity partner, providing top-notch protection and unrivaled support for a worry-free digital experience.
             </p>
-            <a href="https://www.pandasecurity.com/en/business/" target="_blank" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+            <a href="https://us.norton.com/" target="_blank" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="carousel-container">
+            <h2 class="animated fadeInDown text-center"> Panda Security Becomes WatchGuard Endpoint Security </h2>
+            <p class="animated fadeInUp">
+              <!-- Details Here  --> WatchGuard Endpoint Security features the Panda Security technology you know and love, including a full stack of integrated product options with encryption, patching, remote monitoring and management, and more.
+            </p>
+            <a href="partners/endpoint/bullguard.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
         </div>
         <div class="carousel-item">
@@ -199,7 +209,7 @@
   </section>
   <!-- End Hero -->
   <main id="main">
-  </main>
+  
   <!-- ======= Services Section ======= --> <?php include "services.php" ?> <!-- End Testimonials Section -->
   <!-- ======= About Section =======
 
