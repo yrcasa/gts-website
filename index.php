@@ -126,7 +126,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <div class="carousel-container">
-            <h3 class="animated fadeInDown text-center"> Norton Antivirus Plus and 360 Products </h3>
+            <h3 class="animated fadeInDown text-center"> Global Tiger adds award-winning Norton Cyber Safety Products to portfolio </h3>
             <p class="animated fadeInUp">
               <!-- Details Here --> Norton: Your ultimate cybersecurity partner, providing top-notch protection and unrivaled support for a worry-free digital experience.
             </p>
