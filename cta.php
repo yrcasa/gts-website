@@ -54,7 +54,7 @@
                   </div>
                 </div>
                 <div class="col d-flex justify-content-center mb-3">
-                  <div class="card" x>
+                  <div class="card">
                     <img alt=... class="img-card" src="assets\img\cta\pdf_m8z58i\pdf_m8z58i_c_scale,w_825.png" sizes="(max-width: 1400px) 100vw, 1400px" srcset="assets\img\cta\pdf_m8z58i\pdf_m8z58i_c_scale,w_200.png 200w, assets\img\cta\pdf_m8z58i\pdf_m8z58i_c_scale,w_625.png 625w, assets\img\cta\pdf_m8z58i\pdf_m8z58i_c_scale,w_825.png 825w">
                     <div class="card-content">
                       <h4 class="card-title">PDF Editor Software & PDF Solutions</h4>
@@ -76,8 +76,8 @@
   </div>
 </section>
 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+<!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script> -->
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {

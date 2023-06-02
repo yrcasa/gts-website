@@ -1,5 +1,6 @@
-<?php include('loader.php') ?>
 <!DOCTYPE html>
+<?php include('loader.php') ?>
+
 <html lang="en">
 
 

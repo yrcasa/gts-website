@@ -41,7 +41,17 @@
                 </div>
 
             </div>
-            
+            -->
+
+            <div class="project-item">
+                <img src="assets/img/solutions/norton.png" alt="Norton" srcset="" class="project-img" halign="center">
+                <p class="text-center pt-2">
+                    Your ultimate cybersecurity partner
+                </p>
+                <div style="bottom: 0;">
+                    <a href="partners/endpoint/norton.php" class="btn-learn-more">Learn More</a>
+                </div>
+            </div>
 
 
             <!-- Service 3  -->
@@ -100,7 +110,7 @@
 
                 <!-- <h3>Foxit</h3> -->
 
-                <p class="text-center">
+                <p class="text-center pt-2">
 
                     Do More with Documents
 

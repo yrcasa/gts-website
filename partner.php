@@ -91,15 +91,15 @@
           <div class="row mt-5">
             <div class="col-lg-3 col-md-6">
               <div class="member" data-aos="fade-up">
-                <a href="partners/endpoint/bullguard.php">
-                  <img src="assets/img/solutions/bullguard.png" alt="Bullguard">
+                <a href="partners/endpoint/norton.php">
+                  <img src="assets/img/solutions/norton.png" alt="Bullguard" width="200px">
                 </a>
               </div>
             </div>
             <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
               <div class="member" data-aos="fade-up" data-aos-delay="100">
-                <a href="partners/networking/aruba.php">
-                  <img src="assets/img/solutions/heimdal.png" alt="heimdal">
+                <a href="partners/endpoint/heimdalsecurity.php">
+                  <img src="assets/img/solutions/heimdal1.png" alt="heimdal" style="width: 200px;">
                 </a>
               </div>
             </div>
