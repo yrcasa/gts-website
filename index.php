@@ -116,11 +116,11 @@
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        <!-- <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li> -->
       </ol>
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
@@ -130,7 +130,7 @@
             <p class="animated fadeInUp">
               <!-- Details Here --> Norton: Your ultimate cybersecurity partner, providing top-notch protection and unrivaled support for a worry-free digital experience.
             </p>
-            <a href="https://us.norton.com/" target="_blank" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+            <a href="partners/endpoint/norton.php" target="_blank" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
         </div>
         <div class="carousel-item">
@@ -142,51 +142,51 @@
             <a href="partners/endpoint/bullguard.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
         </div>
-        <div class="carousel-item">
+        <!-- <div class="carousel-item">
           <div class="carousel-container">
             <h2 class="animated fadeInDown text-center"> Bullguard is now part of Norton </h2>
             <p class="animated fadeInUp">
-              <!-- Details Here  --> Outstanding innovation, superior protection for your devices. Now with Dynamic Machine Learning, Cloud Protection and Secure Browser.
+              Outstanding innovation, superior protection for your devices. Now with Dynamic Machine Learning, Cloud Protection and Secure Browser.
             </p>
             <a href="partners/endpoint/bullguard.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
-        </div>
-        <div class="carousel-item">
+        </div> -->
+        <!-- <div class="carousel-item">
           <div class="carousel-container text-center">
             <h2 class="animated fadeInDown"> Flight Information Display System (FIDS) </h2>
             <p class="animated fadeInUp">
-              <!-- Details Here  --> Our FIDS solution is a proudly Filipino-made product that is tailor-fitted to the Philippine landscape. With more than 5 successful airport deployments in the Philippines, no one better understands your airport’s needs like a fellow Filipino.
+              Our FIDS solution is a proudly Filipino-made product that is tailor-fitted to the Philippine landscape. With more than 5 successful airport deployments in the Philippines, no one better understands your airport’s needs like a fellow Filipino.
             </p>
             <a href="products/enterprise/zeus.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
-        </div>
-        <div class="carousel-item">
+        </div> -->
+        <!-- <div class="carousel-item">
           <div class="carousel-container">
             <h2 class="animated fadeInDown text-center"> Heimdal™ Privileged Access Management </h2>
             <p class="animated fadeInUp">
-              <!-- Details Here  --> Manage user permissions easily, handle all requests and strengthen your endpoint security with truly innovative access governance.
+                Manage user permissions easily, handle all requests and strengthen your endpoint security with truly innovative access governance.
             </p>
             <a href="partners/software/nagios.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
-        </div>
-        <div class="carousel-item">
+        </div> -->
+        <!-- <div class="carousel-item">
           <div class="carousel-container">
             <h2 class="animated fadeInDown text-center"> AnyWhere. AnyTime. AnyDesk </h2>
             <p class="animated fadeInUp">
-              <!-- Details Here  --> Connect to a computer remotely, be it from the other end of the office or halfway around the world. AnyDesk ensures secure and reliable remote desktop connections for IT professionals and on-the-go individuals alike..
+                Connect to a computer remotely, be it from the other end of the office or halfway around the world. AnyDesk ensures secure and reliable remote desktop connections for IT professionals and on-the-go individuals alike..
             </p>
             <a href="partners/remote/anydesk.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
-        </div>
-        <div class="carousel-item">
+        </div> -->
+        <!-- <div class="carousel-item">
           <div class="carousel-container">
             <h2 class="animated fadeInDown text-center"> Netgate - Secure networking solutions, unmatched value. </h2>
             <p class="animated fadeInUp">
-              <!-- Details Here  --> Taking pfSense software to the next level of edge and cloud secure networking. Developed, tested, commercially-packaged and supported by Netgate.
+              Taking pfSense software to the next level of edge and cloud secure networking. Developed, tested, commercially-packaged and supported by Netgate.
             </p>
             <a href="partners/firewall/netgate.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
-        </div>
+        </div> -->
         <div class="carousel-item">
           <div class="carousel-container">
             <h2 class="animated fadeInDown text-center"> Foxit Delivers PDF Editor 12 </h2>
