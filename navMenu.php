@@ -1,4 +1,4 @@
-<nav class="nav-menu d-none d-lg-block">
+<nav class="nav-menu d-none d-lg-block my-2">
 	<ul>
 		<li class=""><a href="https://globaltigersolutions.com/index.php">Home</a></li>
 		<li class="drop-down"><a href="https://globaltigersolutions.com/about.php">About Us</a>
@@ -9,7 +9,7 @@
 			</ul>
 		</li>
 		<li class="drop-down"><a href="https://globaltigersolutions.com/partner.php">Our Solutions</a>
-			<ul>
+			<ul class="nav-flex-column">
 				<li><a href="https://globaltigersolutions.com/partner.php">Endpoint Protection and CyberSecurity</a></li>
 				<li><a href="https://globaltigersolutions.com/partner.php#firewall">Network Security and Firewall</a></li>
 				<li><a href="#!">Privileged Access Management</a></li>
@@ -18,15 +18,17 @@
 				<li><a href="https://globaltigersolutions.com/partners/software/foxit.php">PDF Editor Software & PDF Solutions</a></li>
 			</ul>
 		</li>
-		<li class="drop-down"><a href="https://globaltigersolutions.com/partner.php">Products</a>
-			<ul>
+		<li class="drop-down"><a href="https://globaltigersolutions.com/partner.php">Brands</a>
+			<ul class="">
 				<li><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a></li>
-				<li><a href="https://globaltigersolutions.com/partners/endpoint/bullguard.php">Bullguard</a></li>
+				<li><a href="https://globaltigersolutions.com/partners/endpoint/bullguard.php">Norton</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/software/foxit.php">Foxit</a></li>
 				<li><a href="#!">Heimdal Security</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/firewall/netgate.php">Netgate</a></li>
+				<li><a href="#">Panda Security</a></li>
+				<li><a href="#">Visual Paradigm</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Watchguard</a></li>
 			</ul>
 		</li>
