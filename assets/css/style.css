@@ -555,21 +555,21 @@ h6 {
 .wave1 use,
 .wave2 use,
 .wave3 use {
-    -webkit-animation: move-forever1 10s linear infinite;
-    animation: move-forever1 10s linear infinite;
+    -webkit-animation: move-forever1 15s linear infinite;
+    animation: move-forever1 15s linear infinite;
     -webkit-animation-delay: -2s;
     animation-delay: -2s;
 }
 
 .wave2 use,
 .wave3 use {
-    -webkit-animation: move-forever2 8s linear infinite;
-    animation: move-forever2 8s linear infinite;
+    -webkit-animation: move-forever2 13s linear infinite;
+    animation: move-forever2 13s linear infinite;
 }
 
 .wave3 use {
-    -webkit-animation: move-forever3 6s linear infinite;
-    animation: move-forever3 6s linear infinite;
+    -webkit-animation: move-forever3 11s linear infinite;
+    animation: move-forever3 11s linear infinite;
 }
 
 section {

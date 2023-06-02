@@ -27,6 +27,7 @@
     <link href="../../assets/vendor/venobox/venobox.css" rel="stylesheet">
     <link href="../../assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="../../assets/vendor/aos/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <!-- Template Main CSS File -->
     <link href="../../assets/css/products-styles/partners.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -240,7 +241,7 @@
         </section>
         <!-- ======= Partner  Section ======= --> <?php include "../../subPartnersSlider.php"; ?>
     </main>
-    <!-- Footer Section  --> <?php include "../footer.php" ?>
+    <!-- Footer Section  --> <?php include "../../footer.php" ?>
     <!--End Footer Section -->
     <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
     <!-- Vendor JS Files -->

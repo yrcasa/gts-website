@@ -110,7 +110,7 @@
   </header><!-- End Header -->
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-end align-items-center">
-    <div id="carouselExampleIndicators" class="container-fluid carousel slide" data-ride="carousel">
+    <div id="carouselExampleIndicators" class="container-fluid carousel slide" data-ride="carousel" data-interval="5000">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -130,7 +130,7 @@
             <p class="animated fadeInUp">
               <!-- Details Here --> Norton: Your ultimate cybersecurity partner, providing top-notch protection and unrivaled support for a worry-free digital experience.
             </p>
-            <a href="partners/endpoint/norton.php" target="_blank" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+            <a href="partners/endpoint/norton.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
         </div>
         <div class="carousel-item">
