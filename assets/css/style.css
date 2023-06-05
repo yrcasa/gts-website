@@ -280,6 +280,17 @@ h6 {
     }
 }
 
+.nav-column {
+    float: left;
+    width: 50%;
+}
+
+.nav-row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 .mobile-nav-toggle {
     position: fixed;
     right: 15px;
@@ -481,7 +492,7 @@ h6 {
 #hero .carousel-item:nth-child(4),
 #hero .carousel-item:nth-child(5) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/carousel/bpp-bg-min.jpg);
+        url(../img/carousel/foxit.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
