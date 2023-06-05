@@ -13,7 +13,7 @@
         </div>
 
         <div class="" id="first">
-            <h3>Our Products</h3>
+            <h3>Brands</h3>
             <ul class="nav-flex-column list-unstyled">
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a></li>
@@ -21,6 +21,8 @@
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php">Heimdal Security</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/firewall/netgate.php">Netgate</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/endpoint/norton.php">Norton</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/visualParadigm.php">Visual Paradigm</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Watchguard</a></li>
             </ul>
         </div>
