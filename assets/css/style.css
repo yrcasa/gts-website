@@ -291,6 +291,12 @@ h6 {
     clear: both;
 }
 
+.nav-opp {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2 ;
+}
+
 .mobile-nav-toggle {
     position: fixed;
     right: 15px;
