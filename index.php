@@ -128,16 +128,16 @@
           <div class="carousel-container">
             <h3 class="animated fadeInDown text-center"> Global Tiger adds award-winning Norton Cyber Safety Products to portfolio </h3>
             <p class="animated fadeInUp">
-              <!-- Details Here --> Norton: Your ultimate cybersecurity partner, providing top-notch protection and unrivaled support for a worry-free digital experience.
+              <!-- Details Here --> Norton 360. Comprehensive protection with device security including antivirus, a password manager and more. All in a single solution.
             </p>
             <a href="partners/endpoint/norton.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
         </div>
         <div class="carousel-item">
           <div class="carousel-container">
-            <h2 class="animated fadeInDown text-center"> Panda Security Becomes WatchGuard Endpoint Security </h2>
+            <h2 class="animated fadeInDown text-center"> Strengthen Protection with ONE Unified Security Platform </h2>
             <p class="animated fadeInUp">
-              <!-- Details Here  --> WatchGuard Endpoint Security features the Panda Security technology you know and love, including a full stack of integrated product options with encryption, patching, remote monitoring and management, and more.
+              <!-- Details Here  --> With WatchGuard, you get a new take on security delivery that incorporates comprehensive security, shared knowledge, operational alignment, automation, clarity, and control into ONE Unified Security Platform.
             </p>
             <a href="partners/endpoint/bullguard.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
@@ -189,9 +189,9 @@
         </div> -->
         <div class="carousel-item">
           <div class="carousel-container">
-            <h2 class="animated fadeInDown text-center"> Foxit Delivers PDF Editor 12 </h2>
+            <h2 class="animated fadeInDown text-center"> Total Economic Impact™ by Forrester® </h2>
             <p class="animated fadeInUp">
-              <!-- Details Here  --> Edit your PDFs with powerful yet easy workflows across desktop, mobile, and web – whether you’re at the office, home, or on the go.
+              <!-- Details Here  --> Understand your individual 3-year ROI of switching from legacy PDF Software to Foxit PDF Editor.
             </p>
             <a href="https://www.foxitsoftware.com/" target="_blank" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
@@ -210,9 +210,9 @@
   </section>
   <!-- End Hero -->
   <main id="main">
-  
-  <!-- ======= Services Section ======= --> <?php include "services.php" ?> <!-- End Testimonials Section -->
-  <!-- ======= About Section =======
+
+    <!-- ======= Services Section ======= --> <?php include "services.php" ?> <!-- End Testimonials Section -->
+    <!-- ======= About Section =======
 
 
 
@@ -237,11 +237,11 @@
 
 
   <!-- End About Section -->
-  <!-- ======= Company Slider Section ======= --> <?php include('companySlider.php') ?> <!-- End Company Slider Section -->
-  <!-- ======= Cta Section ======= --> <?php include "cta.php" ?> <!-- End Cta Section -->
-  <!-- ======= Project Section ======= --> <?php include "productHighlights.php" ?> <!-- End Project Section  -->
-  <!-- ======= Contact  Section ======= -->
-  <!-- <section id="contact" class="contact">
+    <!-- ======= Company Slider Section ======= --> <?php include('companySlider.php') ?> <!-- End Company Slider Section -->
+    <!-- ======= Cta Section ======= --> <?php include "cta.php" ?> <!-- End Cta Section -->
+    <!-- ======= Project Section ======= --> <?php include "productHighlights.php" ?> <!-- End Project Section  -->
+    <!-- ======= Contact  Section ======= -->
+    <!-- <section id="contact" class="contact">
 	<div class="container">
 		<div class="section-title" data-aos="zoom-out">
 			<h2>Contact</h2>
@@ -301,11 +301,11 @@
 		</div>
 	</div>
 </section> -->
-  <!-- End Contact Section  -->
-  <!-- ======= Partner  Section ======= -->
-  <!--- include "partnersSlider.php"      WHEN REANABLING, MUST USE PHP INCLUDE SYNTAX-->
-  <!-- End Partner Section  -->
-  <!-- ======= Newsletter Section ======= 
+    <!-- End Contact Section  -->
+    <!-- ======= Partner  Section ======= -->
+    <!--- include "partnersSlider.php"      WHEN REANABLING, MUST USE PHP INCLUDE SYNTAX-->
+    <!-- End Partner Section  -->
+    <!-- ======= Newsletter Section ======= 
 
 
 
