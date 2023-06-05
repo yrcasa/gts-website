@@ -1,4 +1,4 @@
-<nav class="nav-menu d-none d-lg-block my-2">
+<nav class="nav-menu d-none d-lg-block my-5">
 	<ul>
 		<li class=""><a href="https://globaltigersolutions.com/index.php">Home</a></li>
 		<li class="drop-down"><a href="https://globaltigersolutions.com/about.php">About Us</a>
@@ -19,16 +19,16 @@
 			</ul>
 		</li>
 		<li class="drop-down"><a href="https://globaltigersolutions.com/partner.php">Brands</a>
-			<ul class="">
+			<ul class="nav-opp" style="width: 350px">
 				<li><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a></li>
-				<li><a href="https://globaltigersolutions.com/partners/endpoint/bullguard.php">Norton</a></li>
+				<li><a href="https://globaltigersolutions.com/partners/endpoint/norton.php">Norton</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/software/foxit.php">Foxit</a></li>
-				<li><a href="#!">Heimdal Security</a></li>
+				<li><a href="https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php">Heimdal Security</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/firewall/netgate.php">Netgate</a></li>
-				<li><a href="#">Panda Security</a></li>
-				<li><a href="#">Visual Paradigm</a></li>
+				<li><a href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Panda Security</a></li>
+				<li><a href="https://globaltigersolutions.com/partners/software/visualParadigm.php">Visual Paradigm</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Watchguard</a></li>
 			</ul>
 		</li>
