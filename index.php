@@ -139,7 +139,7 @@
             <p class="animated fadeInUp">
               <!-- Details Here  --> With WatchGuard, you get a new take on security delivery that incorporates comprehensive security, shared knowledge, operational alignment, automation, clarity, and control into ONE Unified Security Platform.
             </p>
-            <a href="partners/endpoint/bullguard.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
+            <a href="partners/firewall/watchguard.php" class="btn-get-started animated fadeInUp scrollto">Read More</a>
           </div>
         </div>
         <!-- <div class="carousel-item">
