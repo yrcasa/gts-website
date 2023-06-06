@@ -63,12 +63,11 @@
                 </div>
               </div>
             </div>
-
           </div>
         </div>
         <div class="row row-cols-1 mx-3 row-cols-md-3 my-1 py-1 row-cols-sm-3"></div>
       </div>
-      <div class="text-center col-lg-7 cta-btn-container">
+      <div class="text-center col-lg-12 cta-btn-container justify-content-center">
         <a href="partner.php" class="btn btn-primary align-middle cta-btn">Learn More</a>
       </div>
 
