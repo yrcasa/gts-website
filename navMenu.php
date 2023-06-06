@@ -10,10 +10,10 @@
 		</li>
 		<li class="drop-down"><a href="https://globaltigersolutions.com/partner.php">Our Solutions</a>
 			<ul class="nav-flex-column">
-				<li><a href="https://globaltigersolutions.com/partner.php">Endpoint Protection and CyberSecurity</a></li>
-				<li><a href="https://globaltigersolutions.com/partner.php#firewall">Network Security and Firewall</a></li>
-				<li><a href="#!">Privileged Access Management</a></li>
-				<li><a href="#!">Remote Access and Monitoring</a></li>
+				<li><a href="solutions/endpoint.php">Endpoint Protection and CyberSecurity</a></li>
+				<li><a href="solutions/networkSecurity.php">Network Security and Firewall</a></li>
+				<li><a href="solutions/privilegedAccess.php">Privileged Access Management</a></li>
+				<li><a href="partners/remote/anydesk.php">Remote Access and Monitoring</a></li>
 				<li><a href="https://globaltigersolutions.com/products/enterprise/zeus.php">Flight Information Display System</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/software/foxit.php">PDF Editor Software & PDF Solutions</a></li>
 			</ul>
