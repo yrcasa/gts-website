@@ -483,7 +483,7 @@ h6 {
 #hero .carousel-item:nth-child(1),
 #hero .carousel-item:nth-child(2) {
     background-image: linear-gradient(rgba(211, 84, 0, 0.5), rgba(211, 84, 0, 0.5)),
-        url(../img/carousel/norton.jpeg);
+        url(../img/carousel/norton.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
