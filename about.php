@@ -29,6 +29,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
   <!-- Template Main CSS File -->
   <link href="assets/css/about-style.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/cta-style.css">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9144299-1"></script>
   <script>
