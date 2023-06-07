@@ -1,8 +1,8 @@
 <link href=assets/img/tcsdi_icon.ico rel=icon>
 <link href=assets/css/loader.css rel=stylesheet>
 <script src=https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js></script>
-<div class=loader>
-    <div class=loader-logo><img alt="Company Logo" src=https://globaltigersolutions.com/assets/img/gtslogo.png></div>
+<div class="loader">
+    <div class="loader-logo"><img alt="GTS Logo" src="assets/img/gtslogo_web.webp"></div>
 </div>
 <script>
     document.addEventListener("DOMContentLoaded", function() {
