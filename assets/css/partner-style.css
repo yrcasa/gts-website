@@ -2285,7 +2285,7 @@ section {
   # Footer
 
   --------------------------------------------------------------*/
-  #footer {
+#footer {
     background: #333;
     font-size: 12px;
     font-weight: 200;
