@@ -106,7 +106,7 @@
 
             <div class="project-item">
 
-                <img src="assets/img/solutions/foxit-logo.png" class="project-img" halign="center" alt="Foxit">
+                <img src="assets/img/solutions/foxit-logo.webp" class="project-img" halign="center" alt="Foxit">
 
                 <!-- <h3>Foxit</h3> -->
 
