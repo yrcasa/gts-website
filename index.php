@@ -101,7 +101,7 @@
       <div class="logo mr-auto">
         <h1 class="text-light">
           <!-- <a href="index.html">GTS</a> -->
-          <a href="index.php"><img src="assets/img/gtslogo.png" alt="" class="img-fluid"></a>
+          <a href="index.php"><img src="assets/img/gtslogo_web.webp" alt="" class="img-fluid"></a>
         </h1>
         <!-- Uncomment below if you prefer to use an image logo -->
       </div>
