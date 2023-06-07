@@ -27,7 +27,7 @@
                 </div>
                 <div class="col d-flex justify-content-center mb-3">
                   <div class="card">
-                    <img alt=... class="img-card" src="assets/img/carousel/heimdal1.webp">
+                    <img alt=... class="img-card" src="assets/img/cta/privilegedAccess.webp">
                     <div class="card-content">
                       <h4 class="card-title">Privileged Access Management</h4>
                     </div>
