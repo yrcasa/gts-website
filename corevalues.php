@@ -44,7 +44,7 @@
         <a class="nav-link" data-toggle="tab" href="#tab-5">
           <!-- <i class="ri-store-line"></i> -->
           <h1 id="icon">R</h1>
-          <h4 class="d-none d-lg-block">+ Responsibility</h4>
+          <h4 class="d-none d-lg-block">+ <span>Responsibility</span></h4>
         </a>
       </li>
 
