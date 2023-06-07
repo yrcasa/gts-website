@@ -38,25 +38,25 @@
 
           <div class="companySlider-item"><img src="assets/img/clients/nickel.jpg" halign="center"  height="160px" width="60px" > </div>
 
-          <div class="companySlider-item"><img src="assets/img/clients/ovp.jpg" halign="center"  height="160px" width="60px" > </div>
+          <div class="companySlider-item"><img src="assets/img/clients/ovp.webp" halign="center"  height="160px" width="60px" > </div>
 
-          <div class="companySlider-item"><img src="assets/img/clients/personalcollection.jpg" halign="center"  height="160px" width="60px" > </div>
+          <div class="companySlider-item"><img src="assets/img/clients/personalcollection.webp" halign="center"  height="160px" width="60px" > </div>
 
           <div class="companySlider-item"><img src="assets/img/clients/pioneer.jpg" halign="center"  height="160px" width="60px" > </div>
 
-          <div class="companySlider-item"><img src="assets/img/clients/prc.jpg" halign="center"  height="160px" width="60px" > </div>
+          <div class="companySlider-item"><img src="assets/img/clients/prc.webp" halign="center"  height="160px" width="60px" > </div>
 
           <div class="companySlider-item"><img src="assets/img/clients/rhg1.jpg" halign="center"  height="160px" width="60px" > </div>
 
-          <div class="companySlider-item"><img src="assets/img/clients/royalair.jpg" halign="center"  height="160px" width="60px" > </div>
+          <div class="companySlider-item"><img src="assets/img/clients/royalair.webp" halign="center"  height="160px" width="60px" > </div>
 
           <div class="companySlider-item"><img src="assets/img/clients/sunpack1.jpg" halign="center"  height="160px" width="60px" > </div>
 
-          <div class="companySlider-item"><img src="assets/img/clients/tieza.jpg" halign="center"  height="160px" width="60px" > </div>
+          <div class="companySlider-item"><img src="assets/img/clients/tieza.webp" halign="center"  height="160px" width="60px" > </div>
 
           <div class="companySlider-item"><img src="assets/img/clients/tpb.jpg" halign="center"  height="160px" width="60px" > </div>
 
-          <div class="companySlider-item"><img src="assets/img/clients/unitedauctioneers.jpg" halign="center"  height="160px" width="60px" > </div>
+          <div class="companySlider-item"><img src="assets/img/clients/unitedauctioneers.webp" halign="center"  height="160px" width="60px" > </div>
 
           <div class="companySlider-item"><img src="assets/img/clients/wcc.jpg" halign="center"  height="160px" width="60px" > </div>
 
