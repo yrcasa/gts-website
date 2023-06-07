@@ -1,15 +1,15 @@
-<nav class="nav-menu d-none d-lg-block my-5">
+<nav class="nav-menu d-none d-lg-block my-2">
 	<ul>
-		<li class=""><a href="https://globaltigersolutions.com/index.php">Home</a></li>
-		<li class="drop-down"><a href="https://globaltigersolutions.com/about.php">About Us</a>
-			<ul>
+		<li class=""><a href="index.php">Home</a></li>
+		<li class="drop-down"><a href="about.php">About Us</a>
+			<ul style="width: 130px;">
 				<li><a href="#">Our Story</a></li>
 				<li><a href="https://globaltigersolutions.com/careers.php">Careers</a></li>
 				<li><a href="https://globaltigersolutions.com/products/downloads/">Resources</a></li>
 			</ul>
 		</li>
 		<li class="drop-down"><a href="https://globaltigersolutions.com/partner.php">Our Solutions</a>
-			<ul class="nav-flex-column">
+			<ul class="nav-solutions" style="width: 180px;">
 				<li><a href="solutions/endpoint.php">Endpoint Protection and CyberSecurity</a></li>
 				<li><a href="solutions/networkSecurity.php">Network Security and Firewall</a></li>
 				<li><a href="solutions/privilegedAccess.php">Privileged Access Management</a></li>
@@ -18,7 +18,7 @@
 				<li><a href="https://globaltigersolutions.com/partners/software/foxit.php">PDF Editor Software & PDF Solutions</a></li>
 			</ul>
 		</li>
-		<li class="drop-down"><a href="https://globaltigersolutions.com/partner.php">Brands</a>
+		<li class="drop-down"><a href="partner.php">Brands</a>
 			<ul class="nav-opp" style="width: 350px">
 				<li><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
 				<li><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a></li>
