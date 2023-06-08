@@ -8,6 +8,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#ef6603">
   <meta property="og:title" content="Global Tiger Solutions">
   <!-- open Graph for Sharing Posts through Social Media -->
   <meta property="og:site_name" content="Global Tiger Solutions | Cybersecurity and IT Distributor">
@@ -101,7 +102,7 @@
       <div class="logo mr-auto">
         <h1 class="text-light">
           <!-- <a href="index.html">GTS</a> -->
-          <a href="index.php"><img src="assets/img/gtslogo_web.webp" alt="" class="img-fluid"></a>
+          <a href="index.php"><img src="assets/img/gts_v2.webp" alt="" class="" style="width: 90px;"></a>
         </h1>
         <!-- Uncomment below if you prefer to use an image logo -->
       </div>
@@ -110,7 +111,7 @@
   </header><!-- End Header -->
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-end align-items-center">
-    <div id="carouselExampleIndicators" class="container-fluid carousel slide" data-ride="carousel" data-interval="5000">
+    <div id="carouselExampleIndicators" class="container-fluid carousel slide" data-ride="carousel" data-interval="7000">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
