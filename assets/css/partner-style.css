@@ -298,6 +298,19 @@ main {
   list-style: none;
 }
 
+.nav-opp {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+.nav-solutions {
+  white-space: normal;
+  padding: 3px;
+  word-wrap: normal;
+}
+
+
 .mobile-nav a {
   display: block;
   position: relative;

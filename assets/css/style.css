@@ -488,7 +488,7 @@ h6 {
 
 #hero .carousel-item:nth-child(1),
 #hero .carousel-item:nth-child(2) {
-    background-image: linear-gradient(rgba(211, 84, 0, 0.5), rgba(211, 84, 0, 0.5)),
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
         url(../img/carousel/norton.webp);
     background-repeat: no-repeat;
     background-size: cover;
@@ -497,14 +497,14 @@ h6 {
 
 #hero .carousel-item:nth-child(2) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(../img/carousel/wg-endpoint.jpg);
+        url(../img/carousel/watchguard.webp);
 }
 
 #hero .carousel-item:nth-child(3),
 #hero .carousel-item:nth-child(4),
 #hero .carousel-item:nth-child(5) {
     background-image: linear-gradient(rgba(40, 67, 135, 0.5), rgba(40, 67, 135, 0.5)),
-        url(../img/carousel/foxit.jpg);
+        url(../img/carousel/foxit.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -512,7 +512,7 @@ h6 {
 
 #hero .carousel-item:nth-child(4),
 #hero .carousel-item:nth-child(5) {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    background-image: linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.6)),
         url(../img/carousel/fids-new-banner.png);
 }
 
