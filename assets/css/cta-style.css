@@ -16,7 +16,7 @@
     margin-bottom: 15px;
 }
 
-h1.heading {
+h4.heading {
     color: #fff;
     font-size: 1.15em;
     font-weight: 900;
@@ -25,19 +25,19 @@ h1.heading {
 }
 
 @media (min-width: 450px) {
-    h1.heading {
+    h4.heading {
         font-size: 3.55em;
     }
 }
 
 @media (min-width: 760px) {
-    h1.heading {
+    h4.heading {
         font-size: 3.05em;
     }
 }
 
 @media (min-width: 900px) {
-    h1.heading {
+    h4.heading {
         font-size: 3.25em;
         margin: 0 0 0.3em;
     }
@@ -74,12 +74,12 @@ h1.heading {
 }
 
 .card-content {
-    padding: 15px;
+    padding: 20px;
     text-align: left;
 }
 
 .card-title {
-    margin-top: 0px;
+    margin: 5px 5px 0 5px;
     font-weight: 700;
     font-size: 1.65em;
     color: #333;
@@ -96,6 +96,11 @@ h1.heading {
 
 .card-read-more {
     border-top: 1px solid #d4d4d4;
+}
+
+.card-text {
+    margin: 5px 5px 5px 0;
+    font-size: small;
 }
 
 .card-read-more a {
