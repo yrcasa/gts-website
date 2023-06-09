@@ -150,7 +150,7 @@
     </section>
 
     <!-- ======= Partner  Section ======= -->
-    <?php include "../../subPartnersSlider.php"; ?>
+     
 
   </main>
 

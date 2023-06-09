@@ -686,7 +686,7 @@
 
 
 
-      <?php include "../../subPartnersSlider.php"; ?>
+       
 
 
 

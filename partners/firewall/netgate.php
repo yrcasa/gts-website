@@ -654,7 +654,7 @@
                 </div>
             </div>
         </section>
-        <!-- ======= Partner  Section ======= --> <?php include "../../subPartnersSlider.php"; ?>
+        <!-- ======= Partner  Section ======= -->  
     </main>
     <!-- Footer Section  --> <?php include "../../footer.php" ?>
     <!--End Footer Section -->

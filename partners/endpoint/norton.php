@@ -1,3 +1,4 @@
+<?php include "../../loader.php" ?>
 <?php include("../../contactDetails.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -239,7 +240,7 @@
                 </div>
             </div>
         </section>
-        <!-- ======= Partner  Section ======= --> <?php include "../../subPartnersSlider.php"; ?>
+        <!-- ======= Partner  Section ======= -->  
     </main>
     <!-- Footer Section  --> <?php include "../../footer.php" ?>
     <!--End Footer Section -->

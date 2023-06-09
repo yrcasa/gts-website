@@ -375,7 +375,7 @@
 
         <img src="../../assets/img/productpagebanner/anydesk/anydesk2.png" alt="Remote Support" class="img-fluid">
 
-        <img src="../../assets/img/productpagebanner/anydesk/anydesk4.png" alt="Work From Home" class="img-fluid">
+        <a href="https://anydesk.com/en/license-configurator" target="_blank"><img src="../../assets/img/productpagebanner/anydesk/anydesk4.png" alt="Work From Home" class="img-fluid"></a>
 
         <img src="../../assets/img/productpagebanner/anydesk/anydesk3.png" alt="Performance | Security" class="img-fluid">
 
