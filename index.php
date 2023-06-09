@@ -72,6 +72,7 @@
 
 
   ======================================================== -->
+  <!-- <script src="https://cdn.tailwindcss.com"></script> -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9144299-1"></script>
   <script async>
@@ -113,7 +114,7 @@
   <section id="hero" class="d-flex flex-column justify-content-end align-items-center">
     <div id="carouselExampleIndicators" class="container-fluid carousel slide" data-ride="carousel" data-interval="7000">
       <!-- Indicators -->
-      <ol class="carousel-indicators">
+      <ol class="carousel-indicators indicators-width">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
