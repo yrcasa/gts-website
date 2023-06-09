@@ -22,7 +22,7 @@
 				</h1>
 				<!-- Uncomment below if you prefer to use an image logo -->
 			</div>
-			<!-- ======= Nav Menu Section ======= --> <?php include('../navMenu.php'); ?>
+			<!-- ======= Nav Menu Section ======= --> <?php include('navMenu.php'); ?>
 		</div>
 	</header><!-- End Header -->
 	<main id="main">
