@@ -37,17 +37,50 @@
 						<img src="../assets/img/solutions/netgate.png" alt="" srcset="" width="100%">
 					</div>
 					<div class="col-md-8 col-sm-16 mt-3">
-						<h1>Netgate</h1>
-						<p> Netgate is a leading provider of open-source-based network security solutions. With a strong focus on security, reliability, and performance, Netgate offers a range of products, including pfSense firewall appliances and software. Their solutions are designed to meet the needs of businesses, government agencies, and individuals, providing robust network protection, secure VPN connectivity, and advanced threat management. Netgate's commitment to open-source technologies ensures transparency, flexibility, and community collaboration. Choose Netgate for powerful, cost-effective, and customizable network security solutions that deliver exceptional performance and peace of mind. </p>
+						<h1 style="font-size: xx-large;" class="mb-3">Netgate</h1>
+						<h4 style="font-weight:600;" class="mb-3">Secure networking solutions for the home and office</h4>
+						<p> The world’s most popular, feature-rich and robust firewall, router and VPN solutions. Ideal for personal users, professional users, and organizations looking for easy-to-use, powerful, flexible, proven solutions for safely connecting to the Internet. </p>
+						<div>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								pfSense Netgate
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								TNSR
+							</a>
+						</div>
 					</div>
 				</div>
 				<div class="row content py-2">
-					<div class="col-lg-4 col-md-8 col-sm-12 center-block mt-4">
-						<img src="../assets/img/solutions/watchguard.png" alt="" srcset="" width="100%">
+					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
+						<img src="../assets/img/solutions/watchguard.png" alt="" srcset="" width="90%" class="justify-content-center">
 					</div>
 					<div class="col-md-8 col-sm-16 mt-4">
-						<h1>Watchguard</h1>
-						<p> WatchGuard is a prominent provider of network security solutions, offering industry-leading firewalls, secure Wi-Fi, and multifactor authentication. With a focus on delivering robust protection, simplified management, and high-performance security services, WatchGuard empowers organizations to safeguard their networks and data against the evolving threat landscape. Backed by innovative technologies and a commitment to customer success, WatchGuard helps businesses of all sizes mitigate risks, maintain compliance, and achieve comprehensive network security. </p>
+						<h1 style="font-size: xx-large;" class="mb-3">Watchguard</h1>
+						<h4 style="font-weight:600;" class="mb-3">Unleash the Security of ONE</h4>
+						<p> WatchGuard’s Unified Security Platform is built from the ground up to enable efficient, powerful security services with increased scale and velocity while gaining operational efficiencies. WatchGuard Cloud™️ is a complete portfolio of endpoint, multi-factor authentication, and network security products and services for protecting environments, users, and devices.
+						<div class="">
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								EPP
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								EDR
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								EPDR
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								XDR
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Authpoint
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								DNSWatchGo
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Firebox
+							</a>
+						</div>
 					</div>
 				</div>
 				<div class="row content px-4">
@@ -55,7 +88,7 @@
 						<i class="icofont-arrow-left"></i> Other Partners </a>
 				</div>
 			</div>
-		</section> <?php include "../subPartnersSlider.php"; ?>
+		</section> 
 	</main>
 	<!-- Footer Section  --> <?php include "../footer.php" ?> <!--End Footer Section -->
 	<a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>

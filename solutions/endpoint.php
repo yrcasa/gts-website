@@ -32,40 +32,109 @@
 					<p>Solutions</p>
 					<h2>Endpoint Protection and Security</h2>
 				</div>
-				<div class="row content">
-					<div class="col-lg-4 col-md-8 col-sm-12 center-block mt-4">
-						<img src="../assets/img/solutions/heimdal1.png" alt="" srcset="" width="100%">
+				<div class="row content py-2">
+					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
+						<img src="../assets/img/solutions/heimdal1.png" alt="" srcset="" width="90%" class="justify-content-center">
 					</div>
-					<div class="col-md-8 col-sm-16 mt-3">
-						<h1>Heimdal Security</h1>
-						<p> Heimdal Security is a leading cybersecurity company that protects individuals and businesses from online threats. With advanced solutions like Thor, we detect and block malware, ransomware, and phishing attacks in real-time. Our proactive approach includes traffic filtering and patch management to ensure secure browsing and software protection. Trust Heimdal Security for comprehensive cybersecurity services and reliable digital defense. </p>
-					</div>
-				</div>
-				<div class="row content">
-					<div class="col-lg-4 col-md-8 col-sm-12 center-block mt-4">
-						<img src="../assets/img/solutions/panda.png" alt="" srcset="" width="100%">
-					</div>
-					<div class="col-md-8 col-sm-16 mt-3">
-						<h1>Panda Security</h1>
-						<p> Panda Security is a highly respected cybersecurity organization known for its state-of-the-art offerings in safeguarding individuals and businesses from online threats. Recognized for its emphasis on technological advancements, Panda Security provides comprehensive antivirus, firewall, and threat detection solutions to protect users' devices and information. With user-friendly interfaces and a cloud-based infrastructure, they deliver efficient and real-time security, establishing themselves as a reliable option in the ever-changing field of cybersecurity.. </p>
-					</div>
-				</div>
-				<div class="row content">
-					<div class="col-lg-4 col-md-8 col-sm-12 center-block mt-4">
-						<img src="../assets/img/solutions/norton.png" alt="" srcset="" width="100%">
-					</div>
-					<div class="col-md-8 col-sm-16 mt-3">
-						<h1>Norton</h1>
-						<p> Norton is a renowned cybersecurity brand, offering comprehensive software solutions to protect computers and mobile devices from online threats, including antivirus, firewall, VPN, and parental control features, with a strong reputation for reliability, user-friendliness, and trusted customer support. </p>
+					<div class="col-md-8 col-sm-16 mt-4">
+						<h1 style="font-size: xx-large;" class="mb-3">Heimdal Security</h1>
+						<h4 style="font-weight:600;" class="mb-3">Revolutionary. Unified. AI Cybersecurity.</h4>
+						<p> From ransomware and insider threat, to business email compromise and anything in between, Heimdal® protects your operational integrity by stopping even the most sophisticated cyberattacks from day one. Heimdal® combines threat prevention, vulnerability management, access management, and antivirus and e-mail security into a single platform.
+						</p>
+						<div>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Privileges and Application Control
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Vulnerability Management
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Threat Hunting
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Email Protection
+							</a>
+						</div>
 					</div>
 				</div>
 				<div class="row content py-2">
-					<div class="col-lg-4 col-md-8 col-sm-12 center-block mt-4">
-						<img src="../assets/img/solutions/watchguard.png" alt="" srcset="" width="100%">
+					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
+						<img src="../assets/img/solutions/norton.png" alt="" srcset="" width="90%" class="justify-content-center">
 					</div>
 					<div class="col-md-8 col-sm-16 mt-4">
-						<h1>Watchguard</h1>
-						<p> WatchGuard is a prominent provider of network security solutions, offering industry-leading firewalls, secure Wi-Fi, and multifactor authentication. With a focus on delivering robust protection, simplified management, and high-performance security services, WatchGuard empowers organizations to safeguard their networks and data against the evolving threat landscape. Backed by innovative technologies and a commitment to customer success, WatchGuard helps businesses of all sizes mitigate risks, maintain compliance, and achieve comprehensive network security. </p>
+						<h1 style="font-size: xx-large;" class="mb-3">Norton</h1>
+						<h4 style="font-weight:600;" class="mb-3">Choose to be safer online. Opt-in to Cyber Safety</h4>
+						<p> Norton's passion is more than just offering device security, identity protection, online privacy, and all-in-one protection. It’s to empower you and your family to feel safer in your everyday digital life. We believe that when you worry less about the darkness of cybercrime, you can live on the bright side. The new Norton. This is digital living on the bright side.
+						</p>
+						<div class="">
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Antivirus Plus
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								360 Deluxe
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								360 For Gamers
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="row content py-2">
+					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
+						<img src="../assets/img/solutions/panda.png" alt="" srcset="" width="90%" class="justify-content-center">
+					</div>
+					<div class="col-md-8 col-sm-16 mt-4">
+						<h1 style="font-size: xx-large;" class="mb-3">Panda Security</h1>
+						<h4 style="font-weight:600;" class="mb-3">The Next Generation of Digital Protection</h4>
+						<p> With Panda Security, a WatchGuard brand, you have the most advanced protection for your family and your business. Panda Dome offers maximum security against viruses, ransomware, and cyberespionage for Windows, Mac, Android and iOS. Panda Security delivers the protection your customers want and need. Grow your business alongside a leader in cybersecurity.
+						</p>
+						<div class="">
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Dome
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								EP
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								EPP
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								AD360
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="row content py-2">
+					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
+						<img src="../assets/img/solutions/watchguard.png" alt="" srcset="" width="90%" class="justify-content-center">
+					</div>
+					<div class="col-md-8 col-sm-16 mt-4">
+						<h1 style="font-size: xx-large;" class="mb-3">Watchguard</h1>
+						<h4 style="font-weight:600;" class="mb-3">Unleash the Security of ONE</h4>
+						<p> WatchGuard’s Unified Security Platform is built from the ground up to enable efficient, powerful security services with increased scale and velocity while gaining operational efficiencies. WatchGuard Cloud™️ is a complete portfolio of endpoint, multi-factor authentication, and network security products and services for protecting environments, users, and devices.
+						<div class="">
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								EPP
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								EDR
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								EPDR
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								XDR
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Authpoint
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								DNSWatchGo
+							</a>
+							<a class="btn-products" href="../../partner.php#softwarePartners">
+								Firebox
+							</a>
+						</div>
 					</div>
 				</div>
 				<div class="row content px-4">
