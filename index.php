@@ -36,6 +36,7 @@
   <link rel="icon" href="assets/img/tcsdi_icon.ico">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&display=swap" rel="stylesheet">
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -128,7 +129,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <div class="carousel-container">
-            <h3 class="animated fadeInDown text-center"> Global Tiger adds award-winning Norton Cyber Safety Products to portfolio </h3>
+            <h2 class="animated fadeInDown text-center"> Global Tiger adds award-winning Norton Cyber Safety Products to portfolio </h2>
             <p class="animated fadeInUp">
               <!-- Details Here --> Norton 360. Comprehensive protection with device security including antivirus, a password manager and more. All in a single solution.
             </p>
@@ -339,6 +340,7 @@
   <script src="assets/vendor/venobox/venobox.min.js"></script>
   <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
   <script src="assets/vendor/aos/aos.js"></script>
+  <!-- <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script> -->
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
   <script type="text/javascript">
