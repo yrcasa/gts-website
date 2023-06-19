@@ -1,74 +1,151 @@
 <section class="cta wrapper" id="cta">
   <div class="container">
     <div class="row row-cols-1">
-      <div class="text-center flex text-lg-center">
-        <h3 data-aos="zoom-out">OUR SOLUTIONS</h3>
-        <div class="row row-cols-1 mx-3 row-cols-md-3 my-2 py-2 row-cols-sm-1">
-          <div class="col d-flex justify-content-center mb-3">
-            <div class="card">
-              <img alt=... class="img-card" src="assets\img\cta\higher_secu_dvmzco\higher_secu_dvmzco_c_scale,w_1400.jpg" sizes="(max-width: 1400px) 100vw, 1400px" srcset="assets\img\cta\higher_secu_dvmzco\higher_secu_dvmzco_c_scale,w_200.jpg 200w, assets\img\cta\higher_secu_dvmzco\higher_secu_dvmzco_c_scale,w_636.jpg 636w, assets\img\cta\higher_secu_dvmzco\higher_secu_dvmzco_c_scale,w_1041.jpg 1041w, assets\img\cta\higher_secu_dvmzco\higher_secu_dvmzco_c_scale,w_1400.jpg 1400w">
-              <div class="card-content">
-                <a href="https://globaltigersolutions.com/partner.php">
-                  <h4 class="card-title">Endpoint Protection and Security</h4>
-                  <p class="card-text">Comprehensive defense for devices and networks, safeguarding against cyber threats and ensuring data integrity.</p>
-                </a>
+      <h3 class="text-center" data-aos="zoom-out">OUR SOLUTIONS</h3>
+      <div class="row row-cols-1 mx-3 row-cols-md-1 my-2 py-2 row-cols-sm-1" data-aos="fadeUp">
+        <div class="col d-flex justify-content-center mb-3" data-aos="fade-right">
+          <div class="card">
+            <div class="row g-0">
+              <div class="col-md-7">
+                <div class="image-container">
+                  <img alt=... class="img-card" src="assets\img\cta\endpoint.webp">
+                  <div class="overlay"></div>
+                </div>
+              </div>
+              <div class="col-md-5">
+                <div class="card-body">
+                  <a href="solutions/endpoint.php">
+                    <h4 class="card-title text-muted">Endpoint Protection and Security</h4>
+                    <p class="card-text text-muted">Comprehensive defense for devices and networks, safeguarding against cyber threats and ensuring data integrity.</p>
+                    <div class="mt-5">
+                    <center><i class="icofont-shield icofont-10x text-muted"></i></center>
+                    </div>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
-          <div class="col d-flex justify-content-center mb-3">
-            <div class="card">
-              <img alt=... class="img-card" src="assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_1400.jpg" sizes="(max-width: 1400px) 100vw, 1400px" srcset="assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_200.jpg 200w, assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_559.jpg 559w, assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_778.jpg 778w, assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_960.jpg 960w, assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_1040.jpg 1040w, assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_1188.jpg 1188w, assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_1257.jpg 1257w, assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_1345.jpg 1345w, assets\img\cta\cybersecu_xyd2b8\cybersecu_xyd2b8_c_scale,w_1400.jpg 1400w">
-              <div class="card-content">
-                <h4 class="card-title">Network Security and Firewall</h4>
-                <p class="card-text">Essential defense system that monitors and controls network traffic, preventing unauthorized access and protecting against cyber attacks.</p>
+        </div>
+        <!-- Add more columns with the same structure for other cards -->
+        <div class="col d-flex justify-content-center mb-3" data-aos="fade-left">
+          <div class="card">
+            <div class="row g-0">
+            <div class="col-md-5">
+                <div class="card-body">
+                  <a href="solutions/networkSecurity.php">
+                    <h4 class="card-title text-muted">Network Security and Firewall</h4>
+                    <p class="card-text text-muted">Essential defense system that monitors and controls network traffic, preventing unauthorized access and protecting against cyber attacks.</p>
+                    <div class="mt-5">
+                    <center><i class="icofont-lock icofont-10x text-muted"></i></center>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-md-7">
+                <div class="image-container">
+                  <img alt=... class="img-card" src="assets\img\cta\networkSecurity.jpg">
+                  <div class="overlay"></div>
+                </div>
               </div>
             </div>
           </div>
-          <div class="col d-flex justify-content-center mb-3">
-            <div class="card">
-              <img alt=... class="img-card" src="assets/img/cta/privilegedAccess.webp">
-              <div class="card-content">
-                <h4 class="card-title">Privileged Access Management</h4>
-                <p class="card-text">Secure solution managing privileged accounts, minimizing insider threats and ensuring authorized access.</p>
+        </div>
+        <div class="col d-flex justify-content-center mb-3" data-aos="fade-right">
+          <div class="card">
+            <div class="row g-0">
+              <div class="col-md-7">
+                <div class="image-container">
+                  <img alt=... class="img-card" src="assets\img\cta\privilegedAccess.webp">
+                  <div class="overlay"></div>
+                </div>
+              </div>
+              <div class="col-md-5">
+                <div class="card-body">
+                  <a href="solutions/privilegedAccess.php">
+                    <h4 class="card-title text-muted">Privileges and Application Control</h4>
+                    <p class="card-text text-muted">Secure solution managing privileged accounts, minimizing insider threats and ensuring authorized access.</p>
+                    <div class="mt-5">
+                    <center><i class="icofont-key icofont-10x text-muted"></i></center>
+                    </div>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
-          <div class="col d-flex justify-content-center mb-3">
-            <div class="card">
-              <img alt=... class="img-card" src="assets\img\cta\remote_ec4g6o\remote_ec4g6o_c_scale,w_1400.jpg" sizes="(max-width: 1400px) 100vw, 1400px" srcset="assets\img\cta\remote_ec4g6o\remote_ec4g6o_c_scale,w_200.jpg 200w, assets\img\cta\remote_ec4g6o\remote_ec4g6o_c_scale,w_681.jpg 681w, assets\img\cta\remote_ec4g6o\remote_ec4g6o_c_scale,w_962.jpg 962w, assets\img\cta\remote_ec4g6o\remote_ec4g6o_c_scale,w_1197.jpg 1197w, assets\img\cta\remote_ec4g6o\remote_ec4g6o_c_scale,w_1354.jpg 1354w, assets\img\cta\remote_ec4g6o\remote_ec4g6o_c_scale,w_1400.jpg 1400w">
-              <div class="card-content">
-                <h4 class="card-title">Remote Access and Monitoring</h4>
-                <p class="card-text">Convenient and secure solution that enables remote connectivity and real-time monitoring of systems and networks from any location.</p>
+        </div>
+        <div class="col d-flex justify-content-center mb-3" data-aos="fade-left">
+          <div class="card">
+            <div class="row g-0">
+            <div class="col-md-5">
+                <div class="card-body">
+                  <a href="solutions/remote.php">
+                    <h4 class="card-title text-muted">Remote Access and Monitoring Security</h4>
+                    <p class="card-text text-muted">Convenient and secure solution that enables remote connectivity and real-time monitoring of systems and networks from any location.</p>
+                    <div class="mt-5">
+                    <center><i class="icofont-smart-phone icofont-10x text-muted"></i></center>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-md-7">
+                <div class="image-container">
+                  <img alt=... class="img-card" src="assets\img\cta\remote.webp">
+                  <div class="overlay"></div>
+                </div>
               </div>
             </div>
           </div>
-          <div class="col d-flex justify-content-center mb-3">
-            <div class="card">
-              <img alt=... class="img-card" src="assets\img\fids_q5dpf6\fids_q5dpf6_c_scale,w_1400.jpg" sizes="(max-width: 1400px) 100vw, 1400px" srcset="assets\img\fids_q5dpf6\fids_q5dpf6_c_scale,w_200.jpg 200w, assets\img\fids_q5dpf6\fids_q5dpf6_c_scale,w_466.jpg 466w, assets\img\fids_q5dpf6\fids_q5dpf6_c_scale,w_658.jpg 658w, assets\img\fids_q5dpf6\fids_q5dpf6_c_scale,w_835.jpg 835w, assets\img\fids_q5dpf6\fids_q5dpf6_c_scale,w_995.jpg 995w, assets\img\fids_q5dpf6\fids_q5dpf6_c_scale,w_1151.jpg 1151w, assets\img\fids_q5dpf6\fids_q5dpf6_c_scale,w_1248.jpg 1248w, assets\img\fids_q5dpf6\fids_q5dpf6_c_scale,w_1363.jpg 1363w">
-              <div class="card-content">
-                <h4 class="card-title">Flight Information Display System</h4>
-                <p class="card-text">Real-time solution displaying flight information, gate assignments, and schedules for seamless passenger experience and operational efficiency.</p>
+        </div>
+        <div class="col d-flex justify-content-center mb-3" data-aos="fade-right">
+          <div class="card">
+            <div class="row g-0">
+              <div class="col-md-7">
+                <div class="image-container">
+                  <img alt=... class="img-card" src="assets\img\cta\aviation.webp">
+                  <div class="overlay"></div>
+                </div>
+              </div>
+              <div class="col-md-5">
+                <div class="card-body">
+                  <a href="solutions/aviation.php">
+                    <h4 class="card-title text-muted">Aviation Solutions</h4>
+                    <p class="card-text text-muted">Real-time solution displaying flight information, gate assignments, and schedules for seamless passenger experience and operational efficiency.</p>
+                    <div class="mt-5">
+                    <center><i class="icofont-airplane-alt icofont-10x text-muted"></i></center>
+                    </div>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
-          <div class="col d-flex justify-content-center mb-3">
-            <div class="card">
-              <img alt=... class="img-card" src="assets\img\cta\pdf_m8z58i\pdf_m8z58i_c_scale,w_825.png" sizes="(max-width: 1400px) 100vw, 1400px" srcset="assets\img\cta\pdf_m8z58i\pdf_m8z58i_c_scale,w_200.png 200w, assets\img\cta\pdf_m8z58i\pdf_m8z58i_c_scale,w_625.png 625w, assets\img\cta\pdf_m8z58i\pdf_m8z58i_c_scale,w_825.png 825w">
-              <div class="card-content">
-                <h4 class="card-title">PDF Editor Software & PDF Solutions</h4>
-                <p class="card-text">Powerful tools for editing, creating, and managing PDF documents, streamlining workflows and enhancing collaboration across platforms.</p>
+        </div>
+        <div class="col d-flex justify-content-center mb-3" data-aos="fade-left">
+          <div class="card">
+            <div class="row g-0">
+            <div class="col-md-5">
+                <div class="card-body">
+                  <a href="solutions/productivity.php">
+                    <h4 class="card-title text-muted">Productivity Solutions</h4>
+                    <p class="card-text text-muted">Powerful tools for editing, creating, and managing PDF documents, streamlining workflows and enhancing collaboration across platforms.</p>
+                    <div class="mt-5">
+                    <center><i class="icofont-file-alt icofont-10x text-muted"></i></center>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-md-7">
+                <div class="image-container">
+                  <img alt=... class="img-card" src="assets\img\cta\productivity.webp">
+                  <div class="overlay"></div>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="row row-cols-1 mx-3 row-cols-md-3 my-1 py-1 row-cols-sm-3"></div>
     </div>
     <div class="text-center col-lg-12 cta-btn-container justify-content-center">
       <a href="partner.php" class="btn btn-primary align-middle cta-btn">Learn More</a>
     </div>
   </div>
 </section>
-
-<!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script> -->
