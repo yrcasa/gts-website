@@ -10,12 +10,12 @@
 		</li>
 		<li class="drop-down"><a href="https://globaltigersolutions.com/partner.php">Our Solutions</a>
 			<ul class="nav-solutions" style="width: 180px;">
-				<li><a href="solutions/endpoint.php">Endpoint Protection and CyberSecurity</a></li>
-				<li><a href="solutions/networkSecurity.php">Network Security and Firewall</a></li>
-				<li><a href="solutions/privilegedAccess.php">Privileged Access Management</a></li>
-				<li><a href="partners/remote/anydesk.php">Remote Access and Monitoring</a></li>
-				<li><a href="https://globaltigersolutions.com/products/enterprise/zeus.php">Flight Information Display System</a></li>
-				<li><a href="https://globaltigersolutions.com/partners/software/foxit.php">PDF Editor Software & PDF Solutions</a></li>
+				<li><a href="https://globaltigersolutions.com/solutions/endpoint.php">Endpoint Protection and CyberSecurity</a></li>
+				<li><a href="https://globaltigersolutions.com/solutions/networkSecurity.php">Network Security and Firewall</a></li>
+				<li><a href="https://globaltigersolutions.com/solutions/privilegedAccess.php">Privileges and Application Control</a></li>
+				<li><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Remote Access & Monitoring Security</a></li>
+				<li><a href="https://globaltigersolutions.com/products/enterprise/zeus.php">Aviation Solutions</a></li>
+				<li><a href="https://globaltigersolutions.com/partners/software/foxit.php">Productivity Solutions</a></li>
 			</ul>
 		</li>
 		<li class="drop-down"><a href="partner.php">Brands</a>
@@ -35,7 +35,7 @@
 		<li class="drop-down"><a href="https://globaltigersolutions.com/contact.php">Contact Us</a>
 			<ul>
 				<li><a href="https://globaltigersolutions.com/contact.php">Get In Touch With Us</a></li>
-				<li><a href="https://globaltigersolutions.com/contact.php">Become a Partner</a></li>
+				<li><a href="https://globaltigersolutions.com/forms">Become a Partner</a></li>
 			</ul>
 		</li>
 	</ul>
