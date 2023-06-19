@@ -56,7 +56,7 @@
     ga('create', 'UA-64201982-1', 'auto');
     ga('send', 'pageview');
   </script>
-  
+
   <style>
     .bullguard-intro {
       background: linear-gradient(to right, rgba(114, 28, 106, 1) 0, rgba(204, 20, 123, 1) 100%);
@@ -77,33 +77,43 @@
       background-size: cover;
       position: relative;
     }
-    .grecaptcha-badge { visibility: hidden; }
-    .btn.close{
-    position: absolute;
-    top: 0;
-    right: 0;
-    padding: 5px;
+
+    .grecaptcha-badge {
+      visibility: hidden;
     }
-    .btn.close:hover{
-    color: #fff;
-    background: #9ea2ad;
+
+    .btn.close {
+      position: absolute;
+      top: 0;
+      right: 0;
+      padding: 5px;
     }
-    .btn.close:focus{
+
+    .btn.close:hover {
+      color: #fff;
+      background: #9ea2ad;
+    }
+
+    .btn.close:focus {
       outline: none;
       box-shadow: none;
     }
-    .btn{
+
+    .btn {
       font-size: 1.125rem;
       font-weight: 700;
       padding: .98em 3.38em;
       border-radius: 0;
       background-color: #ff0025;
-      color: #fff;position: relative;
+      color: #fff;
+      position: relative;
       right: .166em;
       border-radius: 5px;
-      min-width: 240px;left: -3px;
+      min-width: 240px;
+      left: -3px;
       min-height: 64px;
     }
+
     .hero-text {
       text-align: center;
       position: absolute;
@@ -111,21 +121,25 @@
       left: 50%;
       transform: translate(-50%, -50%);
     }
-    .text-align_column{
+
+    .text-align_column {
       text-align: left;
     }
+
     .subtitle_center {
       text-align: center;
     }
+
     .video {
       max-width: 100%;
       max-height: 100%;
       border-style: groove;
     }
-    .margin_bottom{
+
+    .margin_bottom {
       margin-bottom: 50px;
     }
-    
+
     .ph {
       font-size: 56px;
       line-height: 58px;
@@ -154,7 +168,7 @@
       line-height: 32px;
     }
 
-    .contactDetails{
+    .contactDetails {
       font-size: 26px;
       line-height: 32px;
     }
@@ -178,11 +192,11 @@
         font-size: xx-small;
       }
 
-      .contactDetails{
+      .contactDetails {
         font-size: 20px;
-      line-height: 22px;
+        line-height: 22px;
       }
-      
+
     }
 
     @media only screen and (max-width: 1868px) {
@@ -190,12 +204,13 @@
         height: 100%;
         width: 100%;
       }
-      }
-      @media only screen and (max-width: 1868px) {
+    }
+
+    @media only screen and (max-width: 1868px) {
       .image_scaler_bullguard {
         width: 100%;
       }
-      }
+    }
   </style>
 
 </head>
@@ -212,64 +227,64 @@
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
 
-    <!-- ======= Nav Menu Section ======= -->
-    <?php include "../../navMenu.php"; ?>
+      <!-- ======= Nav Menu Section ======= -->
+      <?php include "../../navMenu.php"; ?>
 
 
     </div>
   </header>
-  
+
   <!-- End Header -->
 
-<main id="main">
+  <main id="main">
 
-<section id="partner" class="partner" style="padding-top: 100px !important;">
+    <section id="partner" class="partner" style="padding-top: 100px !important;">
 
-<div class="container">
-  <div class="section-title" data-aos="zoom-out">
-    <!-- <h2>Pricing</h2> -->
-    <p>Partners</p>
-    <h2>Heimdal Security</h2>
-  </div>
-  
-<div class="heimdal-image-background" data-aos="zoom-out">
-  <div class="hero-text">
+      <div class="container">
+        <div class="section-title" data-aos="zoom-out">
+          <!-- <h2>Pricing</h2> -->
+          <p>Partners</p>
+          <h2>Heimdal Security</h2>
+        </div>
+
+        <div class="heimdal-image-background" data-aos="zoom-out">
+          <div class="hero-text">
+            <div class="container">
+              <div class="row">
+                <a href="heimdalsecurity_request_demo.php" class="btn btn-danger" role="button">Book a demo</a></li>
+              </div>
+            </div>
+          </div>
+        </div>
+    </section>
+    <!-- Start Program Here [Body] (@Cj) -->
     <div class="container">
       <div class="row">
-      <a href="heimdalsecurity_request_demo.php" class="btn btn-danger" role="button">Book a demo</a></li>
-      </div>
-    </div>
-  </div>
-</div>
-</section>
-  <!-- Start Program Here [Body] (@Cj) -->
-  <div class="container">
-  <div class="row">
-    <div class="col">
-    <h3 align="center" class="margin_bottom">Why Heimdal Security</h3>
-      <div align="center" class="item active">
-        <!-- <video style='border: 5px solid;' class="inlineVideo margin_bottom" controls="controls" playsinline  width="400" height="225" poster="../../assets/img/solutions/Thumbnail_1.png">
+        <div class="col">
+          <h3 align="center" class="margin_bottom">Why Heimdal Security</h3>
+          <div align="center" class="item active">
+            <!-- <video style='border: 5px solid;' class="inlineVideo margin_bottom" controls="controls" playsinline  width="400" height="225" poster="../../assets/img/solutions/Thumbnail_1.png">
         <source src="../../assets/video/Why Heimdal Security.mp4" type="video/mp4">
         Your browser does not support HTML video.
         </video> -->
-      <iframe style='border: 5px solid;' class=" margin_bottom" width="400" height="225" controls="controls" src="https://www.youtube.com/embed/hfEhVaBRyt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-      <p align="center">Heimdal Security provides proactive protection against cyber threats including ransomware, exploit kits and financial malware. Block cyber threats before they compromise your system - Through its traffic filtering capability, Heimdal stops ransomware attacks at all stages: before, during and after the attack.</p>
-    </div>
-    <div class="col">
-      <h3 align="center" class="margin_bottom">Privileged Access Management</h3>
-      <div align="center" class="item active">
-      <iframe  style='border: 5px solid;' class="margin_bottom inlineVideo"  width="400" height="225" controls="controls" src="https://www.youtube.com/embed/QIPEkogvcgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe style='border: 5px solid;' class=" margin_bottom" width="400" height="225" controls="controls" src="https://www.youtube.com/embed/hfEhVaBRyt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <p align="center">Heimdal Security provides proactive protection against cyber threats including ransomware, exploit kits and financial malware. Block cyber threats before they compromise your system - Through its traffic filtering capability, Heimdal stops ransomware attacks at all stages: before, during and after the attack.</p>
         </div>
-      <p align="center">Heimdal™ Privileged Access Management, your system administrators make sure that users don’t accidentally allow hackers to access your endpoints and networks, by easily verifying and approving each request from the central interface.</p>
+        <div class="col">
+          <h3 align="center" class="margin_bottom">Privileged Access Management</h3>
+          <div align="center" class="item active">
+            <iframe style='border: 5px solid;' class="margin_bottom inlineVideo" width="400" height="225" controls="controls" src="https://www.youtube.com/embed/QIPEkogvcgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <p align="center">Heimdal™ Privileged Access Management, your system administrators make sure that users don’t accidentally allow hackers to access your endpoints and networks, by easily verifying and approving each request from the central interface.</p>
+        </div>
+      </div>
     </div>
-  </div>
-</div>
 
 
 
-<!-- <> -->
-<!-- <script type="text/javascript">
+    <!-- <> -->
+    <!-- <script type="text/javascript">
     window.addEventListener('load', function(event){
         document.querySelectorAll(".inlineVideo").forEach((el) => {
             el.onplay = function(e){
@@ -284,32 +299,33 @@
         });
     });
 </script> -->
-  <!-- ======= Partner  Section ======= -->
-<?php include "../../subPartnersSlider.php"; ?>
+    <!-- ======= Partner  Section ======= -->
 
-</main>
 
-<!-- Footer Section from the main directory  -->
-<?php 
-   $path = $_SERVER['DOCUMENT_ROOT'];
-   $path .= "/globaltigersolutions/footer.php";
-   include_once($path);
-?>
-<!--End Footer Section -->
+  </main>
 
-<a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
+  <!-- Footer Section from the main directory  -->
+  <?php
+  $path = $_SERVER['DOCUMENT_ROOT'];
+  $path .= "/globaltigersolutions/footer.php";
+  include_once($path);
+  ?>
+  <!--End Footer Section -->
 
-<!-- Vendor JS Files -->
-<script src="../../assets/vendor/jquery/jquery.min.js"></script>
-<script src="../../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="../../assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-<script src="../../assets/vendor/php-email-form/validate.js"></script>
-<script src="../../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-<script src="../../assets/vendor/venobox/venobox.min.js"></script>
-<script src="../../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-<script src="../../assets/vendor/aos/aos.js"></script>
+  <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
 
-<!-- Template Main JS File -->
-<script src="../../assets/js/pandasecurity-main.js"></script>
+  <!-- Vendor JS Files -->
+  <script src="../../assets/vendor/jquery/jquery.min.js"></script>
+  <script src="../../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../../assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="../../assets/vendor/php-email-form/validate.js"></script>
+  <script src="../../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="../../assets/vendor/venobox/venobox.min.js"></script>
+  <script src="../../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="../../assets/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="../../assets/js/pandasecurity-main.js"></script>
 </body>
+
 </html>
