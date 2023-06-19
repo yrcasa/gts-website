@@ -1,90 +1,44 @@
 <!-- ======= Services Section ======= -->
-
 <section id="companySlider" class="companySlider">
-
-      <div class="container">
-
-
-
+    <div class="container">
         <div class="section-title" data-aos="zoom-out">
-
-          <h2>COMPANIES WHO HAVE PUT THEIR TRUST IN US</h2>
-
-          <!-- <p>WHAT WE CAN OFFER FOR THE BETTERMENT OF YOUR COMPANY</p> -->
-
+            <h2>COMPANIES WHO HAVE PUT THEIR TRUST IN US</h2>
+            <!-- <p>WHAT WE CAN OFFER FOR THE BETTERMENT OF YOUR COMPANY</p> -->
         </div>
-
-
-
         <div class="owl-carousel companySlider-carousel" data-aos="fade-up">
-
-          <div class="companySlider-item"><img src="assets/img/clients/alphanetworld1.jpg" halign="center"  height="160px" width="60px"> </div>
-
- 
-
-          <div class="companySlider-item"><img src="assets/img/clients/asianterminals.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/aspac.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/continental.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/dba.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/goldentouch.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/hotelceleste3.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/mgen.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/nickel.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/ovp.webp" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/personalcollection.webp" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/pioneer.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/prc.webp" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/rhg1.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/royalair.webp" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/sunpack1.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/tieza.webp" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/tpb.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/unitedauctioneers.webp" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/wcc.jpg" halign="center"  height="160px" width="60px" > </div>
-
-          <div class="companySlider-item"><img src="assets/img/clients/zuellig.jpg" halign="center"  height="160px" width="60px" > </div>
-
-
-
+            <div class="companySlider-item"><img src="assets/img/clients/2go.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/aboitizpower.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/alliedbankers.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/angkas.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/asianterminals.jpg" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/asiapacificcollege.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/camayacoast.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/cdo.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/continental.jpg" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/datablitz.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/delmonte.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/ge.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/hiprecision.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/olefins.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/mariefrance.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/mgen.jpg" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/nickel.jpg" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/pap.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/philex-banner.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/palholdings.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/shell.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/platinummetals.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/primebmd.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/unicon_.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/unitedauctioneers.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/universalleaf.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/uratex.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/zuellig.webp" halign="center" height="160px" width="60px"> </div>
         </div>
-
-
-
-      </div>
-
-
-
-
-
-
-
-    </section>
-
-    <!-- End Testimonials Section -->
-
-
-
-
-
-     <!-- 
+    </div>
+</section>
+<!-- End Testimonials Section -->
+<!-- 
 
          <div class="slide"><img src="images/clients/alphanetworld1.jpg" halign="center"  height="160px" width="60px"></div>
 
