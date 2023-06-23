@@ -16,18 +16,9 @@
 
 <body>
     <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-        <div class="container d-flex align-items-center">
-            <div class="logo mr-auto">
-                <h1 class="text-light">
-                    <!-- <a href="index.html">GTS</a> -->
-                    <a href="../index.php"><img src="../assets/img/gts_v2.webp" alt="" class="img-fluid"></a>
-                </h1>
-                <!-- Uncomment below if you prefer to use an image logo -->
-            </div>
-            <!-- ======= Nav Menu Section ======= --> <?php include('navMenu.php'); ?>
-        </div>
-    </header><!-- End Header -->
+    <header id="header" class="fixed-top d-flex align-items-center ">
+		<?php include "../navMenu.php" ?>
+	</header><!-- End Header -->
     <main id="main">
         <section class="partner" style="padding-top: 100px !important; padding-bottom: 100px !important;">
             <div class="container">
@@ -45,11 +36,11 @@
                         <p> Zeus™ is a 100% proudly Filipino-made product that is tailor-fitted to the Philippine landscape. No one better understands your airport’s needs like a fellow Filipino. </p>
                         <a class="btn-products" href="https://globaltigersolutions.com/products/enterprise/zeus.php">
                             Flight Information Display System
-						</a>
+                        </a>
                     </div>
                 </div>
                 <div class="row content px-4">
-                    <a class="btn-learn-more" href="../../partner.php#softwarePartners">
+                    <a class="btn-learn-more" href="../partner.php#softwarePartners">
                         <i class="icofont-arrow-left"></i> Other Partners </a>
                 </div>
             </div>

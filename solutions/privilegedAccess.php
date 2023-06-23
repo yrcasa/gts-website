@@ -13,17 +13,8 @@
 
 <body>
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-		<div class="container d-flex align-items-center">
-			<div class="logo mr-auto">
-				<h1 class="text-light">
-					<!-- <a href="index.html">GTS</a> -->
-					<a href="../index.php"><img src="../assets/img/gtslogo.png" alt="" class="img-fluid"></a>
-				</h1>
-				<!-- Uncomment below if you prefer to use an image logo -->
-			</div>
-			<!-- ======= Nav Menu Section ======= --> <?php include('navMenu.php'); ?>
-		</div>
+	<header id="header" class="fixed-top d-flex align-items-center ">
+		<?php include "../navMenu.php" ?>
 	</header><!-- End Header -->
 	<main id="main">
 		<section class="partner" style="padding-top: 100px !important;">
@@ -42,23 +33,23 @@
 						<p> From ransomware and insider threat, to business email compromise and anything in between, Heimdal® protects your operational integrity by stopping even the most sophisticated cyberattacks from day one. Heimdal® combines threat prevention, vulnerability management, access management, and antivirus and e-mail security into a single platform.
 						</p>
 						<div>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								Privileges and Application Control
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								Vulnerability Management
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								Threat Hunting
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								Email Protection
 							</a>
 						</div>
 					</div>
 				</div>
 				<div class="row content px-4">
-					<a class="btn-learn-more" href="../../partner.php#softwarePartners">
+					<a class="btn-learn-more" href="../partner.php#softwarePartners">
 						<i class="icofont-arrow-left"></i> Other Partners </a>
 				</div>
 			</div>

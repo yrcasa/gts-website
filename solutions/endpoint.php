@@ -13,17 +13,8 @@
 
 <body>
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-		<div class="container d-flex align-items-center">
-			<div class="logo mr-auto">
-				<h1 class="text-light">
-					<!-- <a href="index.html">GTS</a> -->
-					<a href="../index.php"><img src="../assets/img/gts_v2.webp" alt="" class="img-fluid"></a>
-				</h1>
-				<!-- Uncomment below if you prefer to use an image logo -->
-			</div>
-			<!-- ======= Nav Menu Section ======= --> <?php include('navMenu.php'); ?>
-		</div>
+	<header id="header" class="fixed-top d-flex align-items-center ">
+		<?php include "../navMenu.php" ?>
 	</header><!-- End Header -->
 	<main id="main">
 		<section class="partner" style="padding-top: 100px !important; padding-bottom: 100px !important;">
@@ -34,25 +25,45 @@
 				</div>
 				<div class="row content py-2">
 					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
-						<img src="../assets/img/solutions/heimdal1.png" alt="" srcset="" width="90%" class="justify-content-center">
+						<img src="../assets/img/solutions/watchguard.webp" alt="" srcset="" width="90%" class="justify-content-center">
 					</div>
 					<div class="col-md-8 col-sm-16 mt-4">
-						<h1 style="font-size: xx-large;" class="mb-3">Heimdal Security</h1>
-						<h4 style="font-weight:600;" class="mb-3">Revolutionary. Unified. AI Cybersecurity.</h4>
-						<p> From ransomware and insider threat, to business email compromise and anything in between, Heimdal® protects your operational integrity by stopping even the most sophisticated cyberattacks from day one. Heimdal® combines threat prevention, vulnerability management, access management, and antivirus and e-mail security into a single platform.
-						</p>
-						<div>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								Privileges and Application Control
+						<h1 style="font-size: xx-large;" class="mb-3">Watchguard</h1>
+						<h4 style="font-weight:600;" class="mb-3">Unleash the Security of ONE</h4>
+						<p> WatchGuard’s Unified Security Platform is built from the ground up to enable efficient, powerful security services with increased scale and velocity while gaining operational efficiencies. WatchGuard Cloud™️ is a complete portfolio of endpoint, multi-factor authentication, and network security products and services for protecting environments, users, and devices.
+						<div class="">
+							<a class="btn-products" href="#">
+								EPDR
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
+								Advanced EPDR
+							</a>
+							<a class="btn-products" href="#">
+								XDR
+							</a>
+							<a class="btn-products" href="#">
 								Vulnerability Management
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								Threat Hunting
+							<a class="btn-products" href="#">
+								EPP
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								Email Protection
+							<a class="btn-products" href="#">
+								EDR
+							</a>
+							<a class="btn-products" href="#">
+								Full Disk Encryption
+							</a>
+							<a class="btn-products" href="#">
+								WG Cloud
+							</a>
+							<a class="btn-products" href="#">
+								Authpoint
+							</a>
+							<a class="btn-products" href="#">
+								DNSWatchGo
+							</a>
+							<a class="btn-products" href="#">
+								Firebox
 							</a>
 						</div>
 					</div>
@@ -67,13 +78,13 @@
 						<p> Norton's passion is more than just offering device security, identity protection, online privacy, and all-in-one protection. It’s to empower you and your family to feel safer in your everyday digital life. We believe that when you worry less about the darkness of cybercrime, you can live on the bright side. The new Norton. This is digital living on the bright side.
 						</p>
 						<div class="">
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								Antivirus Plus
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								360 Deluxe
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								360 For Gamers
 							</a>
 						</div>
@@ -81,7 +92,7 @@
 				</div>
 				<div class="row content py-2">
 					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
-						<img src="../assets/img/solutions/panda.png" alt="" srcset="" width="90%" class="justify-content-center">
+						<img src="../assets/img/solutions/panda.webp" alt="" srcset="" width="90%" class="justify-content-center">
 					</div>
 					<div class="col-md-8 col-sm-16 mt-4">
 						<h1 style="font-size: xx-large;" class="mb-3">Panda Security</h1>
@@ -89,56 +100,60 @@
 						<p> With Panda Security, a WatchGuard brand, you have the most advanced protection for your family and your business. Panda Dome offers maximum security against viruses, ransomware, and cyberespionage for Windows, Mac, Android and iOS. Panda Security delivers the protection your customers want and need. Grow your business alongside a leader in cybersecurity.
 						</p>
 						<div class="">
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								Dome
+							<a class="btn-products" href="#">
+								Dome Advanced
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
+								Dome Complete
+							</a>
+							<a class="btn-products" href="#">
 								EP
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								EPP
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								AD360
+							</a>
+							<a class="btn-products" href="#">
+								EPDR
+							</a>
+							<a class="btn-products" href="#">
+								Vulnerability Management
+							</a>
+							<a class="btn-products" href="#">
+								Full Disk Encryption
 							</a>
 						</div>
 					</div>
 				</div>
 				<div class="row content py-2">
 					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
-						<img src="../assets/img/solutions/watchguard.png" alt="" srcset="" width="90%" class="justify-content-center">
+						<img src="../assets/img/solutions/heimdal1.png" alt="" srcset="" width="90%" class="justify-content-center">
 					</div>
 					<div class="col-md-8 col-sm-16 mt-4">
-						<h1 style="font-size: xx-large;" class="mb-3">Watchguard</h1>
-						<h4 style="font-weight:600;" class="mb-3">Unleash the Security of ONE</h4>
-						<p> WatchGuard’s Unified Security Platform is built from the ground up to enable efficient, powerful security services with increased scale and velocity while gaining operational efficiencies. WatchGuard Cloud™️ is a complete portfolio of endpoint, multi-factor authentication, and network security products and services for protecting environments, users, and devices.
-						<div class="">
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								EPP
+						<h1 style="font-size: xx-large;" class="mb-3">Heimdal Security</h1>
+						<h4 style="font-weight:600;" class="mb-3">Revolutionary. Unified. AI Cybersecurity.</h4>
+						<p> From ransomware and insider threat, to business email compromise and anything in between, Heimdal® protects your operational integrity by stopping even the most sophisticated cyberattacks from day one. Heimdal® combines threat prevention, vulnerability management, access management, and antivirus and e-mail security into a single platform.
+						</p>
+						<div>
+							<a class="btn-products" href="#">
+								Privileges and Application Control
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								EDR
+							<a class="btn-products" href="#">
+								Vulnerability Management
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								EPDR
+							<a class="btn-products" href="#">
+								Threat Hunting
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								XDR
-							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								Authpoint
-							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								DNSWatchGo
-							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
-								Firebox
+							<a class="btn-products" href="#">
+								Email Protection
 							</a>
 						</div>
 					</div>
 				</div>
 				<div class="row content px-4">
-					<a class="btn-learn-more" href="../../partner.php#softwarePartners">
+					<a class="btn-learn-more" href="../partner.php#softwarePartners">
 						<i class="icofont-arrow-left"></i> Other Partners </a>
 				</div>
 			</div>

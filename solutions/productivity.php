@@ -16,18 +16,9 @@
 
 <body>
     <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-        <div class="container d-flex align-items-center">
-            <div class="logo mr-auto">
-                <h1 class="text-light">
-                    <!-- <a href="index.html">GTS</a> -->
-                    <a href="../index.php"><img src="../assets/img/gts_v2.webp" alt="" class="img-fluid"></a>
-                </h1>
-                <!-- Uncomment below if you prefer to use an image logo -->
-            </div>
-            <!-- ======= Nav Menu Section ======= --> <?php include('navMenu.php'); ?>
-        </div>
-    </header><!-- End Header -->
+    <header id="header" class="fixed-top d-flex align-items-center ">
+		<?php include "../navMenu.php" ?>
+	</header><!-- End Header -->
     <main id="main">
         <section class="partner" style="padding-top: 100px !important; padding-bottom: 100px !important;">
             <div class="container">
@@ -45,7 +36,7 @@
                         <p> Founded in 2006 as an innovative research company with focus on computer vision technology, through years of intensive R&D work Agisoft LLC has gained expertise in image processing algorithms, with digital photogrammetry techniques setting the direction for development of applied tools.
                         </p>
                         <div>
-                            <a class="btn-products" href="../../partner.php#softwarePartners">
+                            <a class="btn-products" href="#">
                                 Metashape
                             </a>
                         </div>
@@ -61,13 +52,13 @@
                         <p> Foxit’s mission is to develop market leading and innovative PDF products and services, helping knowledge workers to increase their productivity. Foxit is the Industry’s most powerful PDF Reader Solution.
                         </p>
                         <div>
-                            <a class="btn-products" href="../../partner.php#softwarePartners">
+                            <a class="btn-products" href="#">
                                 PDF Editor Suite
                             </a>
-                            <a class="btn-products" href="../../partner.php#softwarePartners">
+                            <a class="btn-products" href="#">
                                 eSign
                             </a>
-                            <a class="btn-products" href="../../partner.php#softwarePartners">
+                            <a class="btn-products" href="#">
                                 Volume Automation
                             </a>
                         </div>
@@ -83,23 +74,23 @@
                         <p> More than 50% of the Fortune 500 rely on Navicat every day. Navicat customers include numerous Fortune 500 companies, government departments, educational institutions from preschools to universities, system integrators, and commercial/non-profit organizations in a variety of markets including information technology, retail, medical, transportation services/logistics, hospitality, banking, manufacturing, and more.
                         </p>
                         <div>
-                            <a class="btn-products" href="../../partner.php#softwarePartners">
+                            <a class="btn-products" href="#">
                                 Monitor
                             </a>
-                            <a class="btn-products" href="../../partner.php#softwarePartners">
+                            <a class="btn-products" href="#">
                                 Data Modeler
                             </a>
-                            <a class="btn-products" href="../../partner.php#softwarePartners">
+                            <a class="btn-products" href="#">
                                 Collaboration
                             </a>
-                            <a class="btn-products" href="../../partner.php#softwarePartners">
+                            <a class="btn-products" href="#">
                                 Charts
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="row content px-4">
-                    <a class="btn-learn-more" href="../../partner.php#softwarePartners">
+                    <a class="btn-learn-more" href="../partner.php#softwarePartners">
                         <i class="icofont-arrow-left"></i> Other Partners </a>
                 </div>
             </div>

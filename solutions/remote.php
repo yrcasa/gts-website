@@ -13,17 +13,8 @@
 
 <body>
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-		<div class="container d-flex align-items-center">
-			<div class="logo mr-auto">
-				<h1 class="text-light">
-					<!-- <a href="index.html">GTS</a> -->
-					<a href="index.php"><img src="../assets/img/gtslogo.png" alt="" class="img-fluid"></a>
-				</h1>
-				<!-- Uncomment below if you prefer to use an image logo -->
-			</div>
-			<!-- ======= Nav Menu Section ======= --> <?php include('navMenu.php'); ?>
-		</div>
+	<header id="header" class="fixed-top d-flex align-items-center ">
+		<?php include "../navMenu.php" ?>
 	</header><!-- End Header -->
 	<main id="main">
 		<section class="partner my-3" style="padding-top: 100px !important; padding-bottom:200px">
@@ -33,18 +24,18 @@
 					<h2>Remote Access & Monitoring Security</h2>
 				</div>
 				<div class="row content py-2">
-                    <div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
-                        <img src="../assets/img/solutions/anydesk.png" alt="" srcset="" width="90%" class="justify-content-center">
-                    </div>
-                    <div class="col-md-8 col-sm-16 mt-4">
-                        <h1 style="font-size: xx-large;" class="mb-3">Anydesk</h1>
-                        <h4 style="font-weight:600;" class="mb-3">The Fast Remote Desktop Application</h4>
-                        <p> Discover industry-leading performance, high frame rates and low latency to offer you the best experience. No other solution on the market offers you the same performance!
-                        </p>
-                    </div>
-                </div>
+					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
+						<img src="../assets/img/solutions/anydesk.png" alt="" srcset="" width="90%" class="justify-content-center">
+					</div>
+					<div class="col-md-8 col-sm-16 mt-4">
+						<h1 style="font-size: xx-large;" class="mb-3">Anydesk</h1>
+						<h4 style="font-weight:600;" class="mb-3">The Fast Remote Desktop Application</h4>
+						<p> Discover industry-leading performance, high frame rates and low latency to offer you the best experience. No other solution on the market offers you the same performance!
+						</p>
+					</div>
+				</div>
 				<div class="row content px-4">
-					<a class="btn-learn-more" href="../../partner.php#softwarePartners">
+					<a class="btn-learn-more" href="../partner.php#softwarePartners">
 						<i class="icofont-arrow-left"></i> Other Partners </a>
 				</div>
 			</div>

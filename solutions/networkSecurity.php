@@ -13,17 +13,8 @@
 
 <body>
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-		<div class="container d-flex align-items-center">
-			<div class="logo mr-auto">
-				<h1 class="text-light">
-					<!-- <a href="index.html">GTS</a> -->
-					<a href="index.php"><img src="../assets/img/gtslogo.png" alt="" class="img-fluid"></a>
-				</h1>
-				<!-- Uncomment below if you prefer to use an image logo -->
-			</div>
-			<!-- ======= Nav Menu Section ======= --> <?php include('navMenu.php'); ?>
-		</div>
+	<header id="header" class="fixed-top d-flex align-items-center ">
+		<?php include "../navMenu.php" ?>
 	</header><!-- End Header -->
 	<main id="main">
 		<section class="partner" style="padding-top: 100px !important;">
@@ -41,10 +32,10 @@
 						<h4 style="font-weight:600;" class="mb-3">Secure networking solutions for the home and office</h4>
 						<p> The world’s most popular, feature-rich and robust firewall, router and VPN solutions. Ideal for personal users, professional users, and organizations looking for easy-to-use, powerful, flexible, proven solutions for safely connecting to the Internet. </p>
 						<div>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								pfSense Netgate
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								TNSR
 							</a>
 						</div>
@@ -59,36 +50,36 @@
 						<h4 style="font-weight:600;" class="mb-3">Unleash the Security of ONE</h4>
 						<p> WatchGuard’s Unified Security Platform is built from the ground up to enable efficient, powerful security services with increased scale and velocity while gaining operational efficiencies. WatchGuard Cloud™️ is a complete portfolio of endpoint, multi-factor authentication, and network security products and services for protecting environments, users, and devices.
 						<div class="">
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								EPP
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								EDR
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								EPDR
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								XDR
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								Authpoint
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								DNSWatchGo
 							</a>
-							<a class="btn-products" href="../../partner.php#softwarePartners">
+							<a class="btn-products" href="#">
 								Firebox
 							</a>
 						</div>
 					</div>
 				</div>
 				<div class="row content px-4">
-					<a class="btn-learn-more" href="../../partner.php#softwarePartners">
+					<a class="btn-learn-more" href="../partner.php#softwarePartners">
 						<i class="icofont-arrow-left"></i> Other Partners </a>
 				</div>
 			</div>
-		</section> 
+		</section>
 	</main>
 	<!-- Footer Section  --> <?php include "../footer.php" ?> <!--End Footer Section -->
 	<a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
