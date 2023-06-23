@@ -196,7 +196,7 @@ section {
 --------------------------------------------------------------*/
 @media screen and (max-width: 768px) {
   [data-aos-delay] {
-      transition-delay: 0 !important;
+    transition-delay: 0 !important;
   }
 }
 
@@ -361,15 +361,15 @@ section {
 
 @media (max-width: 1366px) {
   .nav-menu .drop-down .drop-down ul {
-      left: -90%;
+    left: -90%;
   }
 
   .nav-menu .drop-down .drop-down:hover>ul {
-      left: -100%;
+    left: -100%;
   }
 
   .nav-menu .drop-down .drop-down>a:after {
-      content: "\ea9d";
+    content: "\ea9d";
   }
 }
 
@@ -578,22 +578,22 @@ section {
 
 @media (min-width: 1024px) {
   #hero p {
-      width: 60%;
+    width: 60%;
   }
 
   #hero .carousel-control-prev,
   #hero .carousel-control-next {
-      width: 5%;
+    width: 5%;
   }
 }
 
 @media (max-width: 768px) {
   #hero .carousel-container {
-      height: 90vh;
+    height: 90vh;
   }
 
   #hero h2 {
-      font-size: 28px;
+    font-size: 28px;
   }
 }
 
@@ -627,61 +627,61 @@ section {
 
 @-webkit-keyframes move-forever1 {
   0% {
-      transform: translate(85px, 0%);
+    transform: translate(85px, 0%);
   }
 
   100% {
-      transform: translate(-90px, 0%);
+    transform: translate(-90px, 0%);
   }
 }
 
 @keyframes move-forever1 {
   0% {
-      transform: translate(85px, 0%);
+    transform: translate(85px, 0%);
   }
 
   100% {
-      transform: translate(-90px, 0%);
+    transform: translate(-90px, 0%);
   }
 }
 
 @-webkit-keyframes move-forever2 {
   0% {
-      transform: translate(-90px, 0%);
+    transform: translate(-90px, 0%);
   }
 
   100% {
-      transform: translate(85px, 0%);
+    transform: translate(85px, 0%);
   }
 }
 
 @keyframes move-forever2 {
   0% {
-      transform: translate(-90px, 0%);
+    transform: translate(-90px, 0%);
   }
 
   100% {
-      transform: translate(85px, 0%);
+    transform: translate(85px, 0%);
   }
 }
 
 @-webkit-keyframes move-forever3 {
   0% {
-      transform: translate(-90px, 0%);
+    transform: translate(-90px, 0%);
   }
 
   100% {
-      transform: translate(85px, 0%);
+    transform: translate(85px, 0%);
   }
 }
 
 @keyframes move-forever3 {
   0% {
-      transform: translate(-90px, 0%);
+    transform: translate(-90px, 0%);
   }
 
   100% {
-      transform: translate(85px, 0%);
+    transform: translate(85px, 0%);
   }
 }
 
@@ -872,8 +872,8 @@ section {
 /* Edited 04/17/2020 DESC Added Media query if the width has the size a mobile phone  */
 @media (max-width: 753px) {
   .features .nav-link #icon {
-      padding-right: 0px;
-      font-size: 25px;
+    padding-right: 0px;
+    font-size: 25px;
   }
 }
 
@@ -895,19 +895,19 @@ section {
 
 @media (max-width: 768px) {
   .features .nav-link i {
-      padding: 0;
-      line-height: 1;
-      font-size: 36px;
+    padding: 0;
+    line-height: 1;
+    font-size: 36px;
   }
 }
 
 @media (max-width: 575px) {
   .features .nav-link {
-      padding: 15px;
+    padding: 15px;
   }
 
   .features .nav-link i {
-      font-size: 24px;
+    font-size: 24px;
   }
 }
 
@@ -948,11 +948,78 @@ section {
 
 
 --------------------------------------------------------------*/
+
 .cta {
+  background-color: #333;
+  background-size: cover;
+  padding: 80px 0;
+}
+
+
+.netgate {
   background: url('../../img/wave-background-1.png') no-repeat center;
   background-size: cover;
   padding: 80px 0;
 }
+
+.foxit {
+  background: url('../../img/foxit_bg.png') no-repeat center;
+  background-size: cover;
+  padding: 80px 0;
+}
+
+.anydesk {
+  background: url('../../img/productpagebanner/anydesk/anydesk_bg.png') no-repeat center;
+  background-size: cover;
+  padding: 80px 0;
+}
+
+.agisoft {
+  background: url('../../img/productpagebanner/agisoft/agisoft-bg.png') no-repeat center;
+  background-size: cover;
+  padding: 80px 0;
+}
+
+.norton {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('../../img/norton_bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 200px 0;
+}
+
+.visualp {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('../../img/uml-modeling-tool.webp');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 200px 0;
+}
+
+.watchguard {
+  background-image: url('../../img/productpagebanner/watchguard/PP_Shout_XDR_ThreatSync.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 150px 0;
+}
+
+.navicat {
+  background-image:
+    url('../../img/productpagebanner/navicat/navicat-bg.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 150px 0;
+}
+
+.navicat p {
+  font-size: 1em;
+  color: rgb(237,183,183);
+}
+
 
 .cta h3 {
   color: #fff;
@@ -988,15 +1055,15 @@ section {
 
 @media (max-width: 1024px) {
   .cta {
-      background-attachment: scroll;
+    background-attachment: scroll;
   }
 }
 
 @media (min-width: 769px) {
   .cta .cta-btn-container {
-      display: flex;
-      align-items: center;
-      justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
   }
 }
 
@@ -1181,7 +1248,7 @@ section {
 
 @media (max-width: 767px) {
   .partners {
-      margin: 30px 10px;
+    margin: 30px 10px;
   }
 }
 
@@ -1432,7 +1499,7 @@ section {
 
 @media (max-width: 767px) {
   .testimonials {
-      margin: 30px 10px;
+    margin: 30px 10px;
   }
 }
 
@@ -1869,21 +1936,21 @@ background: #ef6603;
 
 @-webkit-keyframes animate-loading {
   0% {
-      transform: rotate(0deg);
+    transform: rotate(0deg);
   }
 
   100% {
-      transform: rotate(360deg);
+    transform: rotate(360deg);
   }
 }
 
 @keyframes animate-loading {
   0% {
-      transform: rotate(0deg);
+    transform: rotate(0deg);
   }
 
   100% {
-      transform: rotate(360deg);
+    transform: rotate(360deg);
   }
 }
 
@@ -1929,15 +1996,15 @@ background: #ef6603;
 
 @media (max-width: 768px) {
   .breadcrumbs .d-flex {
-      display: block !important;
+    display: block !important;
   }
 
   .breadcrumbs ol {
-      display: block;
+    display: block;
   }
 
   .breadcrumbs ol li {
-      display: inline-block;
+    display: inline-block;
   }
 }
 
@@ -2027,8 +2094,8 @@ background: #ef6603;
 
 @media (max-width: 768px) {
   .portfolio-details .portfolio-info {
-      position: static;
-      margin-top: 30px;
+    position: static;
+    margin-top: 30px;
   }
 }
 
@@ -2096,23 +2163,23 @@ background: #ef6603;
 
 @media only screen and (min-width: 768px) {
   #first {
-      border-right: 1px solid gray;
-      border-bottom: 0px;
+    border-right: 1px solid gray;
+    border-bottom: 0px;
   }
 
   #second {
-      border-right: 1px solid gray;
-      border-bottom: 0px;
+    border-right: 1px solid gray;
+    border-bottom: 0px;
   }
 
   #third {
-      border-right: 1px solid gray;
-      border-bottom: 0px;
+    border-right: 1px solid gray;
+    border-bottom: 0px;
   }
 
   #fourth {
-      border-right: 1px solid gray;
-      border-bottom: 0px;
+    border-right: 1px solid gray;
+    border-bottom: 0px;
   }
 }
 
