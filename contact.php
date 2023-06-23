@@ -39,41 +39,30 @@
 
   ======================================================== -->
 	<script>
-	window.dataLayer = window.dataLayer || [];
+		window.dataLayer = window.dataLayer || [];
 
-	function gtag()
-	{
-		dataLayer.push(arguments);
-	}
-	gtag('js', new Date());
-	gtag('config', 'UA-9144299-1');
-	/* Custom Search Element API */
-	(function()
-	{
-		var cx = '004381368140357569196:v38j-dz2r1k';
-		var gcse = document.createElement('script');
-		gcse.type = 'text/javascript';
-		gcse.async = true;
-		gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-		var s = document.getElementsByTagName('script')[0];
-		s.parentNode.insertBefore(gcse, s);
-	})();
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+		gtag('config', 'UA-9144299-1');
+		/* Custom Search Element API */
+		(function() {
+			var cx = '004381368140357569196:v38j-dz2r1k';
+			var gcse = document.createElement('script');
+			gcse.type = 'text/javascript';
+			gcse.async = true;
+			gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(gcse, s);
+		})();
 	</script>
 </head>
 
 <body>
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-		<div class="container d-flex align-items-center">
-			<div class="logo mr-auto">
-				<h1 class="text-light">
-					<!-- <a href="index.html">GTS</a> -->
-					<a href="index.php"><img src="assets/img/gtslogo.png" alt="" class="img-fluid"></a>
-				</h1>
-				<!-- Uncomment below if you prefer to use an image logo -->
-			</div>
-			<!-- ======= Nav Menu Section ======= --> <?php include "navMenu.php"; ?>
-		</div>
+	<header id="header" class="fixed-top d-flex align-items-center header-transparent ">
+		<?php include "navMenu.php" ?>
 	</header><!-- End Header -->
 	<main id="main">
 		<!-- ======= Pricing Section ======= -->
@@ -96,7 +85,7 @@
 							<i class="las la-info" style="color: #ff689b; font-size:100px; padding-bottom: 30px;"></i>
 							<p class="par">Our experts would love to help you out if you have any questions.</p>
 							<span class="text-center">
-								<a href="mailto:<?php echo $emailSales?>"><?php echo $emailSales?></a>
+								<a href="mailto:<?php echo $emailSales ?>"><?php echo $emailSales ?></a>
 							</span>
 						</div>
 					</div>
@@ -133,7 +122,7 @@
 			</div>
 		</section><!-- End Pricing Section -->
 	</main>
-	<!-- ======= Footer ======= --> <?php include "footer.php"?> <!-- End Footer -->
+	<!-- ======= Footer ======= --> <?php include "footer.php" ?> <!-- End Footer -->
 	<a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
 	<!-- Vendor JS Files -->
 	<script src="assets/vendor/jquery/jquery.min.js"></script>
@@ -147,11 +136,10 @@
 	<!-- Template Main JS File -->
 	<script src="assets/js/contact-main.js"></script>
 	<script type="text/javascript">
-	$('.carousel').carousel(
-	{
-		interval: 6000,
-		pause: "false"
-	});
+		$('.carousel').carousel({
+			interval: 6000,
+			pause: "false"
+		});
 	</script>
 </body>
 

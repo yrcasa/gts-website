@@ -62,18 +62,9 @@
 
 <body>
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-		<div class="container d-flex align-items-center">
-			<div class="logo mr-auto">
-				<h1 class="text-light">
-					<!-- <a href="index.html">GTS</a> -->
-					<a href="index.php"><img src="assets/img/gtslogo.png" alt="" class="img-fluid"></a>
-				</h1>
-				<!-- Uncomment below if you prefer to use an image logo -->
-			</div>
-			<!-- ======= Nav Menu Section ======= --> <?php include "navMenu.php"; ?>
-		</div>
-	</header><!-- End Header -->
+	<header id="header" class="fixed-top d-flex align-items-center header-transparent ">
+    <?php include "navMenu.php" ?>
+  </header><!-- End Header -->
 	<main id="main">
 		<!-- ======= Pricing Section ======= -->
 		<section id="expertise" class="expertise" style="padding-top: 100px !important;">

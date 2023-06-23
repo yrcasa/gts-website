@@ -30,12 +30,12 @@
         <div class="" id="second">
             <h3>Our Solutions</h3>
             <ul class="nav-flex-column list-unstyled">
-                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Endpoint Protection and CyberSecurity</a> </li>
-                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php#firewall">Network Security and Firewall</a></li>
-                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php">Privileged Access Management</a></li>
-                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Remote Access and Monitoring</a></li>
-                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/products/enterprise/zeus.php">Flight Information Display System</a></li>
-                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partners/software/foxit.php">PDF Editor Software & PDF Solutions</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/solutions/endpoint.php">Endpoint Protection and CyberSecurity</a> </li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/solutions/networkSecurity.php">Network Security and Firewall</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/solutions/privilegedAccess.php">Privileges and Access Control</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/solutions/remote.php">Remote Access and Monitoring</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/solutions/aviation.php">Aviation Solutions</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/solutions/productivity.php">Productivity Solutions</a></li>
             </ul>
         </div>
 

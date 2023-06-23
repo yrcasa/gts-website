@@ -13,7 +13,7 @@
             <div class="companySlider-item"><img src="assets/img/clients/asianterminals.jpg" halign="center" height="160px" width="60px"> </div>
             <div class="companySlider-item"><img src="assets/img/clients/asiapacificcollege.webp" halign="center" height="160px" width="60px"> </div>
             <div class="companySlider-item"><img src="assets/img/clients/camayacoast.webp" halign="center" height="160px" width="60px"> </div>
-            <div class="companySlider-item"><img src="assets/img/clients/cdo.webp" halign="center" height="160px" width="60px"> </div>
+            <div class="companySlider-item"><img src="assets/img/clients/CDO.webp" halign="center" height="160px" width="60px"> </div>
             <div class="companySlider-item"><img src="assets/img/clients/continental.jpg" halign="center" height="160px" width="60px"> </div>
             <div class="companySlider-item"><img src="assets/img/clients/datablitz.webp" halign="center" height="160px" width="60px"> </div>
             <div class="companySlider-item"><img src="assets/img/clients/delmonte.webp" halign="center" height="160px" width="60px"> </div>
