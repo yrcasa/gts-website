@@ -65,16 +65,9 @@
 
 <body>
     <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-        <div class="container d-flex align-items-center">
-            <div class="logo mr-auto">
-                <h1 class="text-light"><a href="../../index.php"><img src="../../assets/img/gtslogo.png" alt="" class="img-fluid"></a></h1>
-                <!-- Uncomment below if you prefer to use an image logo -->
-                <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-            </div>
-            <!-- ======= Nav Menu Section ======= --> <?php include "../../navMenu.php"; ?>
-        </div>
-    </header>
+    <header id="header" class="fixed-top d-flex align-items-center ">
+        <?php include "../../navMenu.php" ?>
+    </header><!-- End Header -->
     <!-- End Header -->
     <!-- ======= Hero Section ======= -->
     <!-- <section id="hero" class="d-flex flex-column justify-content-end align-items-center">
@@ -211,6 +204,22 @@
                     <p>Partners</p>
                     <h2>Norton Cyber Safety</h2>
                 </div>
+        </section>
+        <section id="cta" class="cta norton">
+            <div class="container">
+                <div class="row" data-aos="zoom-out">
+                    <div class="col-lg-6 text-center text-lg-left">
+                        <h3>Norton</h3>
+                        <p>Norton 360. Comprehensive protection with device security including antivirus, a password manager and more. All in a single solution. </p>
+                    </div>
+                    <div class="col-lg-3 cta-btn-container text-center">
+                        <!-- <a class="cta-btn align-middle" href="contact.php">Contact</a> -->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="my-4">
+            <div class="container">
                 <div class="row content">
                     <div class="col-md-6 col-sm-12">
                         <img src="../../assets/img/solutions/norton.png" width="90%">
@@ -240,7 +249,7 @@
                 </div>
             </div>
         </section>
-        <!-- ======= Partner  Section ======= -->  
+        <!-- ======= Partner  Section ======= -->
     </main>
     <!-- Footer Section  --> <?php include "../../footer.php" ?>
     <!--End Footer Section -->

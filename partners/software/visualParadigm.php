@@ -57,16 +57,9 @@
 
 <body>
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-    <div class="container d-flex align-items-center">
-      <div class="logo mr-auto">
-        <h1 class="text-light"><a href="../../index.php"><img src="../../assets/img/gtslogo.png" alt="" class="img-fluid"></a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      </div>
-      <!-- ======= Nav Menu Section ======= --> <?php include "../../navMenu.php"; ?>
-    </div>
-  </header>
+  <header id="header" class="fixed-top d-flex align-items-center ">
+    <?php include "../../navMenu.php" ?>
+  </header><!-- End Header -->
   <!-- End Header -->
   <main id="main">
     <section id="partner" class="partner" style="padding-top: 100px !important;">
@@ -76,6 +69,23 @@
           <p>Partners</p>
           <h2>Visual Paradigm</h2>
         </div>
+      </div>
+    </section>
+    <section id="cta" class="cta visualp">
+      <div class="container">
+        <div class="row" data-aos="zoom-out">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3>Visual Paradigm</h3>
+            <p>The #1 Development Tool Suite that drives your project to success </p>
+          </div>
+          <!-- <div class="col-lg-3 cta-btn-container text-center">
+            
+          </div> -->
+        </div>
+      </div>
+    </section>
+    <section>
+      <div class="container">
         <div class="row content">
           <div class="col-md-6 col-sm-12">
             <img src="../../assets/img/productpagebanner/visualParadigm/Visual_Paradigm_screenshot.png" width="100%">
@@ -90,7 +100,7 @@
             </ul>
           </div>
           <div class="col-md-6 col-sm-12">
-            <h1> VISUAL PARADIGM </h1>
+            <img src="../../assets/img/solutions/vplogo_300.png" alt="" class="w-75 mb-2">
             <p> Visual Paradigm is a leading and globally recognized provider for Business and IT Transformation software solutions. It enables organizations to improve business and IT agility and foster innovation through popular open standards. Our award-winning products are trusted by over 320,000 users in companies ranging from small business, consultants, to blue chip organizations, universities and government units across the globe. </p>
             <p> Global Tiger Solutions is a partner and an authorized reseller of Visual Paradigm Software products. </p>
             <h4><strong>For inquiries, please contact:</strong></h4>
@@ -104,7 +114,7 @@
         </div>
       </div>
     </section>
-    <!-- ======= Partner  Section ======= -->  
+    <!-- ======= Partner  Section ======= -->
   </main>
   <!-- Footer Section  --> <?php include "../../footer.php" ?> <!--End Footer Section -->
   <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>

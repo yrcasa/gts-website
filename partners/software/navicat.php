@@ -62,20 +62,9 @@
 <body>
 
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-    <div class="container d-flex align-items-center">
-
-      <div class="logo mr-auto">
-        <h1 class="text-light"><a href="../../index.php"><img src="../../assets/img/gtslogo.png" alt="" class="img-fluid"></a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      </div>
-
-      <!-- ======= Nav Menu Section ======= -->
-      <?php include "../../navMenu.php"; ?>
-
-    </div>
-  </header>
+  <header id="header" class="fixed-top d-flex align-items-center ">
+    <?php include "../../navMenu.php" ?>
+  </header><!-- End Header -->
   <!-- End Header -->
 
   <main id="main">
@@ -90,6 +79,26 @@
           <h2>Navicat</h2>
         </div>
 
+      </div>
+
+    </section>
+
+    <section id="cta" class="cta navicat">
+      <div class="container">
+        <div class="row" data-aos="zoom-out">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3 style="color: #f5d755;">Navicat</h3>
+            <p style="color: #f5d755;">Supercharge your performance. </p>
+            <p style="color: #f5d755;">New way to build, manage, and maintain your data.</p>
+          </div>
+          <!-- <div class="col-lg-3 cta-btn-container text-center">
+            
+          </div> -->
+        </div>
+      </div>
+    </section>
+    <section class="my-4">
+      <div class="container">
         <div class="row content">
 
           <div class="col-md-6 col-sm-12">
@@ -144,13 +153,11 @@
           </div>
 
         </div>
-
       </div>
-
     </section>
 
     <!-- ======= Partner  Section ======= -->
-     
+
 
   </main>
 

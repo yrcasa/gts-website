@@ -57,16 +57,9 @@
 
 <body>
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-    <div class="container d-flex align-items-center">
-      <div class="logo mr-auto">
-        <h1 class="text-light"><a href="../../index.php"><img src="../../assets/img/gtslogo.png" alt="" class="img-fluid"></a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      </div>
-      <!-- ======= Nav Menu Section ======= --> <?php include "../../navMenu.php"; ?>
-    </div>
-  </header>
+  <header id="header" class="fixed-top d-flex align-items-center ">
+		<?php include "../../navMenu.php" ?>
+	</header><!-- End Header -->
   <!-- End Header -->
   <main id="main">
     <section id="partner" class="partner" style="padding-top: 100px !important;">

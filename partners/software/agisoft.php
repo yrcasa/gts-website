@@ -57,16 +57,9 @@
 
 <body>
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-    <div class="container d-flex align-items-center">
-      <div class="logo mr-auto">
-        <h1 class="text-light"><a href="../../index.php"><img src="../../assets/img/gtslogo.png" alt="" class="img-fluid"></a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      </div>
-      <!-- ======= Nav Menu Section ======= --> <?php include "../../navMenu.php"; ?>
-    </div>
-  </header>
+  <header id="header" class="fixed-top d-flex align-items-center ">
+    <?php include "../../navMenu.php" ?>
+  </header><!-- End Header -->
   <!-- End Header -->
   <main id="main">
     <section id="partner" class="partner" style="padding-top: 100px !important;">
@@ -76,6 +69,24 @@
           <p>Partners</p>
           <h2>Agisoft Metashape</h2>
         </div>
+      </div>
+    </section>
+    <section id="cta" class="cta agisoft">
+      <div class="container">
+        <div class="row" data-aos="zoom-out">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3>Agisoft</h3>
+            <p>Discover intelligent photogrammetry with Metashape </p>
+            <p>Process digital images and generate 3D spatial data. Fast and highly accurate.</p>
+          </div>
+          <!-- <div class="col-lg-3 cta-btn-container text-center">
+            
+          </div> -->
+        </div>
+      </div>
+    </section>
+    <section class="my-4">
+      <div class="container">
         <div class="row content">
           <div class="col-md-6 col-sm-12">
             <img src="../../assets/img/productpagebanner/agisoft/agisoft_prodbanner.jpg" width="60%" height="60%">
@@ -87,7 +98,7 @@
             </ul>
           </div>
           <div class="col-md-6 col-sm-12">
-            <h1> AGISOFT METASHAPE </h1>
+            <img src="../../assets/img/solutions/agisoft_metashape.webp" alt="" class="mb-2">
             <p> Agisoft Metashape (formerly PhotoScan) is now officially available in the Philippines. </p>
             <p> Agisoft Metashape inherits all the professional photogrammetric kit features from PhotoScan and offers some more to enrich your experience into the space of intelligent photogrammetry. </p>
             <p> Agisoft Metashape is a stand-alone software product that performs photogrammetric processing of digital images and generates 3D spatial data to be used in GIS applications, cultural heritage documentation, and visual effects production as well as for indirect measurements of objects of various scales.. </p>
@@ -103,7 +114,7 @@
         </div>
       </div>
     </section>
-    <!-- ======= Partner  Section ======= -->  
+    <!-- ======= Partner  Section ======= -->
   </main>
   <!-- Footer Section  --> <?php include "../../footer.php" ?> <!--End Footer Section -->
   <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>

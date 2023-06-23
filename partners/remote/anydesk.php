@@ -119,10 +119,10 @@
 
 
   <style>
-
     .katawan {
       font-family: 'Noto Sans', sans-serif;
     }
+
     .anydesk-intro {
 
       background: linear-gradient(to right, rgba(114, 28, 106, 1) 0, rgba(204, 20, 123, 1) 100%);
@@ -273,37 +273,9 @@
 
   <!-- ======= Header ======= -->
 
-  <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-
-    <div class="container d-flex align-items-center">
-
-
-
-      <div class="logo mr-auto">
-
-        <h1 class="text-light"><a href="../../index.php"><img src="../../assets/img/gtslogo.png" alt="" class="img-fluid"></a></h1>
-
-        <!-- Uncomment below if you prefer to use an image logo -->
-
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-
-      </div>
-
-
-
-      <!-- ======= Nav Menu Section ======= -->
-
-      <?php include "../../navMenu.php"; ?>
-
-
-
-
-
-    </div>
-
-  </header>
-
-  <!-- End Header -->
+  <header id="header" class="fixed-top d-flex align-items-center ">
+		<?php include "../../navMenu.php" ?>
+	</header><!-- End Header -->
 
 
 
@@ -363,7 +335,20 @@
 
     </section>
 
-
+    <section id="cta" class="cta anydesk">
+      <div class="container">
+        <div class="row" data-aos="zoom-out">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3>Anydesk</h3>
+            <p>AnyWhere. AnyTime. AnyDesk </p>
+            <p>Discover professional user management with my.anydesk II, scalable on- and offboarding options, and a multitude of security layers.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <!-- <a class="cta-btn align-middle" href="contact.php">Contact</a> -->
+          </div>
+        </div>
+      </div>
+    </section>
 
 
 
@@ -379,7 +364,7 @@
 
         <img src="../../assets/img/productpagebanner/anydesk/anydesk3.png" alt="Performance | Security" class="img-fluid">
 
-        
+
 
       </div>
 

@@ -129,16 +129,9 @@
 
 <body>
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-    <div class="container d-flex align-items-center">
-      <div class="logo mr-auto">
-        <h1 class="text-light"><a href="../../index.php"><img src="../../assets/img/gtslogo.png" alt="" class="img-fluid"></a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      </div>
-      <!-- ======= Nav Menu Section ======= --> <?php include "../../navMenu.php"; ?>
-    </div>
-  </header>
+  <header id="header" class="fixed-top d-flex align-items-center ">
+    <?php include "../../navMenu.php" ?>
+  </header><!-- End Header -->
   <!-- End Header -->
   <main id="main">
     <section id="partner" class="partner" style="padding-top: 100px !important;">
@@ -148,9 +141,10 @@
           <p>Partners</p>
           <h2>Foxit</h2>
         </div>
-        <div class="row content foxit-intro">
-          <!-- Original  -->
-          <!-- <div class="col-md-6 col-sm-12">
+
+        <!-- <div class="row content foxit-intro"> -->
+        <!-- Original  -->
+        <!-- <div class="col-md-6 col-sm-12">
 
             <img src="../../assets/img/productpagebanner/foxit/foxit-product.png" width="90%">
 
@@ -229,8 +223,8 @@
             </a>
 
           </div> -->
-          <!-- New Version  -->
-          <div class="col-sm-12 text-center pt-5">
+        <!-- New Version  -->
+        <!-- <div class="col-sm-12 text-center pt-5">
             <h1>
               <span class="ph font-italic font-extrabold"> Foxit </span> - <span class="ph font-underline"> PDF Editor </span>
             </h1>
@@ -292,9 +286,23 @@
               </ul>
             </div>
           </div>
-        </div>
+        </div> -->
     </section>
-    <section id="foxit-feature" class="pricing text-center" style="padding-top:10px !important">
+    <section id="cta" class="cta foxit">
+      <div class="container">
+        <div class="row" data-aos="zoom-out">
+          <div class="col-lg-9 text-center text-lg-left">
+            <h3>Foxit</h3>
+            <p>Total Economic Impact™ by Forrester® </p>
+            <p>Understand your individual 3-year ROI of switching from legacy PDF Software to Foxit PDF Editor.</p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <!-- <a class="cta-btn align-middle" href="contact.php">Contact</a> -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- <section id="foxit-feature" class="pricing text-center" style="padding-top:10px !important">
       <div id="foxit-feature" class="section-sub-title text-center" data-aos="zoom-out">
         <h2>Features</h2>
       </div>
@@ -456,8 +464,13 @@
           </div>
         </div>
       </div>
+    </section> -->
+    <section id="features" class="py-5">
+      <div class="container">
+        <img src="../../assets/img/productpagebanner/foxit/foxit_img.png" alt="" class="object-fit-cover w-100">
+      </div>
     </section>
-    <!-- ======= Partner  Section ======= -->  
+    <!-- ======= Partner  Section ======= -->
   </main>
   <!-- Footer Section from the main directory  --> <?php include "../../footer.php" ?> <!--End Footer Section -->
   <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>

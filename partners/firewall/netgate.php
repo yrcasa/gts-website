@@ -1,3 +1,4 @@
+<?php include "../../loader.php" ?>
 <?php include("../../contactDetails.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -88,16 +89,9 @@
 
 <body>
     <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-        <div class="container d-flex align-items-center">
-            <div class="logo mr-auto">
-                <h1 class="text-light"><a href="../../index.php"><img src="../../assets/img/gtslogo.png" alt="" class="img-fluid"></a></h1>
-                <!-- Uncomment below if you prefer to use an image logo -->
-                <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-            </div>
-            <!-- ======= Nav Menu Section ======= --> <?php include "../../navMenu.php"; ?>
-        </div>
-    </header>
+    <header id="header" class="fixed-top d-flex align-items-center ">
+		<?php include "../../navMenu.php" ?>
+	</header><!-- End Header -->
     <!-- End Header -->
     <!-- ======= Hero Section ======= -->
     <!-- <section id="hero" class="d-flex flex-column justify-content-end align-items-center">
@@ -274,7 +268,7 @@
 
         </div> -->
             <!-- Background intro  -->
-            <section id="cta" class="cta">
+            <section id="cta" class="cta netgate">
                 <div class="container">
                     <div class="row" data-aos="zoom-out">
                         <div class="col-lg-9 text-center text-lg-left">
@@ -481,8 +475,8 @@
                                 </tr>
                                 <tr>
                                     <th scope="row" style="background-color: white !important; text-align: center">
-                                        <img src="../../assets/img/productpagebanner/netgate/xg-7100.png" alt="XG-7100">
-                                        <p class="text-primary">XG-7100</p>
+                                        <img src="../../assets/img/productpagebanner/netgate/netgate-8200.png" alt="XG-7100">
+                                        <p class="text-primary">Netgate 8200</p>
                                     </th>
                                     <td>
                                         <ul style="list-style-type:none">
@@ -503,23 +497,23 @@
                                     <td>
                                         <ul style="list-style-type:none">
                                             <li>L3 Forwarding: <strong>18.60 Gbps</strong><sup><a href="#footer-notes">[4]</a></sup></li>
-                                            <li>Firewall: <strong>6.81 Gbps</strong></li>
+                                            <li>Firewall: <strong>18.55 Gbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>1.28 Gbps</strong></li>
-                                            <li>(AES-128-GCM / AES-NI)</li>
+                                            <li>IPsec VPN: <strong>3.24 Gbps</strong></li>
+                                            <li>(AES-GCM-128 w/QAT)</li>
                                         </ul>
                                     </td>
                                     <td>
                                         <ul style="list-style-type:none">
-                                            <li>L3 Forwarding: <strong>6.18 Gbps</strong></li>
-                                            <li>Firewall: <strong>1.85 Gbps</strong></li>
+                                            <li>L3 Forwarding: <strong>11.76 Gbps</strong></li>
+                                            <li>Firewall: <strong>5.1 Gbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>385 Mbps</strong></li>
-                                            <li>(AES-128-GCM / AES-NI)</li>
+                                            <li>IPsec VPN: <strong>810 Mbps</strong></li>
+                                            <li>(AES-GCM-128 w/QAT)</li>
                                         </ul>
                                     </td>
                                 </tr>
-                                <tr>
+                                <!-- <tr>
                                     <th scope="row" style="background-color: white !important; text-align: center">
                                         <img src="../../assets/img/productpagebanner/netgate/xg-7100-1u.png" alt="XG-7100 1U">
                                         <p class="text-primary">XG-7100 1U</p>
@@ -558,7 +552,7 @@
                                             <li>(AES-128-GCM / AES-NI)</li>
                                         </ul>
                                     </td>
-                                </tr>
+                                </tr> -->
                                 <tr>
                                     <th scope="row" style="background-color: white !important; text-align: center">
                                         <img src="../../assets/img/productpagebanner/netgate/xg-1537-1u.png" alt="XG-1537 1U">
@@ -644,14 +638,14 @@
                         </table>
                     </div>
                 </div>
-                <div class="row content pt-5" id="footer-notes" data-aos="zoom-out">
+                <!-- <div class="row content pt-5" id="footer-notes" data-aos="zoom-out">
                     <ol>
                         <li>All performance tests are based upon maximum memory configuration and base model port configuration (no port expansion). Throughput measurements are based upon maximum bidirectional traffic across all available ports.</li>
                         <li>Basic Traffic (Primarily Data Download): iPerf3 traffic is TCP - 1460 byte payload and TCP framing.</li>
                         <li>Complex Traffic (Voice, Data, Video): Simple IMIX traffic is sets of 7 (40) byte packets, (4) 576 byte packets, 1 (1500) byte packets, plus Ethernet framing overhead.</li>
                         <li>XG-7100 performance number exceeds that of the XG-1537/41, as all tests were run by maximizing throughput across available base model physical ports (XG-7100 with 10 ports vs. XG-1537/41 with only 4 ports). The XG-1537/41 exceed the XG-7100 by per-port performance.</li>
                     </ol>
-                </div>
+                </div> -->
             </div>
         </section>
         <!-- ======= Partner  Section ======= -->  

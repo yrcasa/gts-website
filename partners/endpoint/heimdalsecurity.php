@@ -221,11 +221,6 @@
   <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
     <div class="container d-flex align-items-center">
 
-      <div class="logo mr-auto">
-        <h1 class="text-light"><a href="../../index.php"><img src="../../assets/img/gtslogo.png" alt="" class="img-fluid"></a></h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      </div>
 
       <!-- ======= Nav Menu Section ======= -->
       <?php include "../../navMenu.php"; ?>
@@ -305,11 +300,7 @@
   </main>
 
   <!-- Footer Section from the main directory  -->
-  <?php
-  $path = $_SERVER['DOCUMENT_ROOT'];
-  $path .= "/globaltigersolutions/footer.php";
-  include_once($path);
-  ?>
+  <?php include "../../footer.php"?>
   <!--End Footer Section -->
 
   <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
