@@ -5368,6 +5368,26 @@ url("./fonts/icofont.woff") format("woff");
   content: "\ee0e";
 }
 
+.icofont-thin-down:before
+{
+  content: "\eac8";
+}
+
+.icofont-simple-down:before
+{
+  content: "\eab2";
+}
+
+.icofont-curved-down:before
+{
+  content: "\ea73";
+}
+
+.icofont-rounded-down:before
+{
+  content: "\ea99";
+}
+
 [class^="icofont-"].icofont-duotone,
 	[class*=" icofont-"].icofont-duotone
 {
