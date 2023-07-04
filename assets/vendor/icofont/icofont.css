@@ -5388,6 +5388,46 @@ url("./fonts/icofont.woff") format("woff");
   content: "\ea99";
 }
 
+.icofont-long-arrow-down:before
+{
+  content: "\ea92";
+}
+
+.icofont-long-arrow-left:before
+{
+  content: "\ea93";
+}
+
+.icofont-long-arrow-right:before
+{
+  content: "\ea94";
+}
+
+.icofont-long-arrow-up:before
+{
+  content: "\ea95";
+}
+
+.icofont-arrow-down:before
+{
+  content: "\ea5b";
+}
+
+.icofont-arrow-left:before
+{
+  content: "\ea5c";
+}
+
+.icofont-arrow-right:before
+{
+  content: "\ea5d";
+}
+
+.icofont-arrow-up:before
+{
+  content: "\ea5e";
+}
+
 [class^="icofont-"].icofont-duotone,
 	[class*=" icofont-"].icofont-duotone
 {
