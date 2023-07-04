@@ -167,119 +167,115 @@ h6 {
 /* Desktop Navigation */
 .nav-menu,
 .nav-menu * {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
 .nav-menu>ul>li {
-  position: relative;
-  white-space: nowrap;
-  float: left;
+    position: relative;
+    white-space: nowrap;
+    float: left;
 }
 
 .nav-menu a {
-  display: block;
-  position: relative;
-  color: #fff;
-  padding: 5px 15px 7px 15px;
-  margin-left: 5px;
-  transition: 0.3s;
-  font-size: 14px;
-  border-radius: 50px;
-  font-family: "Open Sans", sans-serif;
-  text-transform: uppercase;
+    display: block;
+    position: relative;
+    padding: 5px 15px 7px;
+    margin-left: 5px;
+    font-size: 16px;
+    font-family: 'Clash Grotesk', sans-serif;
+    font-weight: 500;
+    color: #fff;
+    /* Add the desired color for the navigation items */
+    transition: 0.3s;
+    text-transform: uppercase;
 }
 
-.nav-menu a:hover,
 .nav-menu .active>a,
+.nav-menu a:hover,
 .nav-menu li:hover>a {
-  background: #ef6603;
-  text-decoration: none;
+    background: #ef6603;
+    /* Add the desired hover background color */
+    color: #fff;
+    /* Add the desired hover text color */
+    text-decoration: none;
 }
 
 .nav-menu .drop-down ul {
-  display: block;
-  position: absolute;
-  left: 0;
-  top: calc(100% - 30px);
-  z-index: 99;
-  opacity: 0;
-  visibility: hidden;
-  padding: 10px 0;
-  background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-  transition: ease all 0.3s;
-  border-radius: 15px;
-  margin-top: 5px;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: calc(100% - 5px);
+    z-index: 99;
+    opacity: 0;
+    visibility: hidden;
+    padding: 10px 0;
+    background: #fff;
+    box-shadow: 0 0 30px rgba(127, 137, 161, 0.25);
+    transition: ease all 0.3s;
+    border-radius: 15px;
+    margin-top: 0;
 }
 
 .nav-menu .drop-down:hover>ul {
-  opacity: 1;
-  top: 100%;
-  visibility: visible;
+    opacity: 1;
+    top: 100%;
+    visibility: visible;
 }
 
 .nav-menu .drop-down li {
-  min-width: 180px;
-  position: relative;
+    min-width: 180px;
+    position: relative;
 }
 
 .nav-menu .drop-down ul a {
-  padding: 10px 20px;
-  font-size: 14px;
-  font-weight: 500;
-  text-transform: none;
-  color: #2a2c39;
+    color: #2a2c39;
+    padding: 10px 20px;
+    font-weight: 500;
+    text-transform: none;
 }
 
-.nav-menu .drop-down ul a:hover,
 .nav-menu .drop-down ul .active>a,
+.nav-menu .drop-down ul a:hover,
 .nav-menu .drop-down ul li:hover>a {
-  color: #ef6603;
-  background: none;
+    color: #ef6603;
+    background: 0 0;
+}
+
+.nav-menu .drop-down .drop-down ul {
+    top: 0;
+    left: calc(100% - 30px);
+}
+
+.nav-menu .drop-down .drop-down:hover>ul {
+    opacity: 1;
+    top: 0;
+    left: 100%;
+}
+
+.nav-menu .drop-down .drop-down>a {
+    padding-right: 35px;
+}
+
+@media (max-width: 1366px) {
+  .nav-menu .drop-down .drop-down ul {
+      left: -90%;
+  }
+
+  .nav-menu .drop-down .drop-down:hover>ul {
+      left: -100%;
+  }
+
+  .nav-menu .drop-down .drop-down>a:after {
+      content: "\ea9d";
+  }
 }
 
 .nav-menu .drop-down>a:after {
   content: "\ea99";
   font-family: IcoFont;
   padding-left: 5px;
-}
-
-.nav-menu .drop-down .drop-down ul {
-  top: 0;
-  left: calc(100% - 30px);
-}
-
-.nav-menu .drop-down .drop-down:hover>ul {
-  opacity: 1;
-  top: 0;
-  left: 100%;
-}
-
-.nav-menu .drop-down .drop-down>a {
-  padding-right: 35px;
-}
-
-.nav-menu .drop-down .drop-down>a:after {
-  content: "\eaa0";
-  font-family: IcoFont;
-  position: absolute;
-  right: 15px;
-}
-
-@media (max-width: 1366px) {
-  .nav-menu .drop-down .drop-down ul {
-    left: -90%;
-  }
-
-  .nav-menu .drop-down .drop-down:hover>ul {
-    left: -100%;
-  }
-
-  .nav-menu .drop-down .drop-down>a:after {
-    content: "\ea9d";
-  }
 }
 
 .nav-opp {
@@ -1907,6 +1903,7 @@ section {
   position: relative;
   font-family: "Open Sans", sans-serif;
   margin: 0 0 12px;
+  font-size: larger;
 }
 
 #footer li {
