@@ -9,11 +9,12 @@
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 	<meta name="description" content="We would love to hear from you! Your questions, comments and feedback are important to us.">
 	<meta name="author" content="Tiger Consulting and Software Devt Inc">
-	<title>Global Tiger Solutions | Contact Us</title>
+	<title>Contact Us | Global Tiger Solutions </title>
 	<!-- Favicons -->
 	<link rel="icon" href="assets/img/tcsdi_icon.ico">
 	<!-- Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+	<link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
 	<!-- Vendor CSS Files -->
 	<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -61,7 +62,7 @@
 
 <body>
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center header-transparent ">
+	<header id="header" class="fixed-top d-flex align-items-center ">
 		<?php include "navMenu.php" ?>
 	</header><!-- End Header -->
 	<main id="main">
@@ -96,7 +97,7 @@
 							<p class="par">Do you need technical assistance or support?</p>
 							<span class="text-center">
 								<br>
-								<a href="mailnet:<?php echo $emailSupp; ?>"><?php echo $emailSupp; ?></a>
+								<a href="mailto:<?php echo $emailSupp; ?>"><?php echo $emailSupp; ?></a>
 							</span>
 						</div>
 					</div>
@@ -105,7 +106,7 @@
 							<h3>Become a Partner</h3>
 							<i class="las la-handshake" style="color: #e9bf06; font-size:100px; padding-bottom: 30px;"></i>
 							<p class="par">We can help you boost your profits and grow your business.</p>
-							<a href="mailnet:<?php echo $emailPartners; ?>"><?php echo $emailPartners; ?></a>
+							<a href="mailto:<?php echo $emailPartners; ?>"><?php echo $emailPartners; ?></a>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 mt-4 mt-lg-0">

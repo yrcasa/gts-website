@@ -16,7 +16,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="Author" content="Tiger Consulting and Software Devt Inc.">
+    <meta name="Author" content="Global Tiger Solutions">
     <meta name="Description" content="Tiger Consulting and Software Devt Inc. provides companies with cost-effective enterprise business solutions.">
     <!--<meta name="robots" content="index,follow">-->
     <meta name="keywords" content="services tcsdi, services tiger, tcsdi services, tiger services, services tiger consulting, tiger consulting services, global tiger solutions services, global tiger services">
@@ -26,6 +26,7 @@
     <link href="assets/img/GTSLogo.png" rel="apple-touch-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
     <!-- Vendor CSS Files -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -73,17 +74,8 @@
 
 <body>
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top d-flex align-items-center  header-transparent header-scrolled">
-    <div class="container d-flex align-items-center">
-      <div class="logo mr-auto">
-        <h1 class="text-light">
-          <a href="index.php"><img src="assets/img/gtslogo.png" alt="" class="img-fluid"></a>
-        </h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      </div>
-      <!-- ======= Nav Menu Section ======= --> <?php include "navMenu.php"; ?>
-    </div>
+  <header id="header" class="fixed-top d-flex align-items-center">
+    <?php include "navMenu.php" ?>
   </header>
   <!-- End Header -->
   <!-- ======= Hero Section ======= -->

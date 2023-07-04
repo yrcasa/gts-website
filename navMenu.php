@@ -1,8 +1,9 @@
+<link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
 <div class="container d-flex align-items-center">
 	<div class="logo mr-auto">
 		<h1 class="text-light">
 			<!-- <a href="index.html">GTS</a> -->
-			<a href="https://globaltigersolutions.com/index.php"><img src="https://globaltigersolutions.com/assets/img/gts_v2.webp" alt="" class="" style="width: 90px;"></a>
+			<a href="https://globaltigersolutions.com/index.php"><img src="https://globaltigersolutions.com/assets/img/gts_v2.webp" alt="" class="" style="width: 100%;"></a>
 		</h1>
 		<!-- Uncomment below if you prefer to use an image logo -->
 	</div>

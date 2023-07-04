@@ -154,7 +154,8 @@
 				</div>
 				<div class="row content px-4">
 					<a class="btn-learn-more" href="../partner.php#softwarePartners">
-						<i class="icofont-arrow-left"></i> Other Partners </a>
+						<i class="icofont-arrow-left"></i> Other Partners 
+					</a>
 				</div>
 			</div>
 	</main>
