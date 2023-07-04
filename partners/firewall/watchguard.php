@@ -1,3 +1,4 @@
+<?php include("../../loader.php") ?>
 <?php include("../../contactDetails.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -17,6 +18,7 @@
   <link href="../../assets/img/GTSLogo.png" rel="apple-touch-icon">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
   <!-- Vendor CSS Files -->
   <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="../../assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -134,6 +136,19 @@
         </div>
       </div>
     </section>
+    <section id="cta" class="cta watchguard-header">
+      <div class="container">
+        <div class="row" data-aos="zoom-out">
+          <div class="col-lg-7 text-center text-lg-left">
+            <img src="../../assets/img/watchguard.png" alt="" class="w-75 mb-3">
+            <p style="color: black; font-size: 2em;" class="mx-4"> Unleash the Security of <span style="color: white; background-color: red;" class="px-3">ONE</span> </p>
+          </div>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <!-- <a class="cta-btn align-middle" href="contact.php">Contact</a> -->
+          </div>
+        </div>
+      </div>
+    </section>
     <section id="cta" class="cta watchguard" style="padding: 250px 0">
       <div class="container">
         <div class="row" data-aos="zoom-out">
@@ -147,30 +162,57 @@
         </div>
       </div>
     </section>
-    <section class="my-4">
+    <section class="partner mb-3">
       <div class="container">
-        <div class="row content">
-          <div class="col-md-6 col-sm-12">
-            <img src="../../assets/img/productpagebanner/watchguard/slider_watchguard_management.png" width="90%">
-            <br>
-            <h4><strong>Products:</strong></h4>
-            <ul>
-              <li><i class="ri-check-double-line"></i>Watchguard Next Generation Firewall</li>
-              <li><i class="ri-check-double-line"></i>Watchguard Unified Threat Management</li>
-            </ul>
-          </div>
-          <div class="col-md-6 col-sm-12">
-            <h1> WATCHGUARD </h1>
-            <p> Seattle-based WatchGuard has deployed nearly a million of its integrated, multi-function threat management appliances worldwide, to businesses that range from SMEs to large distributed enterprises. </p>
-            <p> Recognizing an unmet need for a security solution that addresses the rapidly evolving threat landscape, WatchGuard architected its high-throughput, highly scalable, and flexible Fireware® operating system to form the backbone of its products. This platform yields dramatically higher performance at a much lower cost than competitors in environments where multiple security engines are enabled. </p>
-            <p> Global Tiger Solutions is an authorized reseller of Watchguard products. </p>
+        <div class="row content py-2">
+          <div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
+            <img src="../../assets/img/solutions/watchguard.webp" alt="" srcset="" width="95%" class="justify-content-center mb-1">
+            <img src="../../assets/img/cta/EPP_Icon_Color.png" width="80%" alt="">
             <h4><strong>For inquiries, please contact:</strong></h4>
             <ul>
               <li><i class="ri-check-double-line"></i> <?php echo $directContact; ?></li>
               <li><i class="ri-check-double-line"></i> <?php echo $emailSales; ?></li>
             </ul>
-            <a class="btn-learn-more" href="../../partner.php#firewall">
-              <i class="icofont-arrow-left"></i> Partners </a>
+          </div>
+          <div class="col-md-8 col-sm-16 mt-1">
+            <h1 style="font-size: xx-large;" class="mb-3">Watchguard</h1>
+            <h4 style="font-weight:600;" class="mb-3">Unleash the Security of ONE</h4>
+            <p> WatchGuard’s Unified Security Platform is built from the ground up to enable efficient, powerful security services with increased scale and velocity while gaining operational efficiencies. WatchGuard Cloud™️ is a complete portfolio of endpoint, multi-factor authentication, and network security products and services for protecting environments, users, and devices.
+            <div class="">
+              <a class="btn-products" href="#">
+                EPDR
+              </a>
+              <a class="btn-products" href="#">
+                Advanced EPDR
+              </a>
+              <a class="btn-products" href="#">
+                XDR
+              </a>
+              <a class="btn-products" href="#">
+                Vulnerability Management
+              </a>
+              <a class="btn-products" href="#">
+                EPP
+              </a>
+              <a class="btn-products" href="#">
+                EDR
+              </a>
+              <a class="btn-products" href="#">
+                Full Disk Encryption
+              </a>
+              <a class="btn-products" href="#">
+                WG Cloud
+              </a>
+              <a class="btn-products" href="#">
+                Authpoint
+              </a>
+              <a class="btn-products" href="#">
+                DNSWatchGo
+              </a>
+              <a class="btn-products" href="#">
+                Firebox
+              </a>
+            </div>
           </div>
         </div>
       </div>

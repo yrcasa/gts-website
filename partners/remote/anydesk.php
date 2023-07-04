@@ -1,3 +1,5 @@
+<?php include("../../loader.php")?>
+
 <!DOCTYPE html>
 
 
@@ -45,6 +47,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200;300;400&family=Open+Sans&display=swap" rel="stylesheet">
+  <link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
 
 
 
@@ -339,7 +342,7 @@
       <div class="container">
         <div class="row" data-aos="zoom-out">
           <div class="col-lg-9 text-center text-lg-left">
-            <h3>Anydesk</h3>
+            <img src="../../assets/img/productpagebanner/anydesk/anydesk7-logo.webp" alt="" class="mb-4">
             <p>AnyWhere. AnyTime. AnyDesk </p>
             <p>Discover professional user management with my.anydesk II, scalable on- and offboarding options, and a multitude of security layers.</p>
           </div>

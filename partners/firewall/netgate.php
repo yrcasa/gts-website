@@ -18,6 +18,7 @@
     <link href="../../assets/img/GTSLogo.png" rel="apple-touch-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
     <!-- Vendor CSS Files -->
     <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="../../assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -272,7 +273,7 @@
                 <div class="container">
                     <div class="row" data-aos="zoom-out">
                         <div class="col-lg-9 text-center text-lg-left">
-                            <h3>Netgate</h3>
+                            <img src="../../assets/img/netgate-white.png" alt="" class="w-50 py-3">
                             <p>Secure networking Solutions. Unmatched Value. </p>
                             <p>Edge to Core. Premises to Cloud.</p>
                         </div>
@@ -301,7 +302,7 @@
                     </div>
                 </div>
                 <div class="section-sub-title text-center" data-aos="zoom-out">
-                    <h2>NETGATE APPLIANCES WITH PFSENSE® SOFTWARE</h2>
+                    <h2>NETGATE APPLIANCES WITH <span><img src="../../assets/img/PfSense_logo.webp" alt="" width="10%" class="pb-2"></span> SOFTWARE</h2>
                 </div>
                 <div class="row pt-5" data-aos="zoom-out">
                     <div class="table-responsive">

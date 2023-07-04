@@ -18,6 +18,7 @@
     <link href="../../assets/img/GTSLogo.png" rel="apple-touch-icon">
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
     <!-- Vendor CSS Files -->
     <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="../../assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -209,8 +210,8 @@
             <div class="container">
                 <div class="row" data-aos="zoom-out">
                     <div class="col-lg-6 text-center text-lg-left">
-                        <h3>Norton</h3>
-                        <p>Norton 360. Comprehensive protection with device security including antivirus, a password manager and more. All in a single solution. </p>
+                    <img src="../../assets/img/solutions/norton.png" class="w-75 mb-3">
+                        <p class="text-dark">Norton 360. Comprehensive protection with device security including antivirus, a password manager and more. All in a single solution. </p>
                     </div>
                     <div class="col-lg-3 cta-btn-container text-center">
                         <!-- <a class="cta-btn align-middle" href="contact.php">Contact</a> -->
@@ -218,7 +219,7 @@
                 </div>
             </div>
         </section>
-        <section class="my-4">
+        <section class="partner my-4">
             <div class="container">
                 <div class="row content">
                     <div class="col-md-6 col-sm-12">
@@ -244,7 +245,8 @@
                             <li><i class="ri-check-double-line"></i> <?php echo $emailSales; ?></li>
                         </ul>
                         <a class="btn-learn-more" href="../../partner.php">
-                            <i class="icofont-arrow-left"></i> Partners </a>
+                            <i class="icofont-arrow-left"></i> Partners 
+                        </a>
                     </div>
                 </div>
             </div>

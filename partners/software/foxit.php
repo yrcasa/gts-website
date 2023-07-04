@@ -17,6 +17,7 @@
   <link href="../../assets/img/GTSLogo.png" rel="apple-touch-icon">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
   <!-- Vendor CSS Files -->
   <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="../../assets/vendor/icofont/icofont.min.css" rel="stylesheet">
@@ -292,9 +293,9 @@
       <div class="container">
         <div class="row" data-aos="zoom-out">
           <div class="col-lg-9 text-center text-lg-left">
-            <h3>Foxit</h3>
-            <p>Total Economic Impact™ by Forrester® </p>
-            <p>Understand your individual 3-year ROI of switching from legacy PDF Software to Foxit PDF Editor.</p>
+            <img src="../../assets/img/foxit-logo-240.png" alt="" class="mb-4">
+            <p style="color: #ef6603;">Total Economic Impact™ by Forrester® </p>
+            <p style="color: #ef6603;">Understand your individual 3-year ROI of switching from legacy PDF Software to Foxit PDF Editor.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
             <!-- <a class="cta-btn align-middle" href="contact.php">Contact</a> -->
@@ -467,7 +468,7 @@
     </section> -->
     <section id="features" class="py-5">
       <div class="container">
-        <img src="../../assets/img/productpagebanner/foxit/foxit_img.png" alt="" class="object-fit-cover w-100">
+        <img src="../../assets/img/productpagebanner/foxit/foxit_img.webp" alt="" class="object-fit-cover w-100">
       </div>
     </section>
     <!-- ======= Partner  Section ======= -->

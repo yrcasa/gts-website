@@ -1,3 +1,4 @@
+<?php include("../../loader.php")?>
 <!DOCTYPE html>
 
 <html lang="en">
@@ -20,6 +21,7 @@
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="../../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -241,40 +243,26 @@
           <p>Partners</p>
           <h2>Heimdal Security</h2>
         </div>
-
-        <div class="heimdal-image-background" data-aos="zoom-out">
-          <div class="hero-text">
-            <div class="container">
-              <div class="row">
-                <a href="heimdalsecurity_request_demo.php" class="btn btn-danger" role="button">Book a demo</a></li>
-              </div>
-            </div>
-          </div>
-        </div>
     </section>
     <!-- Start Program Here [Body] (@Cj) -->
-    <div class="container">
-      <div class="row">
-        <div class="col">
-          <h3 align="center" class="margin_bottom">Why Heimdal Security</h3>
-          <div align="center" class="item active">
-            <!-- <video style='border: 5px solid;' class="inlineVideo margin_bottom" controls="controls" playsinline  width="400" height="225" poster="../../assets/img/solutions/Thumbnail_1.png">
-        <source src="../../assets/video/Why Heimdal Security.mp4" type="video/mp4">
-        Your browser does not support HTML video.
-        </video> -->
-            <iframe style='border: 5px solid;' class=" margin_bottom" width="400" height="225" controls="controls" src="https://www.youtube.com/embed/hfEhVaBRyt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <section id="cta" class="cta heimdal">
+      <div class="container">
+        <div class="row" data-aos="zoom-out">
+          <div class="col-lg-6 text-center text-lg-left">
+            <img src="../../assets/img/heimdal-white.png" alt="" class="w-100 py-3">
+            <p>Revolutionary. Unified. AI Cybersecurity. </p>
           </div>
-          <p align="center">Heimdal Security provides proactive protection against cyber threats including ransomware, exploit kits and financial malware. Block cyber threats before they compromise your system - Through its traffic filtering capability, Heimdal stops ransomware attacks at all stages: before, during and after the attack.</p>
-        </div>
-        <div class="col">
-          <h3 align="center" class="margin_bottom">Privileged Access Management</h3>
-          <div align="center" class="item active">
-            <iframe style='border: 5px solid;' class="margin_bottom inlineVideo" width="400" height="225" controls="controls" src="https://www.youtube.com/embed/QIPEkogvcgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <div class="col-lg-3 cta-btn-container text-center">
+            <!-- <a class="cta-btn align-middle" href="contact.php">Contact</a> -->
           </div>
-          <p align="center">Heimdal™ Privileged Access Management, your system administrators make sure that users don’t accidentally allow hackers to access your endpoints and networks, by easily verifying and approving each request from the central interface.</p>
         </div>
       </div>
-    </div>
+    </section>
+    <section>
+      <div class="container">
+        <img src="../../assets/img/heimdal.webp" alt="" class="w-100">
+      </div>
+    </section>
 
 
 
@@ -300,7 +288,7 @@
   </main>
 
   <!-- Footer Section from the main directory  -->
-  <?php include "../../footer.php"?>
+  <?php include "../../footer.php" ?>
   <!--End Footer Section -->
 
   <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
