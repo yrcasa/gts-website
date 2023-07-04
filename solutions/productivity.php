@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="tcsdi endpoint, gts endpoint, global tiger solutions endpoint, endpoint security, endpoint protection, cybersecurity">
+    <meta name="keywords" content="tcsdi endpoint, gts productivity, global tiger solutions productivity, productivity solutions, foxit, foxit productivity">
     <title>Productivity Solutions | Global Tiger Solutions</title>
     <?php include "../links.php" ?>
     <link href="../assets/css/products-styles/partners.css" rel="stylesheet">

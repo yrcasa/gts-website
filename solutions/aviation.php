@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="tcsdi endpoint, gts endpoint, global tiger solutions endpoint, endpoint security, endpoint protection, cybersecurity">
+    <meta name="keywords" content="tcsdi aviation, gts aviation, global tiger solutions aviation, aviation solutions, fids, flight information display system, zeus, tiger consulting aviation">
     <title>Aviation Solutions | Global Tiger Solutions</title>
     <?php include "../links.php" ?>
     <link href="../assets/css/products-styles/partners.css" rel="stylesheet">

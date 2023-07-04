@@ -43,7 +43,7 @@
 				</div>
 				<div class="row content py-2">
 					<div class="col-lg-4 col-md-8 col-sm-12 center-block my-4">
-						<img src="../assets/img/solutions/watchguard.png" alt="" srcset="" width="90%" class="justify-content-center">
+						<img src="../assets/img/solutions/watchguard.webp" alt="" srcset="" width="90%" class="justify-content-center">
 					</div>
 					<div class="col-md-8 col-sm-16 mt-4">
 						<h1 style="font-size: xx-large;" class="mb-3">Watchguard</h1>
@@ -51,16 +51,28 @@
 						<p> WatchGuard’s Unified Security Platform is built from the ground up to enable efficient, powerful security services with increased scale and velocity while gaining operational efficiencies. WatchGuard Cloud™️ is a complete portfolio of endpoint, multi-factor authentication, and network security products and services for protecting environments, users, and devices.
 						<div class="">
 							<a class="btn-products" href="#">
+								EPDR
+							</a>
+							<a class="btn-products" href="#">
+								Advanced EPDR
+							</a>
+							<a class="btn-products" href="#">
+								XDR
+							</a>
+							<a class="btn-products" href="#">
+								Vulnerability Management
+							</a>
+							<a class="btn-products" href="#">
 								EPP
 							</a>
 							<a class="btn-products" href="#">
 								EDR
 							</a>
 							<a class="btn-products" href="#">
-								EPDR
+								Full Disk Encryption
 							</a>
 							<a class="btn-products" href="#">
-								XDR
+								WG Cloud
 							</a>
 							<a class="btn-products" href="#">
 								Authpoint

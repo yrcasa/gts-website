@@ -6,7 +6,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="keywords" content="remote access, network security global tiger solutions, firewall, network security and firewall, tcsdi firewall, cybersecurity">
+	<meta name="keywords" content="remote access, network security global tiger solutions, firewall, network security and firewall, tcsdi firewall, cybersecurity, global tiger solutions remote access, anydesk, tcsdi anydesk, global tiger anydesk, global tiger solutions anydesk, remote access and monitoring security, monitoring security">
 	<title>Remote Access & Monitoring Security | Global Tiger Solutions</title> <?php include "../links.php" ?>
 	<link href="../assets/css/products-styles/partners.css" rel="stylesheet">
 </head>
