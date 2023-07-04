@@ -58,8 +58,8 @@
 <body>
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center ">
-		<?php include "../../navMenu.php" ?>
-	</header><!-- End Header -->
+    <?php include "../../navMenu.php" ?>
+  </header><!-- End Header -->
   <!-- End Header -->
   <main id="main">
     <section id="partner" class="partner" style="padding-top: 100px !important;">
