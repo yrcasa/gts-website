@@ -149,7 +149,7 @@
         </div>
       </div>
     </section>
-    <section id="cta" class="cta watchguard" style="padding: 250px 0">
+    <section id="cta" class="cta watchguard">
       <div class="container">
         <div class="row" data-aos="zoom-out">
           <div class="col-lg-7 text-center text-lg-left">
