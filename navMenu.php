@@ -8,15 +8,19 @@
 	.nav-link {
 		font-size: 18px;
 		border-radius: 20px;
+		font-weight: 500;
+		color: #fff;
 	}
 
 	.nav-link:hover {
 		background-color: #ef6603;
+		color: #fff;
 	}
 
 	.dropdown-item:hover {
 		background-color: #ef6603;
 		color: #fff;
+		border-radius: 10px;
 	}
 
 	.dropdown-menu {
@@ -29,6 +33,24 @@
 			background-color: #3e444f;
 			padding: 20px;
 		}
+
+		.dropdown-menu {
+			background-color: #3e444f;
+		}
+
+		.dropdown-item {
+			color: #fff;
+		}
+
+		.nav-link:hover {
+			background-color: #ef6603;
+			color: #fff;
+		}
+
+		.nav-link {
+			padding-left: 10%;
+		}
+
 	}
 </style>
 <div class="container">
@@ -41,7 +63,7 @@
 
 			<div class="collapse navbar-collapse font-weight-normal" id="navbarSupportedContent">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item active">
+					<li class="nav-item">
 						<a class="nav-link" href="https://globaltigersolutions.com/index.php">Home <span class="sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item dropdown">

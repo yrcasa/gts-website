@@ -521,6 +521,7 @@ img {
 
 #hero .btn-get-started:hover {
     background: #fff;
+    color: #ef6603;
 }
 
 @keyframes animatedBackground {
