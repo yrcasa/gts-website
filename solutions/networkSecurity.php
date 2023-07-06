@@ -25,7 +25,7 @@
 				</div>
 				<div class="row content">
 					<div class="col-lg-4 col-md-8 col-sm-12 center-block">
-						<img src="../assets/img/solutions/netgate.png" alt="" srcset="" width="100%">
+						<img src="../assets/img/NetgateColorLogoRegisteredRGB.png" alt="" srcset="" width="100%">
 					</div>
 					<div class="col-md-8 col-sm-16 mt-3">
 						<h1 style="font-size: xx-large;" class="mb-3">Netgate</h1>
