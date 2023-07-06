@@ -62,7 +62,7 @@
 
 <body>
 	<!-- ======= Header ======= -->
-	<header id="header" class="fixed-top d-flex align-items-center ">
+	<header id="header" class="fixed-top d-flex align-items-center">
 		<?php include "navMenu.php" ?>
 	</header><!-- End Header -->
 	<main id="main">
