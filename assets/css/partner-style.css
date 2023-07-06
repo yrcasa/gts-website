@@ -49,6 +49,10 @@ main {
   padding-top: 50px;
 }
 
+img {
+  pointer-events: none;
+}
+
 /*--------------------------------------------------------------
 
   # Back to top button

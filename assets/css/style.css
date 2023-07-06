@@ -89,6 +89,10 @@ h6 {
     font-family: "Raleway", sans-serif;
 }
 
+img {
+    pointer-events: none;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
@@ -563,7 +567,7 @@ h6 {
 #hero .carousel-item:nth-child(4),
 #hero .carousel-item:nth-child(5) {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-        url(../img/carousel/foxit.png);
+        url(../img/carousel/foxit_upscaled.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1214,16 +1218,14 @@ h4.heading {
   } */
 
 .cta {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(/assets/img/cta_background.webp) no-repeat center;
-    background-size: cover;
+    background-color: #eeeeee;
     padding-top: 75px;
     padding-bottom: 75px;
 }
 
 .cta .cta-btn,
 .cta h3 {
-    color: #fff;
+    color: #444;
     font-size: 21px;
     font-weight: 700;
     margin: 0 0 20px;
@@ -1252,11 +1254,13 @@ h4.heading {
     font-size: 14px;
     letter-spacing: 1px;
     display: inline-block;
-    padding: 12px 30px;
+    padding: 12px 20px;
     border-radius: 50px;
     transition: 0.5s;
-    margin: 10px;
+    /* margin: 10px; */
     background: #ef6603;
+    color: #fff;
+    border: 1px solid #ef6603;
 }
 
 .cta .cta-btn:hover {
@@ -1275,6 +1279,13 @@ h4.heading {
         display: flex;
         align-items: center;
         justify-content: flex-end;
+    }
+}
+
+@media (max-width: 768px) {
+    .cta .cta-btn {
+        font-size: 12px;
+        padding: 10px 18px;
     }
 }
 
