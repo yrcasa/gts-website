@@ -1,52 +1,102 @@
 <link href="https://api.fontshare.com/v2/css?f[]=general-sans@500,600,400&f[]=clash-grotesk@400,600,500&display=swap" rel="stylesheet">
-<div class="container d-flex align-items-center">
-	<div class="logo mr-auto">
-		<h1 class="text-light">
-			<!-- <a href="index.html">GTS</a> -->
-			<a href="https://globaltigersolutions.com/index.php"><img src="https://globaltigersolutions.com/assets/img/gts_v2.webp" alt="" class="" style="width: 100%;"></a>
-		</h1>
-		<!-- Uncomment below if you prefer to use an image logo -->
-	</div>
-	<nav class="nav-menu d-none d-lg-block my-2">
-		<ul>
-			<li class=""><a href="https://globaltigersolutions.com/index.php">Home</a></li>
-			<li class="drop-down"><a href="https://globaltigersolutions.com/about.php">About Us</a>
-				<ul style="width: 130px;">
-					<li><a href="https://globaltigersolutions.com/ourstory.php">Our Story</a></li>
-					<li><a href="https://globaltigersolutions.com/careers.php">Careers</a></li>
-					<!-- <li><a href="https://globaltigersolutions.com/products/downloads/">Resources</a></li> -->
+<style>
+	.navbar {
+		font-family: 'Clash Grotesk', sans-serif;
+		height: 80px;
+	}
+
+	.nav-link {
+		font-size: 18px;
+		border-radius: 20px;
+	}
+
+	.nav-link:hover {
+		background-color: #ef6603;
+	}
+
+	.dropdown-item:hover {
+		background-color: #ef6603;
+		color: #fff;
+	}
+
+	.dropdown-menu {
+		border-radius: 20px;
+	}
+
+	@media only screen and (max-width:768px) {
+
+		.navbar-collapse {
+			background-color: #3e444f;
+			padding: 20px;
+		}
+	}
+</style>
+<div class="container">
+	<nav class="navbar fixed-top navbar-expand-md navbar-dark" style="">
+		<div class="container">
+			<a class="navbar-brand" href="https://globaltigersolutions.com/index.php"><img src="https://globaltigersolutions.com/assets/img/gts_v2.webp" alt="GTS Logo" style="width: 100px;" class="d-inline-block align-top logo mr-auto"></a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse font-weight-normal" id="navbarSupportedContent">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item active">
+						<a class="nav-link" href="https://globaltigersolutions.com/index.php">Home <span class="sr-only">(current)</span></a>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="https://globaltigersolutions.com/about.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							About Us
+						</a>
+						<div class="dropdown-menu my-3 p-2">
+							<a class="dropdown-item" href="https://globaltigersolutions.com/ourstory.php">Our Story</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/careers.php">Careers</a>
+						</div>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Solutions
+						</a>
+						<div class="dropdown-menu my-3 p-2" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="https://globaltigersolutions.com/solutions/endpoint.php">Endpoint Protection and Security</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/solutions/networkSecurity.php">Network Security and Firewall</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/solutions/privilegedAccess.php">Privileges and Application Control</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/remote/anydesk.php">Remote Access and Monitoring Security</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/products/enterprise/zeus.php">Aviation Solutions</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/foxit.php">Productivity Solutions</a>
+						</div>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Brands
+						</a>
+						<div class="row content dropdown-menu dropdown-menu-right my-3 p-2" aria-labelledby="navbarDropdown">
+							<h6 class="dropdown-header">Main Products</h6>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Watchguard</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/endpoint/norton.php">Norton</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Panda Security</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php">Heimdal Security</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/firewall/netgate.php">Netgate</a>
+							<div class="dropdown-divider"></div>
+							<h6 class="dropdown-header">Other Products</h6>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/foxit.php">Foxit</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/visualParadigm.php">Visual Paradigm</a>
+						</div>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Contact Us
+						</a>
+						<div class="dropdown-menu my-3 p-2 dropdown-menu-right">
+							<a class="dropdown-item" href="https://globaltigersolutions.com/contact.php">Get In Touch With Us</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/forms">Become A Partner</a>
+						</div>
+					</li>
 				</ul>
-			</li>
-			<li class="drop-down"><a href="#">Our Solutions</a>
-				<ul class="nav-solutions" style="width: 180px;">
-					<li><a href="https://globaltigersolutions.com/solutions/endpoint.php">Endpoint Protection and CyberSecurity</a></li>
-					<li><a href="https://globaltigersolutions.com/solutions/networkSecurity.php">Network Security and Firewall</a></li>
-					<li><a href="https://globaltigersolutions.com/solutions/privilegedAccess.php">Privileges and Application Control</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Remote Access & Monitoring Security</a></li>
-					<li><a href="https://globaltigersolutions.com/products/enterprise/zeus.php">Aviation Solutions</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/software/foxit.php">Productivity Solutions</a></li>
-				</ul>
-			</li>
-			<li class="drop-down"><a href="#">Brands</a>
-				<ul class="nav-opp" style="width: 350px">
-					<li><a href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/endpoint/norton.php">Norton</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/software/foxit.php">Foxit</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php">Heimdal Security</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/firewall/netgate.php">Netgate</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Panda Security</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/software/visualParadigm.php">Visual Paradigm</a></li>
-					<li><a href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Watchguard</a></li>
-				</ul>
-			</li>
-			<li class="drop-down"><a href="https://globaltigersolutions.com/contact.php">Contact Us</a>
-				<ul>
-					<li><a href="https://globaltigersolutions.com/contact.php">Get In Touch With Us</a></li>
-					<li><a href="https://globaltigersolutions.com/forms">Become a Partner</a></li>
-				</ul>
-			</li>
-		</ul>
-	</nav><!-- .nav-menu -->
+			</div>
+		</div>
+	</nav>
 </div>
