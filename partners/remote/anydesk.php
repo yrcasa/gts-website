@@ -277,8 +277,8 @@
   <!-- ======= Header ======= -->
 
   <header id="header" class="fixed-top d-flex align-items-center ">
-		<?php include "../../navMenu.php" ?>
-	</header><!-- End Header -->
+    <?php include "../../navMenu.php" ?>
+  </header><!-- End Header -->
 
 
 
@@ -377,11 +377,11 @@
 
 
 
-    <section id="anydesk-feature" class="pricing text-center" style="padding-top:10px !important">
+    <section id="anydesk-feature" class="anydesk-pricing" style="padding-top:10px !important">
 
 
 
-      <div id="anydesk-feature" class="section-sub-title text-center" data-aos="zoom-out">
+      <div id="anydesk-feature" class="section-sub-title text-center mb-5" data-aos="zoom-out">
 
         <h2>Solutions</h2>
 
@@ -389,73 +389,70 @@
 
 
 
-      <div class="container">
-
-        <div class="row pt-4">
-
-
-
-          <div class="col-lg-4 col-md-6">
-
-            <div class="box featured text-center" data-aos="zoom-in">
-
-              <h2>
-
-                SOLO
-
-              </h2>
-
-              <p>ONE DEVICE</p>
-
-              <p>1 SESSION</p>
-
-            </div>
-
-          </div>
-
-
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
-
-            <div class="box featured text-center" data-aos="zoom-in">
-
-              <h2>
-
-                STANDARD
-
-              </h2>
-
-              <p>MULTIPLE DEVICES</p>
-
-              <p>1 OR MORE CONCURRENT SESSIONS</p>
-
-            </div>
-
-          </div>
-
-
-
-          <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
-
-            <div class="box featured text-center" data-aos="zoom-in">
-
-              <h2>
-
-                ADVANCED
-
-              </h2>
-
-              <p>MULTIPLE DEVICES</p>
-
-              <p>UNLIMITED CONCURRENT SESSIONS</p>
-
-            </div>
-
-          </div>
-
-
-
+      <div class="container" data-aos="zoom-out">
+        <div class="table-responsive-md">
+          <table class="table border border-danger">
+            <thead class="bg-danger text-light">
+              <tr class="text-center h3 w-100">
+                <th style="width: 33.3%;">Solo</th>
+                <th style="width: 33.3%;">Standard</th>
+                <th style="width: 33.3%;">Advanced</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="text-center h5">
+                <td>Feature set for
+                  single-person companies.</td>
+                <td>Comprehensive feature set
+                  for small teams.</td>
+                <td>Extensive feature set to support
+                  additional business needs.</td>
+              </tr>
+              <tr class="border-right border-danger">
+                <td>
+                  <ul>
+                    <li>1 licensed user with 3 login devices</li>
+                    <li>1 outgoing connection</li>
+                    <li>Up to 100 managed devices (Unattended Access)</li>
+                    <li>Unlimited devices to connect to (Interactive Access)</li>
+                    <li>Feature set for individuals</li>
+                    <li>Mobile device support</li>
+                  </ul>
+                </td>
+                <td>
+                  <ul>
+                    <li>20 licensed users in a team</li>
+                    <li>Starts with 1 outgoing connection
+                      (add up to 20)</li>
+                    <li>Up to 500 managed devices (Unattended Access)</li>
+                    <li>Unlimited devices to connect to (Interactive Access)</li>
+                    <li>Standard user management</li>
+                    <li>Custom client generator</li>
+                    <li>Mobile device support</li>
+                    <li>Mobile device management included</li>
+                  </ul>
+                </td>
+                <td>
+                  <ul>
+                    <li>100 licensed users in a team</li>
+                    <li>Starts with 2 concurrent connections (add up to 50)</li>
+                    <li>Up to 1000 managed devices (Unattended Access)</li>
+                    <li>Unlimited devices to connect to (Interactive Access)</li>
+                    <li>Advanced user management</li>
+                    <li>Custom client generator</li>
+                    <li>Command line interface</li>
+                    <li>Mass deployment (MSI)</li>
+                    <li>Group policies</li>
+                    <li>Phone support</li>
+                    <li>Mobile device support</li>
+                    <li>Mobile device management included</li>
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
+      </div>
 
 
 
