@@ -29,8 +29,11 @@
 	<link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
 	<link href="assets/vendor/aos/aos.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/iconoir-icons/iconoir@main/css/iconoir.css">
+
 	<!-- Template Main CSS File -->
 	<link href="assets/css/expertise-style.css" rel="stylesheet">
+	<link rel="stylesheet" href="assets/css/cta-style.css">
 	<!-- =======================================================
 
   * Template Name: Selecao - v2.1.0
@@ -181,7 +184,7 @@
 						</ul>
 					</div>
 					<div class="col-sm" data-aos="fade-up">
-						<i class="icofont-code-alt icofont-5x expertise-img"></i>
+						<i class="iconoir-code"	style="font-size: 80px; margin: 0;"></i>
 						<h3> PROGRAMMING LANGUAGE </h3>
 						<ul>
 							<li>COBOL/COBOL II</li>
