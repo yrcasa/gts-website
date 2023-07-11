@@ -9,7 +9,6 @@
 		font-size: 18px;
 		border-radius: 20px;
 		font-weight: 500;
-		color: #fff;
 	}
 
 	.nav-link:hover {
@@ -62,7 +61,7 @@
 			</button>
 
 			<div class="collapse navbar-collapse font-weight-normal" id="navbarSupportedContent">
-				<ul class="navbar-nav ml-auto">
+				<ul class="navbar-nav ml-auto mx-2">
 					<li class="nav-item">
 						<a class="nav-link" href="https://globaltigersolutions.com/index.php">Home <span class="sr-only">(current)</span></a>
 					</li>
@@ -108,14 +107,14 @@
 							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/visualParadigm.php">Visual Paradigm</a>
 						</div>
 					</li>
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<li class="nav-item">
+						<a class="nav-link" href="https://globaltigersolutions.com/contact.php">
 							Contact Us
 						</a>
-						<div class="dropdown-menu my-3 p-2 dropdown-menu-right">
+						<!-- <div class="dropdown-menu my-3 p-2 dropdown-menu-right">
 							<a class="dropdown-item" href="https://globaltigersolutions.com/contact.php">Get In Touch With Us</a>
 							<a class="dropdown-item" href="https://globaltigersolutions.com/forms">Become A Partner</a>
-						</div>
+						</div> -->
 					</li>
 				</ul>
 			</div>
