@@ -49,7 +49,7 @@
             </ul>
             <ul class="nav-flex-column list-unstyled list-group list-group-horizontal d-flex justify-content-center">
                 <li class="nav-item mb-0 m-1 mt-1"><a href="https://www.facebook.com/tcsdi/"><i class="bi bi-facebook" style="font-size:20px"></i></a></li>
-                <li class="nav-item mb-0 m-1 mt-1"><a href="http://www.linkedin.com/company/global-tiger-solutions/"><i class="bi bi-linkedin" style="font-size: 20px;"></i></a></li>
+                <li class="nav-item mb-0 m-1 mt-1"><a href="https://www.linkedin.com/company/global-tiger-solutions/"><i class="bi bi-linkedin" style="font-size: 20px;"></i></a></li>
             </ul>
         </div>
 
