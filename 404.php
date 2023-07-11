@@ -50,20 +50,13 @@ http_response_code(404);
 <body>
     <header id="header" class="fixed-top d-flex align-items-center">
         <div class="container d-flex align-items-center">
-            <div class="logo mr-auto">
-                <h1 class="text-light">
-                    <!-- <a href="index.html">GTS</a> -->
-                    <a href="index.php"><img src="assets/img/gtslogo.png" alt="" class="img-fluid"></a>
-                </h1>
-                <!-- Uncomment below if you prefer to use an image logo -->
-            </div>
             <!-- ======= Nav Menu Section ======= --> <?php include "navMenu.php"; ?>
         </div>
     </header><!-- End Header -->
     <main>
         <div class="error-container">
             <div class="logo-container">
-                <img src="assets/img/404.svg" alt="Logo">
+                <img src="assets/img/404.svg" alt="404 Logo">
             </div>
             <h1 class="error-title">404 Not Found</h1>
         <p class="error-text">The page you are looking for could not be found.</p>
