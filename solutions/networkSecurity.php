@@ -32,10 +32,10 @@
 						<h4 style="font-weight:600;" class="mb-3">Secure networking solutions for the home and office</h4>
 						<p> The world’s most popular, feature-rich and robust firewall, router and VPN solutions. Ideal for personal users, professional users, and organizations looking for easy-to-use, powerful, flexible, proven solutions for safely connecting to the Internet. </p>
 						<div>
-							<a class="btn-products" href="#">
+							<a class="btn-products" data-toggle="popover" title="pfSense Netgate" data-trigger="hover" data-html="true" data-content="<p>Ideal for home, remote worker, business, and service provider network connectivity and protection</p><ul><li>Equipped with many router and firewall features typically found only in expensive commercial routers</li><li>Flexible VPN solution options</li><li>Known for robustness and stability</li><li>Highly extensible with 3rd party packages to support block lists, content filtering, intrusion prevention, policy-based routing and more</li><li>Easy to install and maintain via web GUI</li><li>Available for premises and cloud deployment</li></ul>">
 								pfSense Netgate
 							</a>
-							<a class="btn-products" href="#">
+							<a class="btn-products" data-toggle="popover" title="TNSR" data-trigger="hover" data-html="true" data-content="<p>Pronounced “tensor”</p><p>Ideal for demanding service provider and business edge, campus, data center and cloud connectivity environments - where high-speed routing and encrypted traffic handling are required</p><ul><li>Vector Packet Processing (VPP) with Data Plane Development Kit (DPDK) enable up to two orders of magnitude speed gain over traditional kernel-based packet processing solutions</li><li>Software scalable to 10, 25, 40, 100 Gbps and beyond</li><li>Suitable for edge and core routing, site-to-site VPN, cloud connectivity, large scale NAT applications</li><li>Managed through CLI and/or RESTCONF API</li><li>Achieves super-scale routing without the six-figure price tag.</li></ul>">
 								TNSR
 							</a>
 						</div>
@@ -106,6 +106,11 @@
 	<script src="../../assets/vendor/aos/aos.js"></script>
 	<!-- Template Main JS File -->
 	<script src="../../assets/js/pandasecurity-main.js"></script>
+	<script>
+		$(document).ready(function() {
+			$('[data-toggle="popover"]').popover();
+		});
+	</script>
 </body>
 
 </html>

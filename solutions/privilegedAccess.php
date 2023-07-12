@@ -33,16 +33,16 @@
 						<p> From ransomware and insider threat, to business email compromise and anything in between, Heimdal® protects your operational integrity by stopping even the most sophisticated cyberattacks from day one. Heimdal® combines threat prevention, vulnerability management, access management, and antivirus and e-mail security into a single platform.
 						</p>
 						<div>
-							<a class="btn-products" href="#">
+							<a class="btn-products" data-toggle="popover" title="Privileges and Application Control" data-trigger="hover" data-html="true" data-content="<p>Heimdal offers the world’s only option to run either or combine Privilege Access Management and Application Control.</p><ul><li>PAM provides a lightweight and stunning interface that puts you in complete control over the user's elevated session.</li><li>Approve or deny from the dashboard or on the go right from your mobile device.</li><li>Keep track of sessions, block elevation for system files, live-cancel user admin rights, set escalation period, and instantly shut down system process after session expiration.</li><li>Application Control enables white and blacklisting of any execution, and is the only app control that unifies with PAM.</li></ul><p>Benefits:</p><ul><li>Prevent malware from spreading through your networks.</li><li>Secure your networks inside and outside.</li><li>Deal with insider threats.</li><li>Protect your applications from unauthorized access.</li><li>Reduce the risk of data breaches.</li></ul>">
 								Privileges and Application Control
 							</a>
-							<a class="btn-products" href="#">
+							<a class="btn-products" data-toggle="popover" title="Vulnerability Management" data-trigger="hover" data-html="true" data-content="<strong>Heimdal® Patch & Asset Management</strong><br>Heimdal Patch & Asset Management: the next-gen, fully automated patching and software management solution.">
 								Vulnerability Management
 							</a>
-							<a class="btn-products" href="#">
+							<a class="btn-products" data-toggle="popover" title="Threat Hunting" data-trigger="hover" data-html="true" data-content="The Heimdal Threat-hunting and Action Center is a revolutionary platform that is powered by the advanced XTP engine and fully integrated with the award-winning Heimdal suite.">
 								Threat Hunting
 							</a>
-							<a class="btn-products" href="#">
+							<a class="btn-products" data-toggle="popover" title="Email Protection" data-trigger="hover" data-html="true" data-content="<strong>Heimdal® Email Fraud Prevention</strong><br>Heimdal Email Fraud Prevention uses more than 125 vectors of analysis and is fully coupled with live threat intelligence to find and stop Business Email compromise, CEO Fraud, phishing and complex malware before you are compromised. It works on top of any existing mail filtering solutions on Office 365 and Outlook for desktop.<br><br><strong>Heimdal® Email Security</strong><br>Heimdal Email Security uses an entire array of technologies to detect and block spam, malware and ransomware threats before they compromise your IT system through malicious emails.">
 								Email Protection
 							</a>
 						</div>
@@ -68,6 +68,11 @@
 	<script src="../../assets/vendor/aos/aos.js"></script>
 	<!-- Template Main JS File -->
 	<script src="../../assets/js/pandasecurity-main.js"></script>
+	<script>
+		$(document).ready(function() {
+			$('[data-toggle="popover"]').popover();
+		});
+	</script>
 </body>
 
 </html>
