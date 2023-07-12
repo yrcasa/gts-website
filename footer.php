@@ -4,11 +4,13 @@
         <div id="fourth">
             <h3 class="col mb-3">About Us</h3>
             <ul class="nav-flex-column list-unstyled">
-                <li class="nav-item mb-0"><a href="about.php" class="text-decoration-none">Our Story</a></li>
+                <li class="nav-item mb-0"><a href="http://globaltigersolutions.com/ourstory.php" class="text-decoration-none">Our Story</a></li>
                 <li class="nav-item mb-0"><a href="http://globaltigersolutions.com/careers.php">Careers</a></li>
                 <!-- <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/products/downloads/">Resources</a></li> -->
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Partners</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/tcsdi_products.php">Products</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/contact.php">Contact Us</a></li>
+                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/contact.php">Become A Partner</a></li>
             </ul>
         </div>
 
