@@ -47,6 +47,11 @@ section {
     font-weight: 400;
 }
 
+img {
+    pointer-events: none;
+    justify-content: center;
+}
+
 @media only screen and (max-width: 768px) {
     .img-mobile {
         width: 70%;
