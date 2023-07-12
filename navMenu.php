@@ -9,6 +9,7 @@
 		font-size: 18px;
 		border-radius: 20px;
 		font-weight: 500;
+		padding-left: 10px;
 	}
 
 	.nav-link:hover {
@@ -60,7 +61,7 @@
 				<span class="navbar-toggler-icon"></span>
 			</button>
 
-			<div class="collapse navbar-collapse font-weight-normal" id="navbarSupportedContent">
+			<div class="collapse navbar-collapse font-weight-normal text-center" id="navbarSupportedContent">
 				<ul class="navbar-nav ml-auto mx-2">
 					<li class="nav-item">
 						<a class="nav-link" href="https://globaltigersolutions.com/index.php">Home <span class="sr-only">(current)</span></a>
@@ -91,20 +92,28 @@
 						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Brands
 						</a>
-						<div class="row content dropdown-menu dropdown-menu-right my-3 p-2" aria-labelledby="navbarDropdown">
-							<h6 class="dropdown-header">Main Products</h6>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Watchguard</a>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/endpoint/norton.php">Norton</a>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Panda Security</a>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php">Heimdal Security</a>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/firewall/netgate.php">Netgate</a>
-							<div class="dropdown-divider"></div>
-							<h6 class="dropdown-header">Other Products</h6>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/foxit.php">Foxit</a>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/visualParadigm.php">Visual Paradigm</a>
+						<div class="dropdown-menu dropdown-menu-right my-3" aria-labelledby="navbarDropdown" style="width: 350px;">
+							<div class="row">
+								<div class="col-md-6">
+									<h6 class="dropdown-header">Main Products</h6>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Watchguard</a>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/endpoint/norton.php">Norton</a>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/firewall/watchguard.php">Panda Security</a>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php">Heimdal Security</a>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/firewall/netgate.php">Netgate</a>
+								</div>
+								<div class="col-md-6">
+									<h6 class="dropdown-header">Other Products</h6>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/agisoft.php">Agisoft</a>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/remote/anydesk.php">Anydesk</a>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/foxit.php">Foxit</a>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/navicat.php">Navicat</a>
+									<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/visualParadigm.php">Visual Paradigm</a>
+								</div>
+							</div>
+
+							<!-- <div class="dropdown-divider"></div> -->
+
 						</div>
 					</li>
 					<li class="nav-item">
