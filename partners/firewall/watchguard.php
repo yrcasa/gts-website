@@ -179,37 +179,37 @@
             <h4 style="font-weight:600;" class="mb-3">Unleash the Security of ONE</h4>
             <p> WatchGuard’s Unified Security Platform is built from the ground up to enable efficient, powerful security services with increased scale and velocity while gaining operational efficiencies. WatchGuard Cloud™️ is a complete portfolio of endpoint, multi-factor authentication, and network security products and services for protecting environments, users, and devices.
             <div class="">
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Watchguard EPDR" data-trigger="hover" data-html="true" data-content="WatchGuard EPDR is an innovative cybersecurity solution for computers, laptops and servers, delivered from the Cloud. It automates the prevention, detection, containment and response to any advanced threat, zero day malware, ransomware, phishing, in-memory exploits, and fileless and malwareless attacks.<br><br><strong>Benefits</strong><ul><li>Simplifies & Maximizes Security</li><li>Easy to Use and Easy to Manage</li><li>Unique EDR Features</li></ul>">
                 EPDR
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Watchguard Advanced EPDR" data-trigger="hover" data-html="true" data-content="WatchGuard Advanced EPDR is a cutting-edge cybersecurity solution delivered from the Cloud for computers, laptops, and servers. It automates the prevention, detection, containment, and response to any advanced threat, inside and outside the corporate network. <br><br><strong>Benefits</strong><ul><li>Cost-Effective Operations - No More Wasted Time on Suspicious Files</li><li>Enhanced Hunting and Response at Your Fingertips</li><li>Comprehensive Endpoint Security to Tailor to Your Services</li><li>Scalable Managed Security Services to Grow at Your Pace</li><li>WatchGuard’s Unified Security Platform Architecture</li></ul>">
                 Advanced EPDR
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Watchguard XDR with ThreatSync" data-trigger="hover" data-html="true" data-content="WatchGuard ThreatSync equips enterprises with XDR capabilities to centralize detections and orchestrate the response to threats from a single pane of glass. It simplifies cybersecurity while improving visibility and automating response actions across the organization faster, reducing risk and cost and providing higher accuracy.<br><br><strong>Benefits</strong><ul><li>Greater Visibility</li><li>Comprehensive Security</li><li>Reduce Security Team Burdens</li><li>Streamline Response Process</li><li>No Added Costs to Access XDR</li></ul>">
                 XDR
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Vulnerability Management" data-trigger="hover" data-content="Reduce the risk and complexity of managing vulnerabilities in OS and third-party applications.">
                 Vulnerability Management
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Watchguard EPP" data-trigger="hover" data-html="true" data-content="WatchGuard EPP is an effective Cloud-native security solution that centralizes next-generation antivirus for all your Windows, macOS and Linux desktops, laptops, and servers, in addition to the leading virtualization systems and Android devices. <br><br><strong>Benefits</strong><ul><li>Multiplatform Security</li><li>Simplify Management</li><li>Lower Impact on Performance</li></ul>">
                 EPP
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Watchguard EDR" data-trigger="hover" data-html="true" data-content="WatchGuard EDR is an innovative cybersecurity solution for computers, laptops and servers, delivered from the Cloud. It automates the prevention, detection, containment and response to any advanced threat, zero day malware, ransomware, phishing, in-memory exploits, and malwareless attacks, both present and future, inside and outside the corporate network. <br><br><strong>Benefits</strong><ul><li>Simplifies & Minimizes Security Costs</li><li>Automates & Reduces Detection Time</li><li>Automates & Reduces Response & Investigation Time</li></ul>">
                 EDR
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Watchguard Full Encryption" id data-trigger="hover" data-html="true" data-content="WatchGuard Full Encryption leverages BitLocker, a proven and stable Microsoft technology, to encrypt and decrypt disks without impacting end users. It provides organizations with the added value of centrally controlling and managing the recovery keys stored on WatchGuard Cloud-based management platform. <br><br> <strong>Key Features</strong><ul><li>Enforce and deploy disk and removable storage encryption policies</li><li>Prove laptops and USB drives encryption status with real-time data</li><li>Centrally manage user recovery keys through the web console</li><li>Prevent loss, theft, and unauthorized access to data</li><li>Report on encryption status</li><li>Enable pre-boot authentication to verify user’s identity</li></ul>">
                 Full Disk Encryption
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Watchguard Cloud" data-trigger="hover" data-html="true" data-content="WatchGuard Cloud enables you to see and manage your products and services in one place. <br><br><strong>Features and Benefits</strong><ul><li>Single pane of glass for managing network security, multi-factor authentication, endpoint security, Wi-Fi, and threat intelligence.</li><li>Streamlined configuration and deployment of security policy.</li><li>Easy policy templating, including offline configuration, and the ability to schedule deployment in advance.</li><li>Automated MFA token provisioning and full synchronization with Microsoft Active Directory, LDAP, and more.</li><li>Identify high-level trends and anomalies, then drill down into detailed insights with 100+ dashboards and reports..</li></ul>">
                 WG Cloud
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Authpoint" data-trigger="hover" data-html="true" data-content="Reduce your risk with powerful, user-friendly multi-factor authentication. <strong>Features</strong><ul><li>Authentication Service</li><li>Cloud Management</li><li>Mobile App</li><li>Hardware Token</li></ul>">
                 Authpoint
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="DNSWatchGO" data-trigger="hover" data-html="true" data-content="DNSWatchGO is a Cloud-based service that provides domain-level protection, content filtering, and integrated security awareness training to keep your users safe when they travel outside of your secure network perimeter. <br><br><strong>Features and Benefits</strong><ul><li>Detects and blocks malicious DNS connections for devices outside of your network.</li><li>Enables content filtering with 130 pre-defined blocking categories to limit access to risky areas of the web.</li><li>Provide immediate phishing education to users at the time of click for heightened end user awareness after an attempted attack.</li><li>It’s quick to install and easy to manage – saving time and costs and reducing the burden on busy IT staff.</li><li>Supports Chrome OS, Windows 10 and 11.</li><li>Compatible with common deployment tools.</li></ul> ">
                 DNSWatchGo
               </a>
-              <a class="btn-products" href="#">
+              <a class="btn-products" data-toggle="popover" title="Firebox" data-trigger="hover" data-html="true" data-content="WatchGuard Firebox is a comprehensive advanced network security appliance that puts IT security professionals back in charge of their networks with widely deployable, enterprise-grade security and threat visibility tools suitable for any organization, regardless of budget or complexity.">
                 Firebox
               </a>
             </div>
@@ -233,6 +233,11 @@
   <script src="../../assets/vendor/aos/aos.js"></script>
   <!-- Template Main JS File -->
   <script src="../../assets/js/pandasecurity-main.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('[data-toggle="popover"]').popover();
+    });
+  </script>
 </body>
 
 </html>
