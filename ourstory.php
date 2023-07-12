@@ -120,11 +120,11 @@
                     </div>
                     <div class="col-md-7 col-sm-16 mt-4">
                         <h4 class="story-description" data-aos="fade-right"><strong>Global Tiger Solutions</strong> was established in 2008 to focus mainly on systems integration and implementation of enterprise utilities solutions. It wasn't until 2018 that the company's business model was subsequently changed to IT Distribution.</h4>
-                        <h4 class="story-description" data-aos="fade-left">Our solutions focus on the cybersecurity strategy of enterprises namely <strong>Threat Prevention</strong>, <strong>Endpoint Detection, Protection and Response (EPDR)</strong>, <strong>Privileges and Application Control (PAM)</strong>, and <strong>Threat Hunting</strong>.</h4>
+                        <h4 class="story-description my-3" data-aos="fade-left">Our solutions focus on the cybersecurity strategy of enterprises namely <strong>Threat Prevention</strong>, <strong>Endpoint Protection, Detection and Response (EPDR)</strong>, <strong>Privileges and Application Control (PAM)</strong>, and <strong>Threat Hunting</strong>.</h4>
                     </div>
                 </div>
                 <div class="row content my-4 justify-content-center">
-                    <h1 data-aos="fade-up">Over the years, Global Tiger Solutions has developed partnerships</h1>
+                    <h1 class="text-center" data-aos="fade-up">Over the years, Global Tiger Solutions has developed partnerships</h1>
                     <div class="row row-center-mobile">
                         <div class="col-md-3">
                             <img src="assets/img/solutions/watchguard.webp" alt="Watchguard" data-aos="fade-up">
@@ -140,8 +140,8 @@
                         </div>
                     </div>
                     <div class="row mx-3 justify-content-center my-3">
-                        <div class="col-md-2 img-mobile">
-                            <img src="assets/img/solutions/netgate.webp" alt="Netgate" data-aos="fade-up" width="120%">
+                        <div class="col-md-2 img-mobile mt-2">
+                            <img src="assets/img/NetgateColorLogoRegisteredRGB.png" alt="Netgate" data-aos="fade-up" width="120%">
                         </div>
                         <div class="col-md-2 ml-4 mt-2">
                             <img src="assets/img/solutions/agisoft_v2.png" alt="Panda Security" data-aos="fade-up" data-aos-delay="100" width="100%">
