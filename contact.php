@@ -88,6 +88,7 @@
 							<span class="text-center">
 								<a href="mailto:<?php echo $emailSales ?>"><?php echo $emailSales ?></a>
 							</span>
+							<div style="padding: 29px;"></div>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 mt-4 mt-md-0">
@@ -99,6 +100,7 @@
 								<br>
 								<a href="mailto:<?php echo $emailSupp; ?>"><?php echo $emailSupp; ?></a>
 							</span>
+							<div style="padding: 29px;"></div>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
@@ -107,6 +109,7 @@
 							<i class="las la-handshake" style="color: #e9bf06; font-size:100px; padding-bottom: 30px;"></i>
 							<p class="par">We can help you boost your profits and grow your business.</p>
 							<a href="mailto:<?php echo $emailPartners; ?>"><?php echo $emailPartners; ?></a>
+							<a href="#" class="btn-background my-2">Engage With Us</a>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
@@ -117,6 +120,7 @@
 							<a href="tel:<?php echo $directContact; ?>"><?php echo $directContact; ?></a>
 							<br>
 							<a href="tel:<?php echo $mobileContact; ?>"><?php echo $mobileContact; ?></a>
+							<div style="padding: 29px;"></div>
 						</div>
 					</div>
 				</div>
