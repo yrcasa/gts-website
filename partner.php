@@ -354,7 +354,7 @@
                     </a>
                   </div>
                 </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+                <div class="col-lg-3 col-md-6 mt-4 mt-lg-3">
                   <div class="member" data-aos="fade-up" data-aos-delay="200">
                     <a href="partners/software/navicat.php">
                       <img src="assets/img/solutions/navicat_logo_rainbow.png" alt="navicat">
@@ -387,14 +387,14 @@
                     <img src="assets/img/solutions/sprout-social-logo-new.png" alt="sprout" width="160px" height="70px">
                   </div>
                 </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+                <div class="col-lg-3 col-md-6 mt-4 mt-md-2">
                   <div class="member" data-aos="fade-up" data-aos-delay="100">
                     <img src="assets/img/solutions/tenable.png" alt="tenable">
                   </div>
                 </div>
               </div>
               <div class="row mt-4">
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+                <div class="col-lg-3 col-md-6 mt-4 mt-lg-4">
                   <div class="member" data-aos="fade-up" data-aos-delay="200">
                     <a href="partners/software/testrail.php">
                       <img src="assets/img/solutions/TestRail_Logo_Main_02_2x.png" alt="testrail" height="40" width="150">
@@ -408,14 +408,14 @@
                     </a>
                   </div>
                 </div>
-                <div class="col-lg-3 col-md-6 mt-1 mt-lg-0 ">
+                <div class="col-lg-3 col-md-6 mt-1 mt-lg-4 ">
                   <div class="member" data-aos="fade-up" data-aos-delay="300">
                     <a href="partners/software/visualParadigm.php">
                       <img src="assets/img/solutions/vp_logo_header.png" alt="visual paradigm">
                     </a>
                   </div>
                 </div>
-                <div class="col-lg-3 col-md-6 mt-1 mt-lg-0 ">
+                <div class="col-lg-3 col-md-6 mt-1 mt-lg-4 ">
                   <div class="member" data-aos="fade-up" data-aos-delay="300">
                     <a href="partners/software/phprunner.php">
                       <img src="assets/img/solutions/xlinesoft1.png" alt="php runner" width="160px" height="50px">
