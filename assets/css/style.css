@@ -414,7 +414,7 @@ img {
 #hero,
 #hero .carousel-container {
     position: relative;
-    width: 42%;
+    width: 45%;
     height: 70vh;
     background-color: #111;
 }
@@ -436,7 +436,7 @@ img {
 }
 
 .indicators-width {
-    width: 12%;
+    width: 15%;
 }
 
 @media only screen and (max-width: 768px) {
@@ -461,6 +461,8 @@ img {
         width: auto;
     }
 }
+
+
 
 #hero h2,
 #hero h3 {
@@ -487,7 +489,7 @@ img {
     color: #fff;
 }
 
-#hero .carousel-control-next,
+x #hero .carousel-control-next,
 #hero .carousel-control-prev {
     width: 10%;
 }
@@ -522,6 +524,57 @@ img {
 #hero .btn-get-started:hover {
     background: #fff;
     color: #ef6603;
+}
+
+@media only screen and (max-width: 1366px) {
+
+    #hero,
+    #hero .carousel-container {
+        position: relative;
+        width: 45%;
+        height: 76vh;
+        background-color: #111;
+    }
+
+    #hero {
+        overflow: hidden;
+        background: #333;
+        padding: 0 0 0;
+        width: 100%;
+    }
+
+    #hero h2,
+    #hero h3 {
+        color: #fff;
+        /* margin-bottom: 30px; */
+        font-size: 20px;
+        font-weight: 700;
+        margin: 0 30px 30px 30px;
+        font-family: 'General Sans', sans-serif;
+    }
+
+    #hero p {
+        width: 80%;
+        font-size: 14px;
+    }
+
+    #hero .btn-get-started {
+        font-family: "Raleway", sans-serif;
+        font-weight: 500;
+        font-size: 12px;
+        letter-spacing: 1px;
+        display: inline-block;
+        padding: 12px 20px;
+        border-radius: 50px;
+        transition: 0.5s;
+        line-height: 1;
+        margin: 10px;
+        color: #fff;
+        -webkit-animation-delay: 0.8s;
+        animation-delay: 0.8s;
+        border: 2px solid #ef6603;
+        background: #ef6603;
+    }
 }
 
 @keyframes animatedBackground {
@@ -561,7 +614,7 @@ img {
         url(../img/carousel/watchguard.webp);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: top center;
 }
 
 #hero .carousel-item:nth-child(3),
@@ -622,6 +675,7 @@ img {
         width: 5%;
     }
 }
+
 
 @media (max-width: 768px) {
     #hero .carousel-container {
@@ -1818,6 +1872,7 @@ h4.heading {
 
 #footer .copyright {
     margin: 0 0 5px;
+    color: #fff;
 }
 
 #footer .credits {
