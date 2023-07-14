@@ -76,7 +76,7 @@
     <!-- ======= Services Section ======= -->
     <section id="partner" class="partner">
       <div class="container">
-        <div class="section-sub-title text-center" data-aos="zoom-out">
+        <!-- <div class="section-sub-title text-center" data-aos="zoom-out">
           <h2>Endpoint Protection</h2>
         </div>
         <div class="container">
@@ -118,7 +118,7 @@
           </div>
         </div>
         <!-- ======= Firewall Section ======= -->
-        <section id="firewall" class="pricing text-center">
+        <!-- <section id="firewall" class="pricing text-center">
           <div id="firewall" class="section-sub-title text-center" data-aos="zoom-out">
             <h2>Firewall</h2>
           </div>
@@ -144,7 +144,7 @@
           </div>
         </section><!-- End Pricing Section -->
         <!-- ======= Pricing Section ======= -->
-        <section id="networking" class="pricing text-center">
+        <!-- <section id="networking" class="pricing text-center">
           <div id="networking" class="section-sub-title text-center" data-aos="zoom-out">
             <h2>Networking</h2>
           </div>
@@ -182,7 +182,7 @@
           </div>
         </section><!-- End Pricing Section -->
         <!-- ======= Pricing Section ======= -->
-        <section id="pcserver" class="pricing text-center">
+        <!-- <section id="pcserver" class="pricing text-center">
           <div id="pc_servers&printers" class="section-sub-title text-center" data-aos="zoom-out">
             <h2>PC, Servers, & Printers</h2>
           </div>
@@ -201,8 +201,8 @@
                     <img src="assets/img/solutions/asus.png" alt="asus">
                   </a>
                 </div>
-              </div>
-              <!-- <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+              </div> -->
+        <!-- <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
 
                       <div class="member" data-aos="fade-up" data-aos-delay="200">
 
@@ -211,7 +211,7 @@
                       </div>
 
                     </div> -->
-              <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+        <!-- <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
                 <div class="member" data-aos="fade-up" data-aos-delay="300">
                   <a href="partners/pcserver/dell.php">
                     <img src="assets/img/solutions/dell.png" alt="dell">
@@ -226,8 +226,8 @@
                 </div>
               </div>
             </div>
-            <div class="row mt-4">
-              <!--<div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+            <div class="row mt-4"> -->
+        <!--<div class="col-lg-3 col-md-6 mt-4 mt-md-0">
 
                             <div class="member" data-aos="fade-up" data-aos-delay="100">
 
@@ -236,7 +236,7 @@
                             </div>
 
                           </div> -->
-              <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+        <!-- <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
                 <div class="member" data-aos="fade-up" data-aos-delay="200">
                   <a href="partners/pcserver/hpe.php">
                     <img src="assets/img/solutions/hpe.png" alt="hpe">
@@ -265,57 +265,57 @@
                 </div>
               </div>
             </div>
+          </div> -->
+        <!-- ======= Pricing Section ======= -->
+        <section id="softwarePartners" class="pricing text-center">
+          <div id="softwarePartners" class="section-sub-title text-center" data-aos="zoom-out">
+            <h2>Software Partners</h2>
           </div>
-          <!-- ======= Pricing Section ======= -->
-          <section id="softwarePartners" class="pricing text-center">
-            <div id="softwarePartners" class="section-sub-title text-center" data-aos="zoom-out">
-              <h2>Software Partners</h2>
-            </div>
-            <div class="container">
-              <div class="row mt-4">
-                <div class="col-lg-3 col-md-6">
-                  <div class="member" data-aos="fade-up">
-                    <a href="partners/software/adobe.php">
-                      <img src="assets/img/solutions/adobe.png" alt="adobe">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <a href="partners/software/agisoft.php">
-                      <img src="assets/img/solutions/agisoft.png" alt="agisoft">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-4">
-                  <div class="member" data-aos="fade-up" data-aos-delay="200">
-                    <a href="partners/software/autodesk.php">
-                      <img src="assets/img/solutions/Autodesk_Logo_2021.svg.png" alt="autodesk" height="20" width="150">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-3">
-                  <div class="member" data-aos="fade-up" data-aos-delay="300">
-                    <a href="partners/software/axure.php">
-                      <img src="assets/img/solutions/axure1.png" alt="axure" height="40" width="140">
-                    </a>
-                  </div>
+          <div class="container">
+            <div class="row mt-4">
+              <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up">
+                  <a href="partners/software/adobe.php">
+                    <img src="assets/img/solutions/adobe.png" alt="adobe">
+                  </a>
                 </div>
               </div>
-              <div class="row mt-4">
-                <div class="col-lg-3 col-md-6">
-                  <div class="member" data-aos="fade-up">
-                    <a href="partners/software/blast2go.php">
-                      <img src="assets/img/solutions/blast2go.png" alt="blast2go">
-                    </a>
-                  </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <a href="partners/software/agisoft.php">
+                    <img src="assets/img/solutions/agisoft.png" alt="agisoft">
+                  </a>
                 </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <img src="assets/img/solutions/logo-eviews.svg" alt="eviews" width="160px" height="60px">
-                  </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-lg-4">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                  <a href="partners/software/autodesk.php">
+                    <img src="assets/img/solutions/Autodesk_Logo_2021.svg.png" alt="autodesk" height="20" width="150">
+                  </a>
                 </div>
-                <!--    <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+              </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-lg-3">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                  <a href="partners/software/axure.php">
+                    <img src="assets/img/solutions/axure1.png" alt="axure" height="40" width="140">
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="row mt-4">
+              <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up">
+                  <a href="partners/software/blast2go.php">
+                    <img src="assets/img/solutions/blast2go.png" alt="blast2go">
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <img src="assets/img/solutions/logo-eviews.svg" alt="eviews" width="160px" height="60px">
+                </div>
+              </div>
+              <!--    <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
 
                       <div class="member" data-aos="fade-up" data-aos-delay="200">
 
@@ -326,107 +326,107 @@
                     </div>
 
  -->
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-                  <div class="member" data-aos="fade-up" data-aos-delay="200">
-                    <a href="partners/software/foxit.php">
-                      <img src="assets/img/solutions/foxit-logo.png" alt="foxit" width="160px" height="60px">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-                  <div class="member" data-aos="fade-up" data-aos-delay="300">
-                    <img src="assets/img/solutions/intergraph.png" alt="intergraph">
-                  </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                  <a href="partners/software/foxit.php">
+                    <img src="assets/img/solutions/foxit-logo.png" alt="foxit" width="160px" height="60px">
+                  </a>
                 </div>
               </div>
-              <div class="row mt-4">
-                <div class="col-lg-3 col-md-6">
-                  <div class="member" data-aos="fade-up">
-                    <a href="partners/software/microsoft.php">
-                      <img src="assets/img/solutions/microsoft.png" alt="microsoft">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <a href="partners/software/nagios.php">
-                      <img src="assets/img/solutions/nagios.png" alt="nagios">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-3">
-                  <div class="member" data-aos="fade-up" data-aos-delay="200">
-                    <a href="partners/software/navicat.php">
-                      <img src="assets/img/solutions/navicat_logo_rainbow.png" alt="navicat">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-                  <div class="member" data-aos="fade-up" data-aos-delay="300">
-                    <a href="partners/software/nvivo.php">
-                      <img src="assets/img/solutions/nvivo.png" alt="nvivo">
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div class="row mt-4">
-                <div class="col-lg-3 col-md-6">
-                  <div class="member" data-aos="fade-up">
-                    <img src="assets/img/solutions/oracle.png" alt="oracle">
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
-                  <div class="member" data-aos="fade-up" data-aos-delay="200">
-                    <a href="partners/software/ontrack.php">
-                      <img src="assets/img/solutions/ontrackauthorizedpartner_c.png" alt="ontrack" width="160px" height="60px">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-1 mt-lg-0 ">
-                  <div class="member" data-aos="fade-up" data-aos-delay="300">
-                    <img src="assets/img/solutions/sprout-social-logo-new.png" alt="sprout" width="160px" height="70px">
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-4 mt-md-2">
-                  <div class="member" data-aos="fade-up" data-aos-delay="100">
-                    <img src="assets/img/solutions/tenable.png" alt="tenable">
-                  </div>
-                </div>
-              </div>
-              <div class="row mt-4">
-                <div class="col-lg-3 col-md-6 mt-4 mt-lg-4">
-                  <div class="member" data-aos="fade-up" data-aos-delay="200">
-                    <a href="partners/software/testrail.php">
-                      <img src="assets/img/solutions/TestRail_Logo_Main_02_2x.png" alt="testrail" height="40" width="150">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-1 mt-lg-0 ">
-                  <div class="member" data-aos="fade-up" data-aos-delay="300">
-                    <a href="partners/software/valentin.php">
-                      <img src="assets/img/solutions/valentin.png" alt="valentin">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-1 mt-lg-4 ">
-                  <div class="member" data-aos="fade-up" data-aos-delay="300">
-                    <a href="partners/software/visualParadigm.php">
-                      <img src="assets/img/solutions/vp_logo_header.png" alt="visual paradigm">
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-6 mt-1 mt-lg-4 ">
-                  <div class="member" data-aos="fade-up" data-aos-delay="300">
-                    <a href="partners/software/phprunner.php">
-                      <img src="assets/img/solutions/xlinesoft1.png" alt="php runner" width="160px" height="50px">
-                    </a>
-                  </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                  <img src="assets/img/solutions/intergraph.png" alt="intergraph">
                 </div>
               </div>
             </div>
-          </section><!-- End Pricing Section -->
-          <!-- ======= Pricing Section ======= -->
-          <section id="upc" class="pricing text-center">
+            <div class="row mt-4">
+              <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up">
+                  <a href="partners/software/microsoft.php">
+                    <img src="assets/img/solutions/microsoft.png" alt="microsoft">
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <a href="partners/software/nagios.php">
+                    <img src="assets/img/solutions/nagios.png" alt="nagios">
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-lg-3">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                  <a href="partners/software/navicat.php">
+                    <img src="assets/img/solutions/navicat_logo_rainbow.png" alt="navicat">
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                  <a href="partners/software/nvivo.php">
+                    <img src="assets/img/solutions/nvivo.png" alt="nvivo">
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="row mt-4">
+              <div class="col-lg-3 col-md-6">
+                <div class="member" data-aos="fade-up">
+                  <img src="assets/img/solutions/oracle.png" alt="oracle">
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                  <a href="partners/software/ontrack.php">
+                    <img src="assets/img/solutions/ontrackauthorizedpartner_c.png" alt="ontrack" width="160px" height="60px">
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-1 mt-lg-0 ">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                  <img src="assets/img/solutions/sprout-social-logo-new.png" alt="sprout" width="160px" height="70px">
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-4 mt-md-2">
+                <div class="member" data-aos="fade-up" data-aos-delay="100">
+                  <img src="assets/img/solutions/tenable.png" alt="tenable">
+                </div>
+              </div>
+            </div>
+            <div class="row mt-4">
+              <div class="col-lg-3 col-md-6 mt-4 mt-lg-4">
+                <div class="member" data-aos="fade-up" data-aos-delay="200">
+                  <a href="partners/software/testrail.php">
+                    <img src="assets/img/solutions/TestRail_Logo_Main_02_2x.png" alt="testrail" height="40" width="150">
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-1 mt-lg-0 ">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                  <a href="partners/software/valentin.php">
+                    <img src="assets/img/solutions/valentin.png" alt="valentin">
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-1 mt-lg-4 ">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                  <a href="partners/software/visualParadigm.php">
+                    <img src="assets/img/solutions/vp_logo_header.png" alt="visual paradigm">
+                  </a>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-6 mt-1 mt-lg-4 ">
+                <div class="member" data-aos="fade-up" data-aos-delay="300">
+                  <a href="partners/software/phprunner.php">
+                    <img src="assets/img/solutions/xlinesoft1.png" alt="php runner" width="160px" height="50px">
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section><!-- End Pricing Section -->
+        <!-- ======= Pricing Section ======= -->
+        <!-- <section id="upc" class="pricing text-center">
             <div id="powerSupply" class="section-sub-title text-center" data-aos="zoom-out">
               <h2>Uninterrupted power supply</h2>
             </div>
@@ -460,11 +460,11 @@
                       </div>
 
                     </div> -->
-              </div>
-            </div>
-          </section><!-- End Pricing Section -->
-        </section>
       </div>
+      </div>
+    </section>End Pricing Section -->
+    </section>
+    </div>
     </section>
     <!-- End Testimonials Section -->
   </main><!-- End #main -->
