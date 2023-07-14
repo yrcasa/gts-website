@@ -53,7 +53,7 @@
 						<i class="icofont-arrow-left"></i> Other Partners </a>
 				</div>
 			</div>
-		</section> <?php include "../subPartnersSlider.php"; ?>
+		</section>
 	</main>
 	<!-- Footer Section  --> <?php include "../footer.php" ?> <!--End Footer Section -->
 	<a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
