@@ -1,6 +1,7 @@
 <meta content="Global Tiger Solutions" name=Author>
 <meta content="Global Tiger Solutions provides companies with cost-effective enterprise business solutions." name=Description>
 <meta content="tcsdi, global tiger solutions, internet security, antivirus distributor, endpoint protection, flight information display, fids, foxit, anydesk, bullguard, heimdal, Cybersecurity" name=keywords>
+<meta name="theme-color" content="#ef6603">
 <meta content="Index, Follow" name=robots>
 <meta content="7 days" name=revisit-after>
 <link href=../assets/img/tcsdi_icon.ico rel=icon>

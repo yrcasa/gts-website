@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ef6603">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="Author" content="Tiger Consulting and Software Devt Inc.">
   <meta name="Description" content="At Tiger Consulting, we provide opportunities for growth, learning and travel. Come for the job, stay for the challenge. Even the rookies get to start on our team."><!-- A brief description of the page.-->
@@ -123,7 +124,7 @@
                   <p class="card-text">
                     <!-- Brief Description  -->
                   <p>
-                    <strong> Tiger Consulting is currently seeking talented Junior Sales Associates who will act in a traditional Lead Generation role to help grow the business. This is an entry level role but a high-profile position for an assertive self-directed individual seeking to fast track their sales career. </strong>
+                    <strong> Global Tiger Solutions is currently seeking talented Junior Sales Associates who will act in a traditional Lead Generation role to help grow the business. This is an entry level role but a high-profile position for an assertive self-directed individual seeking to fast track their sales career. </strong>
                   </p>
                   <p> If you think that you are the one we're looking for, send us your resume with picture and transcript of records at careers@tigerconsulting.net .Kindly indicate (your name - position you are applying for) as your subject. </p>
                   </p>
@@ -250,7 +251,7 @@
                     <lI><i class="ri-check-double-line"></i> Assist with filing, recording and maintaining accurate and complete accounting documents. </lI>
                     <lI><i class="ri-check-double-line"></i> Work as part of the Accounting team to compile and analyze data, track information and support the company. </lI>
                   </ul>
-                  <P> If you think that you are the one we're looking for, send us your resume with picture and transcript of records at careers@tigerconsulting.net .Kindly indicate (your name - position you are applying for) as your subject. </P>
+                  <P> If you think that you are the one we're looking for, send us your resume with picture and transcript of records at careers@globaltigersolutions.com .Kindly indicate (your name - position you are applying for) as your subject. </P>
                   </p>
                 </div>
               </div>
