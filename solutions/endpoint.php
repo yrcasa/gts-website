@@ -118,7 +118,7 @@
 							<a class="btn-products" data-toggle="popover" title="Panda EPDR" data-trigger="hover" data-placement="bottom" data-html="true" data-content="See Watchguard EPDR">
 								EPDR
 							</a>
-							<a class="btn-products">
+							<a class="btn-products" data-toggle="popover" title="Panda Vulnerability Management" data-trigger="hover" data-placement="bottom" data-html="true" data-content="See Watchguard Vulnerability Management">
 								Vulnerability Management
 							</a>
 							<a class="btn-products" data-toggle="popover" data-placement="bottom" title="Panda Full Disk Encryption" data-trigger="hover" data-html="true" data-content="See Watchguard Full Encryption">
@@ -137,7 +137,7 @@
 						<p> From ransomware and insider threat, to business email compromise and anything in between, Heimdal® protects your operational integrity by stopping even the most sophisticated cyberattacks from day one. Heimdal® combines threat prevention, vulnerability management, access management, and antivirus and e-mail security into a single platform.
 						</p>
 						<div>
-							<a class="btn-products" data-toggle="popover" title="Privileges and Application Control" data-trigger="hover" data-placement="top" data-html="true" data-content="<p>Heimdal offers the world’s only option to run either or combine Privilege Access Management and Application Control.</p><ul><li>PAM provides a lightweight and stunning interface that puts you in complete control over the user's elevated session.</li><li>Approve or deny from the dashboard or on the go right from your mobile device.</li><li>Keep track of sessions, block elevation for system files, live-cancel user admin rights, set escalation period, and instantly shut down system process after session expiration.</li><li>Application Control enables white and blacklisting of any execution, and is the only app control that unifies with PAM.</li></ul><p>Benefits:</p><ul><li>Prevent malware from spreading through your networks.</li><li>Secure your networks inside and outside.</li><li>Deal with insider threats.</li><li>Protect your applications from unauthorized access.</li><li>Reduce the risk of data breaches.</li></ul>">
+							<a class="btn-products" data-toggle="popover" title="Privileges and Application Control" data-trigger="hover" data-placement="top" data-html="true" data-content="<strong>Privileged Access Management</strong><p>Build truly in depth automated defences with the only solution with PAM, zero-trust execution and automatic de-escalation of user rights on threat detection. Move beyond outdated rights management tools and finally put a stop to insider threat.</p><br><strong>Application Control</strong><p>Application management solution for whitelisting and blocking of running applications. Customize live sessions, log everything on the go, and prevent users from running malicious software.</p>">
 								Privileges and Application Control
 							</a>
 							<a class="btn-products" data-toggle="popover" title="Vulnerability Management" data-trigger="hover" data-placement="top" data-html="true" data-content="<strong>Heimdal® Patch & Asset Management</strong><br>Heimdal Patch & Asset Management: the next-gen, fully automated patching and software management solution.">
