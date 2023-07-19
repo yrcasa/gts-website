@@ -312,8 +312,8 @@
                                     <th scope="col"></th>
                                     <th scope="col text-center">NEEDS</th>
                                     <th scope="col text-center">WHO</th>
-                                    <th scope="col text-center">IPERF3 TRAFFIC <a href="#footer-notes"><sup>[2]</sup></a></th>
-                                    <th scope="col text-center">IMIX TRAFFIC <a href="#footer-notes"><sup>[3]</sup></a></th>
+                                    <th scope="col text-center">IPERF3 TRAFFIC</th>
+                                    <th scope="col text-center">IMIX TRAFFIC</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -338,19 +338,19 @@
                                     </td>
                                     <td>
                                         <ul style="list-style-type:none">
-                                            <li>L3 Forwarding: <strong>880 Mbps</strong></li>
-                                            <li>Firewall: <strong>656 Mbps</strong></li>
+                                            <li>L3 Forwarding: <strong>927 Mbps</strong></li>
+                                            <li>Firewall: <strong>607 Mbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>74.2 Mbps</strong></li>
+                                            <li>IPsec VPN: <strong>247 Mbps</strong></li>
                                             <li>(AES-128-CBC + SHA1)</li>
                                         </ul>
                                     </td>
                                     <td>
                                         <ul style="list-style-type:none">
-                                            <li>L3 Forwarding: <strong>480 Mbps</strong></li>
-                                            <li>Firewall: <strong>190 Mbps</strong></li>
+                                            <li>L3 Forwarding: <strong>472 Mbps</strong></li>
+                                            <li>Firewall: <strong>191 Mbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>46 Mbps</strong></li>
+                                            <li>IPsec VPN: <strong>90 Mbps</strong></li>
                                             <li>(AES-128-CBC + SHA1)</li>
                                         </ul>
                                     </td>
@@ -377,20 +377,20 @@
                                     </td>
                                     <td>
                                         <ul style="list-style-type:none">
-                                            <li>L3 Forwarding: <strong>1.56 Gbps</strong></li>
-                                            <li>Firewall: <strong>881 Mbps</strong></li>
+                                            <li>L3 Forwarding: <strong>2.20 Gbps</strong></li>
+                                            <li>Firewall: <strong>964 Mbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>118 Mbps</strong></li>
-                                            <li>(AES-128-CBC + SHA1)</li>
+                                            <li>IPsec VPN: <strong>254 Mbps</strong></li>
+                                            <li>(AES-128-CBC + AES-NI)</li>
                                         </ul>
                                     </td>
                                     <td>
                                         <ul style="list-style-type:none">
-                                            <li>L3 Forwarding: <strong>842 Mbps</strong></li>
-                                            <li>Firewall: <strong>314 Mbps</strong></li>
+                                            <li>L3 Forwarding: <strong>594 Mbps</strong></li>
+                                            <li>Firewall: <strong>249 Mbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>68 Mbps</strong></li>
-                                            <li>(AES-128-CBC + SHA1)</li>
+                                            <li>IPsec VPN: <strong>90 Mbps</strong></li>
+                                            <li>(AES-128-CBC + AES-NI)</li>
                                         </ul>
                                     </td>
                                 </tr>
@@ -577,20 +577,20 @@
                                     </td>
                                     <td>
                                         <ul style="list-style-type:none">
-                                            <li>L3 Forwarding: <strong>16.40 Gbps</strong></li>
-                                            <li>Firewall: <strong>14.48 Gbps</strong></li>
+                                            <li>L3 Forwarding: <strong>18.80 Gbps</strong></li>
+                                            <li>Firewall: <strong>18.62 Gbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>2.77 Gbps</strong></li>
-                                            <li>(AES-128-GCM / AES-NI)</li>
+                                            <li>IPsec VPN: <strong>7.12 Gbps</strong></li>
+                                            <li>(AES-128-GCM / QAT)</li>
                                         </ul>
                                     </td>
                                     <td>
                                         <ul style="list-style-type:none">
-                                            <li>L3 Forwarding: <strong>11.46 Gbps</strong></li>
-                                            <li>Firewall: <strong>5.00 Gbps</strong></li>
+                                            <li>L3 Forwarding: <strong>15.22 Gbps</strong></li>
+                                            <li>Firewall: <strong>10.24 Gbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>2.10 Gbps</strong></li>
-                                            <li>(AES-128-GCM / AES-NI)</li>
+                                            <li>IPsec VPN: <strong>1.65 Gbps</strong></li>
+                                            <li>(AES-128-GCM / QAT)</li>
                                         </ul>
                                     </td>
                                     </td>
@@ -618,20 +618,20 @@
                                     </td>
                                     <td>
                                         <ul style="list-style-type:none">
-                                            <li>L3 Forwarding: <strong>17.40 Gbps</strong></li>
-                                            <li>Firewall: <strong>14.63 Gbps</strong></li>
+                                            <li>L3 Forwarding: <strong>18.80 Gbps</strong></li>
+                                            <li>Firewall: <strong>18.64 Gbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>2.82 Gbps</strong></li>
-                                            <li>(AES-128-GCM / AES-NI)</li>
+                                            <li>IPsec VPN: <strong>9.30 Gbps</strong></li>
+                                            <li>(AES-128-GCM / QAT)</li>
                                         </ul>
                                     </td>
                                     <td>
                                         <ul style="list-style-type:none">
-                                            <li>L3 Forwarding: <strong>15.41 Gbps</strong></li>
-                                            <li>Firewall: <strong>6.10 Gbps</strong></li>
+                                            <li>L3 Forwarding: <strong>15.10 Gbps</strong></li>
+                                            <li>Firewall: <strong>12.30 Gbps</strong></li>
                                             <li>(10k ACLs)</li>
-                                            <li>IPsec VPN: <strong>2.81 Gbps</strong></li>
-                                            <li>(AES-128-GCM / AES-NI)</li>
+                                            <li>IPsec VPN: <strong>1.77 Gbps</strong></li>
+                                            <li>(AES-128-GCM / QAT)</li>
                                         </ul>
                                     </td>
                                 </tr>
