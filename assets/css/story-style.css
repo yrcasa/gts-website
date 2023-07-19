@@ -45,7 +45,15 @@ section {
 .story-description {
     font-family: 'General Sans', sans-serif;
     font-weight: 400;
+    font-size: 20px;
+    line-height: 1.5;
 }
+
+.story-vision {
+    font-family: 'General Sans', sans-serif;
+    font-weight: 400;
+}
+
 
 img {
     pointer-events: none;
