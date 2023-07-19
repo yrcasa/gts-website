@@ -128,53 +128,6 @@
                     <h5 class="story-description my-3" data-aos="fade-right">In 2014, the company added an enterprise grade Flight Information Display System (FIDS) to its portfolio. The 100% filipino-owned FIDS is now being used in more than 5 domestic and international airports in the Philippines. In 2015, the company also diversified into cybersecurity -- being awarded as the top performer for the next 3 years. It wasn't until 2018 that the company's business model was subsequently changed to IT Distribution and subsequently, the name Global Tiger Solutions was born. </h5>
                     <h5 class="story-description my-3" data-aos="fade-left">Over the years, Global Tiger Solutions (GTS) has forged partnerships with world-class cybersecurity and network security brands such as Panda Security, Watchguard, Bullguard, Heimdal Security, Norton and Netgate. GTS also added Anydesk, Agisoft, Foxit, Navicat and Visual Paradigm into its product portfolio. </h5>
                 </div>
-                <div class="row content my-4 justify-content-center">
-                    <h1 class="text-center" data-aos="fade-up">Global Tiger Solutions has developed partnerships with</h1>
-                    <div class="row row-center-mobile justify-content-center">
-                        <div class="col-md-2">
-                            <img src="assets/img/solutions/watchguard.webp" alt="Watchguard" data-aos="fade-up" width="120%">
-                        </div>
-                        <div class="col-md-2">
-                            <img src="assets/img/solutions/panda.webp" alt="Panda Security" data-aos="fade-up" data-aos-delay="100" width="120%">
-                        </div>
-                        <div class="col-md-2 mt-2 mx-1">
-                            <img src="assets/img/solutions/heimdal1.webp" alt="Heimdal" data-aos="fade-up" data-aos-delay="200" width="120%">
-                        </div>
-                        <div class="col-md-2 mt-3 ml-4">
-                            <img src="assets/img/solutions/norton.webp" alt="Norton" data-aos="fade-up" data-aos-delay="300" width="90%">
-                        </div>
-                        <div class="col-md-2 img-mobile mt-3 ml-0">
-                            <img src="assets/img/NetgateColorLogoRegisteredRGB.png" alt="Netgate" data-aos="fade-up" data-aos-delay="400" width="120%">
-                        </div>
-                    </div>
-                    <div class="row mx-3 justify-content-center my-3">
-                        <div class="col-md-2 ml-4 mt-2">
-                            <img src="assets/img/solutions/agisoft_v2.png" alt="Agisoft" data-aos="fade-up" data-aos-delay="0" width="100%">
-                        </div>
-                        <div class="col-md-2 mt-3">
-                            <img src="assets/img/solutions/anydesk.png" alt="Anydesk" data-aos="fade-up" data-aos-delay="100" width="100%">
-                        </div>
-                        <div class="col-md-2">
-                            <img src="assets/img/solutions/foxit-logo.webp" alt="Foxit" data-aos="fade-up" data-aos-delay="200" width="90%">
-                        </div>
-                        <div class="col-md-2 mt-2">
-                            <img src="assets/img/solutions/navicat_logo_rainbow.png" alt="Navicat" data-aos="fade-up" data-aos-delay="300" width="100%">
-                        </div>
-                        <div class="col-md-2 mt-2">
-                            <img src="assets/img/solutions/vplogo_300.png" alt="Visual Paradigm" data-aos="fade-up" data-aos-delay="400" width="100%">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row content">
-                    <div class="col-md-6 my-2 py-2">
-                        <h4 class="story-vision h4 text-justify" data-aos="zoom-out">Global Tiger Solutions' vision is to a be leading provider of sustainable systems, solutions and services that are tailor-fitted for a fast-paced community where innovation and integration is the backbone towards a progressive and sound management, where the future can be the present.</h4>
-                    </div>
-                    <div class="col-md-6">
-                        <img src="assets/img/5.png" alt="" data-aos="zoom-out" width="100%">
-                    </div>
-                </div>
             </div>
         </section>
         <?php include "visionmission.php" ?>
