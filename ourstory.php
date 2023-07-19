@@ -58,6 +58,7 @@
     <link rel="stylesheet" href="assets/css/story-style.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="../assets/css/products-styles/partners.css" rel="stylesheet">
+    <!-- <link href="../assets/css/about-style.css" rel="stylesheet"> -->
     <!-- =======================================================
 
 
@@ -108,52 +109,59 @@
         <?php include "navMenu.php" ?>
     </header>
     <main id="main">
-        <section id="story" class="story" style="padding-top: 100px !important; padding-bottom: 100px !important;">
+        <section id="story" class="story" style="padding-top: 100px !important;">
             <div class="container">
                 <div class="section-title" data-aos="zoom-out">
                     <p>Our Story</p>
                     <h2>Who We Are</h2>
                 </div>
-                <div class="row content py-2">
-                    <div class="col-md-5 col-sm-12 center-block my-4">
-                        <img src="assets/img/1.png" alt="" srcset="" width="100%" class="justify-content-center" data-aos="zoom-out">
+                <div class="row content pt-2">
+                    <div class="col-md-4 col-sm-12 center-block my-2">
+                        <img src="assets/img/gts_logo_only.png" alt="" srcset="" width="100%" class="justify-content-center" data-aos="zoom-out">
                     </div>
-                    <div class="col-md-7 col-sm-16 mt-4">
-                        <h4 class="story-description" data-aos="fade-right"><strong>Global Tiger Solutions</strong> was established in 2008 to focus mainly on systems integration and implementation of enterprise utilities solutions. It wasn't until 2018 that the company's business model was subsequently changed to IT Distribution.</h4>
-                        <h4 class="story-description my-3" data-aos="fade-left">Our solutions focus on the cybersecurity strategy of enterprises namely <strong>Threat Prevention</strong>, <strong>Endpoint Protection, Detection and Response (EPDR)</strong>, <strong>Privileges and Application Control (PAM)</strong>, and <strong>Threat Hunting</strong>.</h4>
+                    <div class="col-md-8 col-sm-16 mt-4 text-justify">
+                        <h5 class="story-description" data-aos="fade-right">Established in 2008, <strong>Global Tiger Solutions</strong> (Legal Name: Tiger Consulting and Software Devt Inc) started as a company that specializes in creating world class technology and applications outsourcing for utility companies, enterprises and online business customers. We use innovative engagement models, balancing a sophisticated understanding of business with a close attention to detail, to custom‐design our services and meet our client's offshore development needs.</h5>
+                        <h5 class="story-description my-3" data-aos="fade-left">In less than a year of operations, it has aggressively built a client‐base of utility companies by providing outsourcing services with products such as: Oracle Utilities Customer Care and Billing (CCB), Oracle Utilities Work and Asset Management (WAM), Oracle Utilities Outage Management System (OMS). Oracle Utilities Meter Data Management System (MDMS) and Oracle Utilities Business Intelligence (OU-BI).</h5>
                     </div>
                 </div>
+                <div class="text-justify">
+                    <h5 class="story-description my-3" data-aos="fade-right">In 2014, the company added an enterprise grade Flight Information Display System (FIDS) to its portfolio. The 100% filipino-owned FIDS is now being used in more than 5 domestic and international airports in the Philippines. In 2015, the company also diversified into cybersecurity -- being awarded as the top performer for the next 3 years. It wasn't until 2018 that the company's business model was subsequently changed to IT Distribution and subsequently, the name Global Tiger Solutions was born. </h5>
+                    <h5 class="story-description my-3" data-aos="fade-left">Over the years, Global Tiger Solutions (GTS) has forged partnerships with world-class cybersecurity and network security brands such as Panda Security, Watchguard, Bullguard, Heimdal Security, Norton and Netgate. GTS also added Anydesk, Agisoft, Foxit, Navicat and Visual Paradigm into its product portfolio. </h5>
+                </div>
                 <div class="row content my-4 justify-content-center">
-                    <h1 class="text-center" data-aos="fade-up">Over the years, Global Tiger Solutions has developed partnerships</h1>
-                    <div class="row row-center-mobile">
-                        <div class="col-md-3">
-                            <img src="assets/img/solutions/watchguard.webp" alt="Watchguard" data-aos="fade-up">
+                    <h1 class="text-center" data-aos="fade-up">Global Tiger Solutions has developed partnerships with</h1>
+                    <div class="row row-center-mobile justify-content-center">
+                        <div class="col-md-2">
+                            <img src="assets/img/solutions/watchguard.webp" alt="Watchguard" data-aos="fade-up" width="120%">
                         </div>
-                        <div class="col-md-3">
-                            <img src="assets/img/solutions/panda.webp" alt="Panda Security" data-aos="fade-up" data-aos-delay="100">
+                        <div class="col-md-2">
+                            <img src="assets/img/solutions/panda.webp" alt="Panda Security" data-aos="fade-up" data-aos-delay="100" width="120%">
                         </div>
-                        <div class="col-md-3 mt-3">
-                            <img src="assets/img/solutions/heimdal1.webp" alt="Heimdal" data-aos="fade-up" data-aos-delay="200" width="90%">
+                        <div class="col-md-2 mt-2 mx-1">
+                            <img src="assets/img/solutions/heimdal1.webp" alt="Heimdal" data-aos="fade-up" data-aos-delay="200" width="120%">
                         </div>
-                        <div class="col-md-3 mt-3">
+                        <div class="col-md-2 mt-3 ml-4">
                             <img src="assets/img/solutions/norton.webp" alt="Norton" data-aos="fade-up" data-aos-delay="300" width="90%">
+                        </div>
+                        <div class="col-md-2 img-mobile mt-3 ml-0">
+                            <img src="assets/img/NetgateColorLogoRegisteredRGB.png" alt="Netgate" data-aos="fade-up" data-aos-delay="400" width="120%">
                         </div>
                     </div>
                     <div class="row mx-3 justify-content-center my-3">
-                        <div class="col-md-2 img-mobile mt-2">
-                            <img src="assets/img/NetgateColorLogoRegisteredRGB.png" alt="Netgate" data-aos="fade-up" width="120%">
-                        </div>
                         <div class="col-md-2 ml-4 mt-2">
-                            <img src="assets/img/solutions/agisoft_v2.png" alt="Panda Security" data-aos="fade-up" data-aos-delay="100" width="100%">
+                            <img src="assets/img/solutions/agisoft_v2.png" alt="Agisoft" data-aos="fade-up" data-aos-delay="0" width="100%">
                         </div>
                         <div class="col-md-2 mt-3">
-                            <img src="assets/img/solutions/anydesk.png" alt="Heimdal" data-aos="fade-up" data-aos-delay="200" width="100%">
+                            <img src="assets/img/solutions/anydesk.png" alt="Anydesk" data-aos="fade-up" data-aos-delay="100" width="100%">
                         </div>
                         <div class="col-md-2">
-                            <img src="assets/img/solutions/foxit-logo.webp" alt="Norton" data-aos="fade-up" data-aos-delay="300" width="90%">
+                            <img src="assets/img/solutions/foxit-logo.webp" alt="Foxit" data-aos="fade-up" data-aos-delay="200" width="90%">
                         </div>
                         <div class="col-md-2 mt-2">
-                            <img src="assets/img/solutions/navicat_logo_rainbow.png" alt="Norton" data-aos="fade-up" data-aos-delay="400" width="100%">
+                            <img src="assets/img/solutions/navicat_logo_rainbow.png" alt="Navicat" data-aos="fade-up" data-aos-delay="300" width="100%">
+                        </div>
+                        <div class="col-md-2 mt-2">
+                            <img src="assets/img/solutions/vplogo_300.png" alt="Visual Paradigm" data-aos="fade-up" data-aos-delay="400" width="100%">
                         </div>
                     </div>
                 </div>
@@ -161,7 +169,7 @@
             <div class="container">
                 <div class="row content">
                     <div class="col-md-6 my-2 py-2">
-                        <h4 class="story-description h4 text-justify" data-aos="zoom-out">Global Tiger Solutions' vision is to a be leading provider of sustainable systems, solutions and services that are tailor-fitted for a fast-paced community where innovation and integration is the backbone towards a progressive and sound management, where the future can be the present.</h4>
+                        <h4 class="story-vision h4 text-justify" data-aos="zoom-out">Global Tiger Solutions' vision is to a be leading provider of sustainable systems, solutions and services that are tailor-fitted for a fast-paced community where innovation and integration is the backbone towards a progressive and sound management, where the future can be the present.</h4>
                     </div>
                     <div class="col-md-6">
                         <img src="assets/img/5.png" alt="" data-aos="zoom-out" width="100%">
@@ -169,6 +177,8 @@
                 </div>
             </div>
         </section>
+        <?php include "visionmission.php" ?>
+        <?php include "corevalues.php" ?>
     </main>
     <footer>
         <?php include "footer.php" ?>
