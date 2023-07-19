@@ -73,6 +73,7 @@
 						<div class="dropdown-menu my-3 p-2">
 							<a class="dropdown-item" href="https://globaltigersolutions.com/ourstory.php">Our Story</a>
 							<a class="dropdown-item" href="https://globaltigersolutions.com/careers.php">Careers</a>
+							<a class="dropdown-item" href="https://forms.gle/pXohWWhasomMH7mx8">Become A Partner</a>
 						</div>
 					</li>
 					<li class="nav-item dropdown">
