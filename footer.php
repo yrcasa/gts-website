@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 <footer id="footer">
     <!-- <div class="row copyright justify-content-center py-1"><img src="assets/img/tcsdi_icon.ico" alt="" srcset="" width="40px"><p class="ml-2 h4 font-weight-bold">Global Tiger Solutions</p></div> -->
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 row-cols-lg-8 py-2 my-2 mx-5 px-5">
@@ -10,7 +11,7 @@
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Partners</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/tcsdi_products.php">Products</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/contact.php">Contact Us</a></li>
-                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/contact.php">Become A Partner</a></li>
+                <li class="nav-item mb-0"><a href="https://forms.gle/pXohWWhasomMH7mx8">Become A Partner</a></li>
             </ul>
         </div>
 
