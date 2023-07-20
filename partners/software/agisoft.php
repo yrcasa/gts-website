@@ -86,7 +86,7 @@
         </div>
       </div>
     </section>
-    <section class="my-4">
+    <section class="partner my-4">
       <div class="container">
         <div class="row content">
           <div class="col-md-6 col-sm-12">
@@ -106,8 +106,8 @@
             <p> Global Tiger Solutions is an authorized reseller of Agisoft Products. </p>
             <h4><strong>For inquiries, please contact:</strong></h4>
             <ul>
-              <li><i class="ri-check-double-line"></i> <?php echo $directContact; ?></li>
-              <li><i class="ri-check-double-line"></i> <?php echo $emailSales; ?></li>
+              <li><i class="ri-check-double-line"></i><span class="font-extrabold font-italic contactDetails"><?php echo $directContact; ?></span></li>
+              <li><i class="ri-check-double-line"></i><span class="font-extrabold font-italic contactDetails"><?php echo $emailSales; ?></span></li>
             </ul>
             <a class="btn-learn-more" href="../../partner.php#softwarePartners">
               <i class="icofont-arrow-left"></i> Partners </a>

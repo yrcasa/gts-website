@@ -471,6 +471,19 @@
         <img src="../../assets/img/productpagebanner/foxit/foxit_img.webp" alt="" class="object-fit-cover w-100">
       </div>
     </section>
+    <section class="partner">
+      <div class="container">
+        <div class="row content">
+          <div class="col-md-6">
+            <h4><strong>For inquiries, please contact:</strong></h4>
+            <ul>
+              <li><i class="ri-check-double-line"></i><span class=""><?php echo $directContact; ?></span></li>
+              <li><i class="ri-check-double-line"></i><span class=""><?php echo $emailSales; ?></span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
     <!-- ======= Partner  Section ======= -->
   </main>
   <!-- Footer Section from the main directory  --> <?php include "../../footer.php" ?> <!--End Footer Section -->

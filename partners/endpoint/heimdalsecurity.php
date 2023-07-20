@@ -1,4 +1,4 @@
-<?php include("../../loader.php")?>
+<?php include("../../loader.php") ?> <?php include("../../contactDetails.php") ?>
 <!DOCTYPE html>
 
 <html lang="en">
@@ -263,7 +263,19 @@
         <img src="../../assets/img/heimdal.webp" alt="" class="w-100">
       </div>
     </section>
-
+    <section class="partner">
+      <div class="container">
+        <div class="row content">
+          <div class="col-md-6">
+            <h4><strong>For inquiries, please contact:</strong></h4>
+            <ul>
+              <li><i class="ri-check-double-line"></i><span class=""><?php echo $directContact; ?></span></li>
+              <li><i class="ri-check-double-line"></i><span class=""><?php echo $emailSales; ?></span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
     <!-- <> -->

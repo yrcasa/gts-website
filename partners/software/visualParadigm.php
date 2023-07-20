@@ -85,7 +85,7 @@
         </div>
       </div>
     </section>
-    <section>
+    <section class="partner">
       <div class="container">
         <div class="row content">
           <div class="col-md-6 col-sm-12">

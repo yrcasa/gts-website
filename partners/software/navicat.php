@@ -98,7 +98,7 @@
         </div>
       </div>
     </section>
-    <section class="my-4">
+    <section class="partner my-4">
       <div class="container">
         <div class="row content">
 
