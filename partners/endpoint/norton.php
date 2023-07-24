@@ -244,9 +244,9 @@
                             <li><i class="ri-check-double-line"></i> <?php echo $directContact; ?></li>
                             <li><i class="ri-check-double-line"></i> <?php echo $emailSales; ?></li>
                         </ul>
-                        <a class="btn-learn-more" href="../../partner.php">
+                        <!-- <a class="btn-learn-more" href="../../partner.php">
                             <i class="icofont-arrow-left"></i> Partners 
-                        </a>
+                        </a> -->
                     </div>
                 </div>
             </div>

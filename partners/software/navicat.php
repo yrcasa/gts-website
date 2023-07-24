@@ -147,10 +147,10 @@
               <li><i class="ri-check-double-line"></i> <?php echo $emailSales; ?></li>
             </ul>
 
-            <a class="btn-learn-more" href="../../partner.php#softwarePartners">
+            <!-- <a class="btn-learn-more" href="../../partner.php#softwarePartners">
               <i class="icofont-arrow-left"></i>
               Partners
-            </a>
+            </a> -->
           </div>
 
         </div>

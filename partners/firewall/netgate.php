@@ -293,8 +293,8 @@
                             <li><i class="ri-check-double-line"></i><span class="font-extrabold font-italic contactDetails"><?php echo $directContact; ?></span></li>
                             <li><i class="ri-check-double-line"></i><span class="font-extrabold font-italic contactDetails"><?php echo $emailSales; ?></span></li>
                         </ul>
-                        <a class="btn-learn-more" ref="../../partner.php#softwarePartners">
-                            <i class="icofont-arrow-left"></i> Partners </a>
+                        <!-- <a class="btn-learn-more" ref="../../partner.php#softwarePartners">
+                            <i class="icofont-arrow-left"></i> Partners </a> -->
                     </div>
                     <div class="col">
                         <h2 style="color: #2a78be">Find the Ideal Appliance for Your Needs</h2>
