@@ -425,7 +425,8 @@
               </div>
             </div>
           </div>
-        </section><!-- End Pricing Section -->
+        </section>
+        <!-- End Pricing Section -->
         <!-- ======= Pricing Section ======= -->
         <!-- <section id="upc" class="pricing text-center">
             <div id="powerSupply" class="section-sub-title text-center" data-aos="zoom-out">
@@ -463,7 +464,8 @@
                     </div> -->
       </div>
       </div>
-    </section>End Pricing Section -->
+    </section>
+    <!-- End Pricing Section -->
     </section>
     </div>
     </section>
