@@ -8,7 +8,7 @@
                 <li class="nav-item mb-0"><a href="http://globaltigersolutions.com/ourstory.php" class="text-decoration-none">Our Story</a></li>
                 <li class="nav-item mb-0"><a href="http://globaltigersolutions.com/careers.php">Careers</a></li>
                 <!-- <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/products/downloads/">Resources</a></li> -->
-                <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Partners</a></li>
+                <!-- <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/partner.php">Partners</a></li> -->
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/tcsdi_products.php">Products</a></li>
                 <li class="nav-item mb-0"><a href="https://globaltigersolutions.com/contact.php">Contact Us</a></li>
                 <li class="nav-item mb-0"><a href="https://forms.gle/pXohWWhasomMH7mx8">Become A Partner</a></li>
@@ -60,6 +60,6 @@
 
 
 
-    <div class="copyright">Copyright &copy;2023 Global Tiger Solutions, All rights reserved.</div>
+    <div class="copyright">Copyright &copy;<script>document.write(/\d{4}/.exec(Date())[0])</script> Global Tiger Solutions, All rights reserved.</div>
 
 </footer>
