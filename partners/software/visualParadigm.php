@@ -91,7 +91,7 @@
           <div class="col-md-6 col-sm-12">
             <img src="../../assets/img/productpagebanner/visualParadigm/Visual_Paradigm_screenshot.png" width="100%">
             <br>
-            <h4><strong>Products:</strong></h4>
+            <h4 class="pt-4"><strong>Products:</strong></h4>
             <ul>
               <li><i class="ri-check-double-line"></i>Visual Paradigm Enterprise Edition</li>
               <li><i class="ri-check-double-line"></i>Visual Paradigm Professional Edition</li>

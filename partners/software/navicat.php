@@ -114,12 +114,15 @@
               <li><i class="ri-check-double-line"></i>Navicat for MySQL</li>
               <li><i class="ri-check-double-line"></i>Navicat for SQLServer</li>
               <li><i class="ri-check-double-line"></i>Navicat for PostgreSQL</li>
+              <li><i class="ri-check-double-line"></i>Navicat for MongoDB</li>
               <li><i class="ri-check-double-line"></i>Navicat for Oracle</li>
               <li><i class="ri-check-double-line"></i>Navicat for SQLite</li>
+              <li><i class="ri-check-double-line"></i>Navicat for Redis</li>
               <li><i class="ri-check-double-line"></i>Navicat Cloud</li>
               <li><i class="ri-check-double-line"></i>Navicat Data Modeler</li>
               <li><i class="ri-check-double-line"></i>Navicat Monitor</li>
               <li><i class="ri-check-double-line"></i>Navicat Charts Creator</li>
+              <li><i class="ri-check-double-line"></i>Navicat Charts Viewer</li>
               <li><i class="ri-check-double-line"></i>Navicat On-Perm Server</li>
             </ul>
 

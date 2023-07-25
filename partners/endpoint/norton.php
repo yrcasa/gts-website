@@ -223,7 +223,7 @@
             <div class="container">
                 <div class="row content">
                     <div class="col-md-6 col-sm-12">
-                        <img src="../../assets/img/norton_logo.png" width="90%">
+                        <img src="../../assets/img/norton_logo.png" width="90%" class="py-3">
                         <br>
                         <h4><strong>Products:</strong></h4>
                         <ul>

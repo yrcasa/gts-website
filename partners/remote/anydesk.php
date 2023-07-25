@@ -212,7 +212,7 @@
                 <td>Comprehensive feature set for small teams.</td>
                 <td>Extensive feature set to support additional business needs.</td>
               </tr>
-              <tr class="border-right border-danger">
+              <tr class="border-right border-danger list-unordered">
                 <td>
                   <ul>
                     <li>1 licensed user with 3 login devices</li>
@@ -262,6 +262,9 @@
       <div class="container">
         <div class="row content">
           <div class="col-md-6">
+            <div class="section-title pb-4">
+              <h2 class="text-muted">Contact Us</h2>
+            </div>
             <h4><strong>For inquiries, please contact:</strong></h4>
             <ul>
               <li><i class="ri-check-double-line"></i><span class=""><?php echo $directContact; ?></span></li>

@@ -92,7 +92,7 @@
           <div class="col-md-6 col-sm-12">
             <img src="../../assets/img/productpagebanner/agisoft/agisoft_prodbanner.jpg" width="60%" height="60%">
             <br>
-            <h4><strong>Products:</strong></h4>
+            <h4 class="pt-4"><strong>Products:</strong></h4>
             <ul>
               <li><i class="ri-check-double-line"></i>Agisoft Metashape Professional Edition</li>
               <li><i class="ri-check-double-line"></i>Agisoft Metashape Standard Edition</li>
