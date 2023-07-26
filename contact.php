@@ -109,7 +109,7 @@
 							<i class="las la-handshake" style="color: #e9bf06; font-size:100px; padding-bottom: 30px;"></i>
 							<p class="par">We can help you boost your profits and grow your business.</p>
 							<a href="mailto:<?php echo $emailPartners; ?>"><?php echo $emailPartners; ?></a>
-							<a href="https://forms.gle/pXohWWhasomMH7mx8" class="btn-background my-2">Engage With Us</a>
+							<a href="https://forms.gle/yNNFPhhCqxinoLPC6" class="btn-background my-2">Engage With Us</a>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
