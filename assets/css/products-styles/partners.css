@@ -1130,15 +1130,6 @@ section {
   padding: auto;
 }
 
-.watchguard-header {
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 1), rgba(0, 0, 0, 0)), url('../../img/Wayfinding_Circuit_Design_page-0001.jpg');
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  width: 100%;
-  padding: 200px 0;
-}
-
 .navicat {
   background-image:
     url('../../img/productpagebanner/navicat/navicat-bg.png');
