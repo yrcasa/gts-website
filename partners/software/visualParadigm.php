@@ -9,7 +9,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="Author" content="Tiger Consulting and Software Devt Inc.">
   <!--<meta name="robots" content="index,follow">-->
-  <meta name="Description" content="Tiger Consulting is an authorized reseller of Valentin Software products.">
+  <meta name="Description" content="Tiger Consulting is an authorized reseller of Visual Paradigm products.">
   <meta name="keywords" content="valentin, valentin software, tcsdi valentin software, tiger valentin software, tiger consulting valentin software, authorized reseller valentin, authorized reseller of valentin, authorized re-seller valentin, authorized re-seller of valentin, valentin authorized reseller, valentin authorized re-seller">
   <title>Products - Visual Paradigm | Global Tiger Solutions</title>
   <!-- Favicons -->
