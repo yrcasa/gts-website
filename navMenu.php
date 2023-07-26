@@ -67,7 +67,7 @@
 						<a class="nav-link" href="https://globaltigersolutions.com/index.php">Home <span class="sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="https://globaltigersolutions.com/about.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							About Us
 						</a>
 						<div class="dropdown-menu my-3 p-2">
