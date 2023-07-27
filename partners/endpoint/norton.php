@@ -210,7 +210,7 @@
             <div class="container">
                 <div class="row" data-aos="zoom-out">
                     <div class="col-lg-6 text-center text-lg-left">
-                    <img src="../../assets/img/solutions/norton.png" class="w-75 mb-3">
+                        <img src="../../assets/img/solutions/norton.png" class="w-75 mb-3">
                         <p class="text-dark">Norton 360. Comprehensive protection with device security including antivirus, a password manager and more. All in a single solution. </p>
                     </div>
                     <div class="col-lg-3 cta-btn-container text-center">
@@ -223,18 +223,44 @@
             <div class="container">
                 <div class="row content">
                     <div class="col-md-6 col-sm-12">
-                        <img src="../../assets/img/norton_logo.png" width="90%" class="py-3">
-                        <br>
-                        <h4><strong>Products:</strong></h4>
+                        <h4 class="py-3"><strong>Products:</strong></h4>
                         <ul>
-                            <li><i class="ri-check-double-line"></i>Norton Antivirus Plus</li>
-                            <li><i class="ri-check-double-line"></i>Norton 360 Standard</li>
-                            <li><i class="ri-check-double-line"></i>Norton 360 Deluxe</li>
-                            <li><i class="ri-check-double-line"></i>Norton 360 for Gamers</li>
+                            <div class="row content">
+                                <div class="col-md-6">
+                                    <img src="../../assets/img/productpagebanner/norton/NAV_1Device.webp" - alt="" width="100%">
+                                    <div class="py-2">
+                                        <li><i class="ri-check-double-line"></i>Norton Antivirus Plus</li>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="../../assets/img/productpagebanner/norton/N360_STD_3D.webp" alt="" width="100%">
+                                    <div class="py-2">
+                                        <li><i class="ri-check-double-line"></i>Norton 360 Standard</li>
+                                    </div>
+                                </div>
+                            </div>
+                            <hr>
+                            <div class="row content">
+                                <div class="col-md-6">
+                                    <img src="../../assets/img/productpagebanner/norton/N360_DLX_3D.webp" alt="" width="100%">
+                                    <div class="py-2">
+                                        <li><i class="ri-check-double-line"></i>Norton 360 Deluxe</li>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="../../assets/img/productpagebanner/norton/N360_GAMER_3D.webp" alt="" width="100%">
+                                    <div class="py-2">
+                                        <li><i class="ri-check-double-line"></i>Norton 360 for Gamers</li>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
                         </ul>
                     </div>
                     <div class="col-md-6 col-sm-12">
-                        <h1> NORTON CYBER SAFETY </h1>
+                        <img src="../../assets/img/norton_logo.png" width="90%" class="py-3">
                         <p> Norton, founded in 1990 by Peter Norton, has a rich history in the cybersecurity industry. Initially known for its software utility products, Norton gained popularity with Norton Utilities, a suite of tools that optimized and maintained DOS-based computers. In 1990, Symantec Corporation acquired Peter Norton Computing Inc., paving the way for Norton's transition into antivirus and internet security solutions. Today, Norton is a trusted brand offering comprehensive protection against malware, viruses, and online threats. With its innovative features, user-friendly interface, and a focus on continuous adaptation, Norton remains at the forefront of the cybersecurity landscape, ensuring a secure digital experience for individuals and businesses alike. </p>
                         <p> Norton's products typically include features such as real-time threat detection, firewall protection, secure browsing, password management, and secure cloud backup. With a strong emphasis on user-friendly interfaces and robust protection, Norton aims to safeguard users' online activities and personal information, helping them stay safe in the constantly evolving digital landscape. </p>
                         <p> Norton has been honored with the prestigious PCMag Editors' Choice Award for its Norton 360 Deluxe suite. This recognition celebrates Norton's innovative features, user-friendly interface, and comprehensive protection, demonstrating its commitment to delivering top-quality cybersecurity solutions for users across multiple devices. </p>
@@ -249,6 +275,11 @@
                         </a> -->
                     </div>
                 </div>
+            </div>
+        </section>
+        <section class="py-3">
+            <div class="container">
+                <img src="../../assets/img/productpagebanner/norton/norton_datasheet.webp" alt="" width="100%">
             </div>
         </section>
         <!-- ======= Partner  Section ======= -->
