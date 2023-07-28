@@ -1121,7 +1121,7 @@ section {
 }
 
 .watchguard {
-  background-image: url('../../img/productpagebanner/watchguard/PP_Shout_XDR_ThreatSync.png');
+  background-image: url('../../img/productpagebanner/watchguard/PP_Shout_XDR_ThreatSync.webp');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100% 100%;
@@ -1210,7 +1210,7 @@ section {
 
 @media only screen and (max-width: 1366px) {
   .watchguard {
-    background-image: url('../../img/productpagebanner/watchguard/PP_Shout_XDR_ThreatSync.jpg');
+    background-image: url('../../img/productpagebanner/watchguard/PP_Shout_XDR_ThreatSync.webp');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% 100%;
@@ -1233,12 +1233,12 @@ section {
   }
 
   .watchguard {
-    background-image: url('../../img/productpagebanner/watchguard/PP_Shout_XDR_ThreatSync.jpg');
+    background-image: url('../../img/productpagebanner/watchguard/PP_Shout_XDR_ThreatSync.webp');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% 100%;
     width: 100%;
-    height: 30%;
+    height: 20%;
   }
 }
 
