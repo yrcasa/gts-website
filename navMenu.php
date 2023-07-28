@@ -73,7 +73,7 @@
 						<div class="dropdown-menu my-3 p-2">
 							<a class="dropdown-item" href="https://globaltigersolutions.com/ourstory.php">Our Story</a>
 							<a class="dropdown-item" href="https://globaltigersolutions.com/careers.php">Careers</a>
-							<a class="dropdown-item" href="https://forms.gle/pXohWWhasomMH7mx8">Become A Partner</a>
+							<a class="dropdown-item" href="https://forms.gle/yNNFPhhCqxinoLPC6">Become A Partner</a>
 						</div>
 					</li>
 					<li class="nav-item dropdown">
@@ -86,7 +86,7 @@
 							<a class="dropdown-item" href="https://globaltigersolutions.com/solutions/privilegedAccess.php">Privileges and Application Control</a>
 							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/remote/anydesk.php">Remote Access and Monitoring Security</a>
 							<a class="dropdown-item" href="https://globaltigersolutions.com/products/enterprise/zeus.php">Aviation Solutions</a>
-							<a class="dropdown-item" href="https://globaltigersolutions.com/partners/software/foxit.php">Productivity Solutions</a>
+							<a class="dropdown-item" href="https://globaltigersolutions.com/solutions/productivity.php">Productivity Solutions</a>
 						</div>
 					</li>
 					<li class="nav-item dropdown">
