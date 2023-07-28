@@ -251,7 +251,7 @@
                     <lI><i class="ri-check-double-line"></i> Assist with filing, recording and maintaining accurate and complete accounting documents. </lI>
                     <lI><i class="ri-check-double-line"></i> Work as part of the Accounting team to compile and analyze data, track information and support the company. </lI>
                   </ul>
-                  <P> If you think that you are the one we're looking for, send us your resume with picture and transcript of records at careers@globaltigersolutions.com .Kindly indicate (your name - position you are applying for) as your subject. </P>
+                  <P> If you think that you are the one we're looking for, send us your resume with picture and transcript of records at careers@tigerconsulting.net .Kindly indicate (your name - position you are applying for) as your subject. </P>
                   </p>
                 </div>
               </div>
