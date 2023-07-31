@@ -9,99 +9,113 @@
 
 <url>
   <loc>https://globaltigersolutions.com/</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://globaltigersolutions.com/index.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/about.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://globaltigersolutions.com/ourstory.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://globaltigersolutions.com/careers.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://globaltigersolutions.com/solutions/endpoint.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://globaltigersolutions.com/solutions/networkSecurity.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://globaltigersolutions.com/solutions/privilegedAccess.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://globaltigersolutions.com/partners/remote/anydesk.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://globaltigersolutions.com/products/enterprise/zeus.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/partners/software/foxit.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/partners/firewall/watchguard.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/partners/endpoint/norton.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/partners/firewall/netgate.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/partners/software/agisoft.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/partners/software/navicat.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/partners/software/visualParadigm.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/contact.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/solutions/remote.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
-</url>
-<url>
-  <loc>https://globaltigersolutions.com/solutions/aviation.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://globaltigersolutions.com/solutions/productivity.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://globaltigersolutions.com/tcsdi_products.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <loc>https://globaltigersolutions.com/partners/firewall/watchguard.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://globaltigersolutions.com/newsroom/index.php</loc>
-  <lastmod>2023-07-26T01:27:15+00:00</lastmod>
+  <loc>https://globaltigersolutions.com/partners/endpoint/norton.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/partners/endpoint/heimdalsecurity.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/partners/firewall/netgate.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/partners/software/agisoft.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/partners/software/foxit.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/partners/software/navicat.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/partners/software/visualParadigm.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/contact.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/solutions/remote.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/solutions/aviation.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://globaltigersolutions.com/solutions.php</loc>
+  <lastmod>2023-07-31T06:46:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
