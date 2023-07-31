@@ -58,8 +58,8 @@
 <body>
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center ">
-		<?php include "../../navMenu.php" ?>
-	</header><!-- End Header -->
+    <?php include "../../navMenu.php" ?>
+  </header><!-- End Header -->
   <!-- End Header -->
   <main id="main">
     <section id="partner" class="partner" style="padding-top: 100px !important;">
@@ -71,10 +71,11 @@
         </div>
         <div class="row content">
           <div class="col-md-6 col-sm-12">
-            <img src="../../assets/img/productpagebanner/autodesk/banner_autodesk_autocadlt.jpg" width="90%">
+          <img src="../../assets/img/productpagebanner/autodesk/autodesk-logo-transparent-background.svg" width="90%">
             <br>
             <h4><strong>Products:</strong></h4>
-            <ul>
+            <img src="../../assets/img/productpagebanner/autodesk/autodesk-autocad-2024-whats-new.jpg" width="90%" class="py-1">
+            <ul class="py-3">
               <li><i class="ri-check-double-line"></i>AutoCAD LT</li>
             </ul>
           </div>
@@ -87,13 +88,11 @@
               <li><i class="ri-check-double-line"></i> <?php echo $directContact; ?></li>
               <li><i class="ri-check-double-line"></i> <?php echo $emailSales; ?></li>
             </ul>
-            <a class="btn-learn-more" href="../../partner.php#softwarePartners">
-              <i class="icofont-arrow-left"></i> Partners </a>
           </div>
         </div>
       </div>
     </section>
-    <!-- ======= Partner  Section ======= -->  
+    <!-- ======= Partner  Section ======= -->
   </main>
   <!-- Footer Section  --> <?php include "../../footer.php" ?> <!--End Footer Section -->
   <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
