@@ -2,4 +2,4 @@
 
 **4th proposal layout for Tiger's V2 Website**
 
-Edited by Yvan Roi Casa
+Edited by Yvan Roi Casa / Previous IT Support Trainee
